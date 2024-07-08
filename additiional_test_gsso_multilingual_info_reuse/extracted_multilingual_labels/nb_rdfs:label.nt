@@ -1,0 +1,16 @@
+<http://purl.obolibrary.org/obo/GSSO_002862> <http://www.w3.org/2000/01/rdf-schema#label> "transfobi"@nb .
+<http://purl.obolibrary.org/obo/GSSO_001506> <http://www.w3.org/2000/01/rdf-schema#label> "hermafrodittisme"@nb .
+<http://purl.obolibrary.org/obo/GSSO_000109> <http://www.w3.org/2000/01/rdf-schema#label> "intersex"@nb .
+<http://purl.obolibrary.org/obo/GSSO_008952> <http://www.w3.org/2000/01/rdf-schema#label> "hermafroditt"@nb .
+<http://purl.obolibrary.org/obo/GSSO_004063> <http://www.w3.org/2000/01/rdf-schema#label> "tredje kjønn‎"@nb .
+<http://purl.obolibrary.org/obo/GSSO_002306> <http://www.w3.org/2000/01/rdf-schema#label> "kathoey"@nb .
+<http://purl.obolibrary.org/obo/GSSO_001444> <http://www.w3.org/2000/01/rdf-schema#label> "transseksuell"@nb .
+<http://purl.obolibrary.org/obo/GSSO_001268> <http://www.w3.org/2000/01/rdf-schema#label> "transseksualisme"@nb .
+<http://purl.obolibrary.org/obo/GSSO_000372> <http://www.w3.org/2000/01/rdf-schema#label> "transkjønnet mann"@nb .
+<http://purl.obolibrary.org/obo/GSSO_005757> <http://www.w3.org/2000/01/rdf-schema#label> "transvestitt"@nb .
+<http://purl.bioontology.org/ontology/MESH/D014424> <http://www.w3.org/2000/01/rdf-schema#label> "Turners syndrom"@nb .
+<http://purl.obolibrary.org/obo/GSSO_000384> <http://www.w3.org/2000/01/rdf-schema#label> "transkjønnet kvinne"@nb .
+<http://purl.obolibrary.org/obo/GSSO_000096> <http://www.w3.org/2000/01/rdf-schema#label> "transkjønnet"@nb .
+<http://purl.obolibrary.org/obo/GSSO_001283> <http://www.w3.org/2000/01/rdf-schema#label> "transvestisme"@nb .
+<http://purl.bioontology.org/ontology/MESH/D007713> <http://www.w3.org/2000/01/rdf-schema#label> "Klinefelters syndrome"@nb .
+<http://purl.obolibrary.org/obo/GSSO_000137> <http://www.w3.org/2000/01/rdf-schema#label> "LHBT"@nb .

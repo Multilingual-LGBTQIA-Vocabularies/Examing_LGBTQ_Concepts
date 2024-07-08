@@ -1,0 +1,51 @@
+<http://purl.obolibrary.org/obo/GSSO_000345> <http://www.w3.org/2002/07/owl#annotatedTarget> "kuir"@tr .
+<http://purl.obolibrary.org/obo/GSSO_000376> <http://www.w3.org/2002/07/owl#annotatedTarget> "erkeklerle cinsel ilişkiye giren erkekler"@tr .
+<http://purl.obolibrary.org/obo/GSSO_000131> <http://www.w3.org/2002/07/owl#annotatedTarget> "genderqueer"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001406> <http://www.w3.org/2002/07/owl#annotatedTarget> "ablacı"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001406> <http://www.w3.org/2002/07/owl#annotatedTarget> "erkeksi lezbiyen"@tr .
+<http://purl.obolibrary.org/obo/GSSO_000413> <http://www.w3.org/2002/07/owl#annotatedTarget> "cinsel rol davranışı"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001434> <http://www.w3.org/2002/07/owl#annotatedTarget> "ibne"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001763> <http://www.w3.org/2002/07/owl#annotatedTarget> "drag king"@tr .
+<http://purl.obolibrary.org/obo/NCIT_C84361> <http://www.w3.org/2002/07/owl#annotatedTarget> "cinsel yönelim"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001790> <http://www.w3.org/2002/07/owl#annotatedTarget> "LGBTİ"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001434> <http://www.w3.org/2002/07/owl#annotatedTarget> "götveren"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001590> <http://www.w3.org/2002/07/owl#annotatedTarget> "biseksüel"@tr .
+<http://purl.obolibrary.org/obo/NCIT_C155696> <http://www.w3.org/2002/07/owl#annotatedTarget> "aseksüel"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001592> <http://www.w3.org/2002/07/owl#annotatedTarget> "düzcinsel"@tr .
+<http://purl.obolibrary.org/obo/GSSO_000379> <http://www.w3.org/2002/07/owl#annotatedTarget> "kadınlarla cinsel ilişkiye giren kadınlar"@tr .
+<http://purl.obolibrary.org/obo/NCIT_C17357> <http://www.w3.org/2002/07/owl#annotatedTarget> "toplumsal cinsiyet"@tr .
+<http://purl.obolibrary.org/obo/GSSO_000088> <http://www.w3.org/2002/07/owl#annotatedTarget> "cinsiyet ifadesi"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001333> <http://www.w3.org/2002/07/owl#annotatedTarget> "karşıt-giysicilik"@tr .
+<http://purl.obolibrary.org/obo/GSSO_000381> <http://www.w3.org/2002/07/owl#annotatedTarget> "sevici"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001434> <http://www.w3.org/2002/07/owl#annotatedTarget> "yuvarlak"@tr .
+<http://purl.obolibrary.org/obo/GSSO_000381> <http://www.w3.org/2002/07/owl#annotatedTarget> "lezbiyen"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001444> <http://www.w3.org/2002/07/owl#annotatedTarget> "transeksüel"@tr .
+<http://purl.obolibrary.org/obo/GSSO_000372> <http://www.w3.org/2002/07/owl#annotatedTarget> "trans erkek"@tr .
+<http://purl.obolibrary.org/obo/GSSO_000109> <http://www.w3.org/2002/07/owl#annotatedTarget> "interseks"@tr .
+<http://purl.obolibrary.org/obo/GSSO_000231> <http://www.w3.org/2002/07/owl#annotatedTarget> "cinsel veya cinsiyet azınlıkları"@tr .
+<http://purl.obolibrary.org/obo/GSSO_000345> <http://www.w3.org/2002/07/owl#annotatedTarget> "queer"@tr .
+<http://purl.obolibrary.org/obo/GSSO_009442> <http://www.w3.org/2002/07/owl#annotatedTarget> "açığa vurma"@tr .
+<http://purl.obolibrary.org/obo/GSSO_007169> <http://www.w3.org/2002/07/owl#annotatedTarget> "cinsiyet yüksüz"@tr .
+<http://purl.obolibrary.org/obo/GSSO_004240> <http://www.w3.org/2002/07/owl#annotatedTarget> "na-trans"@tr .
+<http://purl.obolibrary.org/obo/GSSO_011315> <http://www.w3.org/2002/07/owl#annotatedTarget> "heteronormatif"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001434> <http://www.w3.org/2002/07/owl#annotatedTarget> "karı kılıklı"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001762> <http://www.w3.org/2002/07/owl#annotatedTarget> "drag queen"@tr .
+<http://purl.obolibrary.org/obo/GSSO_003306> <http://www.w3.org/2002/07/owl#annotatedTarget> "açılmak"@tr .
+<http://purl.obolibrary.org/obo/GSSO_000384> <http://www.w3.org/2002/07/owl#annotatedTarget> "trans kadın"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001434> <http://www.w3.org/2002/07/owl#annotatedTarget> "nonoş"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001406> <http://www.w3.org/2002/07/owl#annotatedTarget> "lezbo"@tr .
+<http://purl.obolibrary.org/obo/NCIT_C28421> <http://www.w3.org/2002/07/owl#annotatedTarget> "cinsiyet"@tr .
+<http://purl.obolibrary.org/obo/GSSO_004063> <http://www.w3.org/2002/07/owl#annotatedTarget> "üçüncü cins"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001333> <http://www.w3.org/2002/07/owl#annotatedTarget> "travesti"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001434> <http://www.w3.org/2002/07/owl#annotatedTarget> "top"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001591> <http://www.w3.org/2002/07/owl#annotatedTarget> "eşcinsel"@tr .
+<http://purl.obolibrary.org/obo/GSSO_000096> <http://www.w3.org/2002/07/owl#annotatedTarget> "transcinsiyet"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001406> <http://www.w3.org/2002/07/owl#annotatedTarget> "dyke"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001333> <http://www.w3.org/2002/07/owl#annotatedTarget> "cross-dresser"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001592> <http://www.w3.org/2002/07/owl#annotatedTarget> "heteroseksüel"@tr .
+<http://purl.obolibrary.org/obo/GSSO_007169> <http://www.w3.org/2002/07/owl#annotatedTarget> "cinsiyet ayrımı gözetmeyen"@tr .
+<http://purl.obolibrary.org/obo/GSSO_002861> <http://www.w3.org/2002/07/owl#annotatedTarget> "homofobi"@tr .
+<http://purl.obolibrary.org/obo/GSSO_002862> <http://www.w3.org/2002/07/owl#annotatedTarget> "transfobi"@tr .
+<http://purl.obolibrary.org/obo/GSSO_001591> <http://www.w3.org/2002/07/owl#annotatedTarget> "gey"@tr .
+<http://purl.bioontology.org/ontology/MESH/D005783> <http://www.w3.org/2002/07/owl#annotatedTarget> "cinsiyet kimliği"@tr .
+<http://purl.obolibrary.org/obo/GSSO_004181> <http://www.w3.org/2002/07/owl#annotatedTarget> "açılmamış kişi"@tr .

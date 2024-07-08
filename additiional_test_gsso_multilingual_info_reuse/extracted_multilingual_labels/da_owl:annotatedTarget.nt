@@ -1,0 +1,295 @@
+<http://purl.obolibrary.org/obo/GSSO_000844> <http://www.w3.org/2002/07/owl#annotatedTarget> "samkønnet forhold"@da .
+<http://purl.obolibrary.org/obo/UBERON_0000473> <http://www.w3.org/2002/07/owl#annotatedTarget> "testikel"@da .
+<http://purl.bioontology.org/ontology/MESH/D008598> <http://www.w3.org/2002/07/owl#annotatedTarget> "menstruation"@da .
+<http://purl.obolibrary.org/obo/GSSO_008340> <http://www.w3.org/2002/07/owl#annotatedTarget> "medforælder"@da .
+<http://purl.obolibrary.org/obo/GSSO_006239> <http://www.w3.org/2002/07/owl#annotatedTarget> "depatologisering"@da .
+<http://purl.obolibrary.org/obo/GSSO_003906> <http://www.w3.org/2002/07/owl#annotatedTarget> "adoption"@da .
+<http://purl.obolibrary.org/obo/GSSO_002328> <http://www.w3.org/2002/07/owl#annotatedTarget> "ikke-binær kønsidentitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_011316> <http://www.w3.org/2002/07/owl#annotatedTarget> "homonormativitet"@da .
+<http://purl.obolibrary.org/obo/NCIT_C37986> <http://www.w3.org/2002/07/owl#annotatedTarget> "libido"@da .
+<http://purl.obolibrary.org/obo/GSSO_002862> <http://www.w3.org/2002/07/owl#annotatedTarget> "transfob"@da .
+<http://purl.obolibrary.org/obo/GSSO_005730> <http://www.w3.org/2002/07/owl#annotatedTarget> "enbyfriend"@da .
+<http://purl.obolibrary.org/obo/GSSO_003396> <http://www.w3.org/2002/07/owl#annotatedTarget> "gray-aromantisk"@da .
+<http://purl.obolibrary.org/obo/GSSO_000371> <http://www.w3.org/2002/07/owl#annotatedTarget> "cismand"@da .
+<http://purl.obolibrary.org/obo/GSSO_006187> <http://www.w3.org/2002/07/owl#annotatedTarget> "SOKI"@da .
+<http://purl.obolibrary.org/obo/GSSO_007840> <http://www.w3.org/2002/07/owl#annotatedTarget> "penektomi"@da .
+<http://purl.obolibrary.org/obo/GSSO_012581> <http://www.w3.org/2002/07/owl#annotatedTarget> "top surgery"@da .
+<http://purl.obolibrary.org/obo/GSSO_001589> <http://www.w3.org/2002/07/owl#annotatedTarget> "genitalier"@da .
+<http://purl.obolibrary.org/obo/GSSO_008952> <http://www.w3.org/2002/07/owl#annotatedTarget> "hermafrodit"@da .
+<http://purl.bioontology.org/ontology/MESH/D012736> <http://www.w3.org/2002/07/owl#annotatedTarget> "seksualundervisning"@da .
+<http://purl.obolibrary.org/obo/GSSO_001228> <http://www.w3.org/2002/07/owl#annotatedTarget> "queerplatonisk forhold"@da .
+<http://purl.bioontology.org/ontology/MESH/D000068116> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsdysfori"@da .
+<http://purl.obolibrary.org/obo/GSSO_001226> <http://www.w3.org/2002/07/owl#annotatedTarget> "sensuel tiltrækning"@da .
+<http://purl.obolibrary.org/obo/GSSO_003796> <http://www.w3.org/2002/07/owl#annotatedTarget> "pinkwashing"@da .
+<http://purl.obolibrary.org/obo/GSSO_000153> <http://www.w3.org/2002/07/owl#annotatedTarget> "bjørn"@da .
+<http://purl.obolibrary.org/obo/GSSO_002964> <http://www.w3.org/2002/07/owl#annotatedTarget> "privilegium"@da .
+<http://purl.obolibrary.org/obo/OMRSE_00000007> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsrolle"@da .
+<http://purl.obolibrary.org/obo/GSSO_003591> <http://www.w3.org/2002/07/owl#annotatedTarget> "hadforbrydelse"@da .
+<http://purl.obolibrary.org/obo/UBERON_0000991> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønskirtler"@da .
+<http://purl.obolibrary.org/obo/GSSO_002273> <http://www.w3.org/2002/07/owl#annotatedTarget> "homonationalisme"@da .
+<http://purl.obolibrary.org/obo/GSSO_001225> <http://www.w3.org/2002/07/owl#annotatedTarget> "romantisk tiltrækning"@da .
+<http://purl.obolibrary.org/obo/GSSO_002335> <http://www.w3.org/2002/07/owl#annotatedTarget> "intergender"@da .
+<http://purl.obolibrary.org/obo/GSSO_000137> <http://www.w3.org/2002/07/owl#annotatedTarget> "LGBT+"@da .
+<http://purl.obolibrary.org/obo/GSSO_003422> <http://www.w3.org/2002/07/owl#annotatedTarget> "ligestilling"@da .
+<http://purl.obolibrary.org/obo/GSSO_001672> <http://www.w3.org/2002/07/owl#annotatedTarget> "hysterektomi"@da .
+<http://purl.obolibrary.org/obo/GSSO_001227> <http://www.w3.org/2002/07/owl#annotatedTarget> "squish"@da .
+<http://purl.obolibrary.org/obo/GSSO_001904> <http://www.w3.org/2002/07/owl#annotatedTarget> "sekundære kønskarakteristika"@da .
+<http://www.ebi.ac.uk/efo/EFO_0001382> <http://www.w3.org/2002/07/owl#annotatedTarget> "pubertet"@da .
+<http://purl.obolibrary.org/obo/GSSO_011718> <http://www.w3.org/2002/07/owl#annotatedTarget> "juridisk kønsskifte"@da .
+<http://purl.obolibrary.org/obo/GSSO_012588> <http://www.w3.org/2002/07/owl#annotatedTarget> "multidiskrimination"@da .
+<http://purl.obolibrary.org/obo/GSSO_003821> <http://www.w3.org/2002/07/owl#annotatedTarget> "queetbaiting"@da .
+<http://purl.obolibrary.org/obo/GSSO_007169> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsneutral"@da .
+<http://purl.obolibrary.org/obo/GSSO_011315> <http://www.w3.org/2002/07/owl#annotatedTarget> "heteronormativitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_002840> <http://www.w3.org/2002/07/owl#annotatedTarget> "fordom"@da .
+<http://purl.obolibrary.org/obo/GSSO_001745> <http://www.w3.org/2002/07/owl#annotatedTarget> "aromantisk"@da .
+<http://purl.obolibrary.org/obo/GSSO_000130> <http://www.w3.org/2002/07/owl#annotatedTarget> "transperson"@da .
+<http://purl.obolibrary.org/obo/GSSO_001648> <http://www.w3.org/2002/07/owl#annotatedTarget> "orchiectomi"@da .
+<http://purl.obolibrary.org/obo/GSSO_002294> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsvarians"@da .
+<http://purl.obolibrary.org/obo/GSSO_001300> <http://www.w3.org/2002/07/owl#annotatedTarget> "BDSM"@da .
+<http://purl.obolibrary.org/obo/GSSO_006175> <http://www.w3.org/2002/07/owl#annotatedTarget> "hævnporno"@da .
+<http://purl.obolibrary.org/obo/GSSO_010205> <http://www.w3.org/2002/07/owl#annotatedTarget> "norm"@da .
+<http://purl.obolibrary.org/obo/GSSO_003872> <http://www.w3.org/2002/07/owl#annotatedTarget> "skolioseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_000871> <http://www.w3.org/2002/07/owl#annotatedTarget> "monogami"@da .
+<http://purl.obolibrary.org/obo/GSSO_003044> <http://www.w3.org/2002/07/owl#annotatedTarget> "korrigerende voldtægt"@da .
+<http://purl.obolibrary.org/obo/GSSO_002340> <http://www.w3.org/2002/07/owl#annotatedTarget> "neutrois"@da .
+<http://purl.obolibrary.org/obo/GSSO_002861> <http://www.w3.org/2002/07/owl#annotatedTarget> "homofobi"@da .
+<http://purl.obolibrary.org/obo/GSSO_011309> <http://www.w3.org/2002/07/owl#annotatedTarget> "cisheteronormativitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_002861> <http://www.w3.org/2002/07/owl#annotatedTarget> "homofob"@da .
+<http://purl.obolibrary.org/obo/GSSO_008446> <http://www.w3.org/2002/07/owl#annotatedTarget> "KtM"@da .
+<http://purl.obolibrary.org/obo/GSSO_004206> <http://www.w3.org/2002/07/owl#annotatedTarget> "juridisk køn"@da .
+<http://purl.obolibrary.org/obo/GSSO_002229> <http://www.w3.org/2002/07/owl#annotatedTarget> "feminisme"@da .
+<http://purl.obolibrary.org/obo/GSSO_007459> <http://www.w3.org/2002/07/owl#annotatedTarget> "metroseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_000376> <http://www.w3.org/2002/07/owl#annotatedTarget> "MSM"@da .
+<http://purl.obolibrary.org/obo/GSSO_001592> <http://www.w3.org/2002/07/owl#annotatedTarget> "heteroseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_003265> <http://www.w3.org/2002/07/owl#annotatedTarget> "familie"@da .
+<http://purl.obolibrary.org/obo/GSSO_001706> <http://www.w3.org/2002/07/owl#annotatedTarget> "vaginoplastik"@da .
+<http://purl.obolibrary.org/obo/GSSO_003383> <http://www.w3.org/2002/07/owl#annotatedTarget> "omvendelsesterapi"@da .
+<http://purl.obolibrary.org/obo/GSSO_004912> <http://www.w3.org/2002/07/owl#annotatedTarget> "påbudt seksualitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_001591> <http://www.w3.org/2002/07/owl#annotatedTarget> "gay"@da .
+<http://purl.obolibrary.org/obo/GSSO_009442> <http://www.w3.org/2002/07/owl#annotatedTarget> "outing"@da .
+<http://purl.obolibrary.org/obo/GSSO_003836> <http://www.w3.org/2002/07/owl#annotatedTarget> "safer space"@da .
+<http://purl.obolibrary.org/obo/GSSO_001224> <http://www.w3.org/2002/07/owl#annotatedTarget> "platonisk tiltrækning"@da .
+<http://purl.obolibrary.org/obo/GSSO_003639> <http://www.w3.org/2002/07/owl#annotatedTarget> "supprimerende hormonterapi"@da .
+<http://purl.obolibrary.org/obo/GSSO_012593> <http://www.w3.org/2002/07/owl#annotatedTarget> "lebbe"@da .
+<http://semanticscience.org/resource/SIO_000853> <http://www.w3.org/2002/07/owl#annotatedTarget> "seksuel lyst"@da .
+<http://purl.obolibrary.org/obo/GSSO_004042> <http://www.w3.org/2002/07/owl#annotatedTarget> "crush"@da .
+<http://purl.obolibrary.org/obo/GSSO_000156> <http://www.w3.org/2002/07/owl#annotatedTarget> "twink"@da .
+<http://purl.obolibrary.org/obo/GSSO_002339> <http://www.w3.org/2002/07/owl#annotatedTarget> "fluid gender identity"@da .
+<http://purl.obolibrary.org/obo/GSSO_006228> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsspektrum"@da .
+<http://purl.obolibrary.org/obo/GSSO_004181> <http://www.w3.org/2002/07/owl#annotatedTarget> "være i skabet"@da .
+<http://purl.obolibrary.org/obo/GSSO_008446> <http://www.w3.org/2002/07/owl#annotatedTarget> "FTM"@da .
+<http://purl.obolibrary.org/obo/CHEBI_50114> <http://www.w3.org/2002/07/owl#annotatedTarget> "østrogen"@da .
+<http://purl.bioontology.org/ontology/MESH/D063508> <http://www.w3.org/2002/07/owl#annotatedTarget> "diskrimination"@da .
+<http://purl.obolibrary.org/obo/NCIT_C155696> <http://www.w3.org/2002/07/owl#annotatedTarget> "aseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_005126> <http://www.w3.org/2002/07/owl#annotatedTarget> "Tannerskala"@da .
+<http://purl.obolibrary.org/obo/GSSO_005087> <http://www.w3.org/2002/07/owl#annotatedTarget> "gaff"@da .
+<http://purl.obolibrary.org/obo/GSSO_008334> <http://www.w3.org/2002/07/owl#annotatedTarget> "donor"@da .
+<http://purl.obolibrary.org/obo/GSSO_002212> <http://www.w3.org/2002/07/owl#annotatedTarget> "cølibat"@da .
+<http://purl.obolibrary.org/obo/GSSO_003630> <http://www.w3.org/2002/07/owl#annotatedTarget> "hormonterapi"@da .
+<http://purl.obolibrary.org/obo/CHEBI_49020> <http://www.w3.org/2002/07/owl#annotatedTarget> "hormonblokkere"@da .
+<http://purl.obolibrary.org/obo/GSSO_001444> <http://www.w3.org/2002/07/owl#annotatedTarget> "transseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_000131> <http://www.w3.org/2002/07/owl#annotatedTarget> "genderqueer"@da .
+<http://purl.obolibrary.org/obo/GSSO_005706> <http://www.w3.org/2002/07/owl#annotatedTarget> "stereotyp"@da .
+<http://purl.obolibrary.org/obo/GSSO_003398> <http://www.w3.org/2002/07/owl#annotatedTarget> "transition"@da .
+<http://purl.obolibrary.org/obo/GSSO_000343> <http://www.w3.org/2002/07/owl#annotatedTarget> "bottom"@da .
+<http://purl.obolibrary.org/obo/OMRSE_00000007> <http://www.w3.org/2002/07/owl#annotatedTarget> "socialt køn"@da .
+<http://purl.obolibrary.org/obo/GSSO_002336> <http://www.w3.org/2002/07/owl#annotatedTarget> "tvekønnet"@da .
+<http://purl.obolibrary.org/obo/GSSO_011308> <http://www.w3.org/2002/07/owl#annotatedTarget> "cisnormativitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_012595> <http://www.w3.org/2002/07/owl#annotatedTarget> "OBI-modellen"@da .
+<http://purl.obolibrary.org/obo/GSSO_012583> <http://www.w3.org/2002/07/owl#annotatedTarget> "binder"@da .
+<http://purl.obolibrary.org/obo/GSSO_000344> <http://www.w3.org/2002/07/owl#annotatedTarget> "gaydar"@da .
+<http://purl.obolibrary.org/obo/GSSO_004085> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsbekræftelse"@da .
+<http://purl.obolibrary.org/obo/GSSO_000435> <http://www.w3.org/2002/07/owl#annotatedTarget> "mobning"@da .
+<http://purl.obolibrary.org/obo/GSSO_012596> <http://www.w3.org/2002/07/owl#annotatedTarget> "packer"@da .
+<http://purl.obolibrary.org/obo/GSSO_001608> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsbekræftende kirurgi"@da .
+<http://purl.obolibrary.org/obo/GSSO_000103> <http://www.w3.org/2002/07/owl#annotatedTarget> "biologisk køn"@da .
+<http://purl.obolibrary.org/obo/GSSO_003946> <http://www.w3.org/2002/07/owl#annotatedTarget> "tokenisme"@da .
+<http://purl.obolibrary.org/obo/GSSO_012413> <http://www.w3.org/2002/07/owl#annotatedTarget> "queer"@da .
+<http://purl.obolibrary.org/obo/GSSO_000122> <http://www.w3.org/2002/07/owl#annotatedTarget> "tildelt køn"@da .
+<http://purl.obolibrary.org/obo/GSSO_004902> <http://www.w3.org/2002/07/owl#annotatedTarget> "polyamori"@da .
+<http://purl.obolibrary.org/obo/NCIT_C62263> <http://www.w3.org/2002/07/owl#annotatedTarget> "mangfoldighed"@da .
+<http://purl.obolibrary.org/obo/GSSO_006072> <http://www.w3.org/2002/07/owl#annotatedTarget> "alloseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_001389> <http://www.w3.org/2002/07/owl#annotatedTarget> "onani"@da .
+<http://purl.bioontology.org/ontology/MESH/D000068116> <http://www.w3.org/2002/07/owl#annotatedTarget> "dysfori"@da .
+<http://purl.obolibrary.org/obo/GSSO_002328> <http://www.w3.org/2002/07/owl#annotatedTarget> "nonbinær"@da .
+<http://purl.obolibrary.org/obo/GSSO_001389> <http://www.w3.org/2002/07/owl#annotatedTarget> "masturbation"@da .
+<http://purl.obolibrary.org/obo/GSSO_001669> <http://www.w3.org/2002/07/owl#annotatedTarget> "phalloplastik"@da .
+<http://purl.obolibrary.org/obo/GSSO_001854> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsdrift"@da .
+<http://purl.obolibrary.org/obo/GSSO_003222> <http://www.w3.org/2002/07/owl#annotatedTarget> "boi"@da .
+<http://purl.obolibrary.org/obo/GSSO_004204> <http://www.w3.org/2002/07/owl#annotatedTarget> "heteroromantisk"@da .
+<http://purl.obolibrary.org/obo/GSSO_000379> <http://www.w3.org/2002/07/owl#annotatedTarget> "KSK"@da .
+<http://purl.obolibrary.org/obo/GSSO_000713> <http://www.w3.org/2002/07/owl#annotatedTarget> "romantisk orientering"@da .
+<http://purl.obolibrary.org/obo/GSSO_001221> <http://www.w3.org/2002/07/owl#annotatedTarget> "æstetisk tiltrækning"@da .
+<http://purl.obolibrary.org/obo/GSSO_001763> <http://www.w3.org/2002/07/owl#annotatedTarget> "dragking"@da .
+<http://purl.obolibrary.org/obo/GSSO_001434> <http://www.w3.org/2002/07/owl#annotatedTarget> "faggot"@da .
+<http://purl.obolibrary.org/obo/GSSO_002842> <http://www.w3.org/2002/07/owl#annotatedTarget> "heterosexisme"@da .
+<http://purl.obolibrary.org/obo/GSSO_012589> <http://www.w3.org/2002/07/owl#annotatedTarget> "dobbeltdonation"@da .
+<http://purl.obolibrary.org/obo/NCIT_C17357> <http://www.w3.org/2002/07/owl#annotatedTarget> "gender"@da .
+<http://purl.obolibrary.org/obo/GSSO_006074> <http://www.w3.org/2002/07/owl#annotatedTarget> "demiseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_002816> <http://www.w3.org/2002/07/owl#annotatedTarget> "misogyni"@da .
+<http://purl.obolibrary.org/obo/GSSO_001610> <http://www.w3.org/2002/07/owl#annotatedTarget> "feminiseringskirurgi"@da .
+<http://purl.obolibrary.org/obo/GSSO_010410> <http://www.w3.org/2002/07/owl#annotatedTarget> "superstraight"@da .
+<http://purl.obolibrary.org/obo/GSSO_000521> <http://www.w3.org/2002/07/owl#annotatedTarget> "aids"@da .
+<http://purl.obolibrary.org/obo/UBERON_0000996> <http://www.w3.org/2002/07/owl#annotatedTarget> "skede"@da .
+<http://purl.obolibrary.org/obo/GSSO_002336> <http://www.w3.org/2002/07/owl#annotatedTarget> "dobbeltkønnet"@da .
+<http://purl.obolibrary.org/obo/GSSO_000813> <http://www.w3.org/2002/07/owl#annotatedTarget> "cunnilingus"@da .
+<http://purl.obolibrary.org/obo/GSSO_008337> <http://www.w3.org/2002/07/owl#annotatedTarget> "sæddonor"@da .
+<http://purl.obolibrary.org/obo/GSSO_000385> <http://www.w3.org/2002/07/owl#annotatedTarget> "ciskvinde"@da .
+<http://purl.obolibrary.org/obo/GSSO_012591> <http://www.w3.org/2002/07/owl#annotatedTarget> "hjemmeinsemination"@da .
+<http://purl.obolibrary.org/obo/GSSO_004694> <http://www.w3.org/2002/07/owl#annotatedTarget> "utroskab"@da .
+<http://purl.obolibrary.org/obo/GSSO_012578> <http://www.w3.org/2002/07/owl#annotatedTarget> "antidiskriminationstiltag"@da .
+<http://purl.obolibrary.org/obo/NCIT_C62263> <http://www.w3.org/2002/07/owl#annotatedTarget> "diversitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_001657> <http://www.w3.org/2002/07/owl#annotatedTarget> "oophorektomi"@da .
+<http://purl.obolibrary.org/obo/GSSO_000093> <http://www.w3.org/2002/07/owl#annotatedTarget> "androgyn"@da .
+<http://purl.obolibrary.org/obo/GSSO_007572> <http://www.w3.org/2002/07/owl#annotatedTarget> "vielse"@da .
+<http://purl.obolibrary.org/obo/GSSO_005788> <http://www.w3.org/2002/07/owl#annotatedTarget> "enby"@da .
+<http://purl.obolibrary.org/obo/GSSO_008872> <http://www.w3.org/2002/07/owl#annotatedTarget> "ace"@da .
+<http://purl.obolibrary.org/obo/GSSO_003829> <http://www.w3.org/2002/07/owl#annotatedTarget> "QUILTBAG"@da .
+<http://purl.obolibrary.org/obo/GSSO_003665> <http://www.w3.org/2002/07/owl#annotatedTarget> "intersektionalitet"@da .
+<http://purl.obolibrary.org/obo/NCIT_C84361> <http://www.w3.org/2002/07/owl#annotatedTarget> "seksuel orientering"@da .
+<http://purl.obolibrary.org/obo/CHEBI_50112> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønshormon"@da .
+<http://purl.obolibrary.org/obo/GSSO_002339> <http://www.w3.org/2002/07/owl#annotatedTarget> "flydende kønsidentitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_001590> <http://www.w3.org/2002/07/owl#annotatedTarget> "biseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_001746> <http://www.w3.org/2002/07/owl#annotatedTarget> "biromantisk"@da .
+<http://purl.obolibrary.org/obo/GSSO_002337> <http://www.w3.org/2002/07/owl#annotatedTarget> "trikønnet"@da .
+<http://purl.obolibrary.org/obo/GSSO_006234> <http://www.w3.org/2002/07/owl#annotatedTarget> "patologisering"@da .
+<http://purl.obolibrary.org/obo/GSSO_001406> <http://www.w3.org/2002/07/owl#annotatedTarget> "dyke"@da .
+<http://purl.obolibrary.org/obo/GSSO_000410> <http://www.w3.org/2002/07/owl#annotatedTarget> "demiguy"@da .
+<http://purl.obolibrary.org/obo/GSSO_002748> <http://www.w3.org/2002/07/owl#annotatedTarget> "tomboy"@da .
+<http://purl.obolibrary.org/obo/GSSO_002342> <http://www.w3.org/2002/07/owl#annotatedTarget> "akønnet"@da .
+<http://purl.obolibrary.org/obo/GSSO_009956> <http://www.w3.org/2002/07/owl#annotatedTarget> "jordemoder"@da .
+<http://purl.obolibrary.org/obo/GSSO_001802> <http://www.w3.org/2002/07/owl#annotatedTarget> "MSMW"@da .
+<http://purl.obolibrary.org/obo/GSSO_002815> <http://www.w3.org/2002/07/owl#annotatedTarget> "misandri"@da .
+<http://purl.obolibrary.org/obo/GSSO_006187> <http://www.w3.org/2002/07/owl#annotatedTarget> "SOGI"@da .
+<http://purl.obolibrary.org/obo/GSSO_011273> <http://www.w3.org/2002/07/owl#annotatedTarget> "Two-Spirit"@da .
+<http://purl.obolibrary.org/obo/GSSO_003627> <http://www.w3.org/2002/07/owl#annotatedTarget> "heterofleksibel"@da .
+<http://purl.obolibrary.org/obo/DOID_4166> <http://www.w3.org/2002/07/owl#annotatedTarget> "syfilis"@da .
+<http://purl.bioontology.org/ontology/MESH/D013734> <http://www.w3.org/2002/07/owl#annotatedTarget> "androgent insensitivitetssyndrom"@da .
+<http://purl.obolibrary.org/obo/GSSO_000372> <http://www.w3.org/2002/07/owl#annotatedTarget> "transmand"@da .
+<http://purl.obolibrary.org/obo/OMRSE_00000008> <http://www.w3.org/2002/07/owl#annotatedTarget> "maskulinitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_012613> <http://www.w3.org/2002/07/owl#annotatedTarget> "svans"@da .
+<http://purl.obolibrary.org/obo/GSSO_003843> <http://www.w3.org/2002/07/owl#annotatedTarget> "saksen"@da .
+<http://purl.obolibrary.org/obo/GSSO_002903> <http://www.w3.org/2002/07/owl#annotatedTarget> "monosexisme"@da .
+<http://purl.obolibrary.org/obo/GSSO_000384> <http://www.w3.org/2002/07/owl#annotatedTarget> "transkvinde"@da .
+<http://purl.obolibrary.org/obo/GSSO_000379> <http://www.w3.org/2002/07/owl#annotatedTarget> "WSW"@da .
+<http://purl.obolibrary.org/obo/GSSO_000088> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsudtryk"@da .
+<http://purl.obolibrary.org/obo/DOID_8704> <http://www.w3.org/2002/07/owl#annotatedTarget> "herpes genitalis"@da .
+<http://purl.obolibrary.org/obo/GSSO_000374> <http://www.w3.org/2002/07/owl#annotatedTarget> "bøsse"@da .
+<http://purl.obolibrary.org/obo/GSSO_000128> <http://www.w3.org/2002/07/owl#annotatedTarget> "gender nonconforming"@da .
+<http://purl.obolibrary.org/obo/NCIT_C25460> <http://www.w3.org/2002/07/owl#annotatedTarget> "samtykke"@da .
+<http://purl.obolibrary.org/obo/GSSO_004063> <http://www.w3.org/2002/07/owl#annotatedTarget> "tredje køn"@da .
+<http://purl.obolibrary.org/obo/GSSO_002372> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsstudier"@da .
+<http://purl.obolibrary.org/obo/GSSO_000096> <http://www.w3.org/2002/07/owl#annotatedTarget> "transkønnet"@da .
+<http://purl.obolibrary.org/obo/GSSO_003279> <http://www.w3.org/2002/07/owl#annotatedTarget> "voyeurisme"@da .
+<http://purl.obolibrary.org/obo/GSSO_011301> <http://www.w3.org/2002/07/owl#annotatedTarget> "normativ"@da .
+<http://purl.obolibrary.org/obo/GSSO_001365> <http://www.w3.org/2002/07/owl#annotatedTarget> "femme"@da .
+<http://purl.obolibrary.org/obo/NCIT_C16578> <http://www.w3.org/2002/07/owl#annotatedTarget> "fertilitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_003306> <http://www.w3.org/2002/07/owl#annotatedTarget> "springe ud"@da .
+<http://purl.obolibrary.org/obo/GSSO_003292> <http://www.w3.org/2002/07/owl#annotatedTarget> "menneskerettigheder"@da .
+<http://purl.obolibrary.org/obo/GSSO_003264> <http://www.w3.org/2002/07/owl#annotatedTarget> "chemsex"@da .
+<http://purl.obolibrary.org/obo/GSSO_011155> <http://www.w3.org/2002/07/owl#annotatedTarget> "lesbisk"@da .
+<http://purl.obolibrary.org/obo/GSSO_003838> <http://www.w3.org/2002/07/owl#annotatedTarget> "ægteskab"@da .
+<http://purl.obolibrary.org/obo/GSSO_000411> <http://www.w3.org/2002/07/owl#annotatedTarget> "demigirl"@da .
+<http://purl.bioontology.org/ontology/MESH/D014424> <http://www.w3.org/2002/07/owl#annotatedTarget> "Turners syndrom"@da .
+<http://purl.obolibrary.org/obo/GSSO_000526> <http://www.w3.org/2002/07/owl#annotatedTarget> "STD"@da .
+<http://purl.obolibrary.org/obo/UBERON_0000991> <http://www.w3.org/2002/07/owl#annotatedTarget> "gonader"@da .
+<http://purl.obolibrary.org/obo/GSSO_001762> <http://www.w3.org/2002/07/owl#annotatedTarget> "dragqueen"@da .
+<http://purl.obolibrary.org/obo/GSSO_003416> <http://www.w3.org/2002/07/owl#annotatedTarget> "bisexual erasure"@da .
+<http://purl.obolibrary.org/obo/GSSO_003286> <http://www.w3.org/2002/07/owl#annotatedTarget> "seksuel identitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_003314> <http://www.w3.org/2002/07/owl#annotatedTarget> "chikane"@da .
+<http://purl.obolibrary.org/obo/GSSO_005410> <http://www.w3.org/2002/07/owl#annotatedTarget> "hadefuld tale"@da .
+<http://purl.obolibrary.org/obo/GSSO_001443> <http://www.w3.org/2002/07/owl#annotatedTarget> "drag"@da .
+<http://purl.obolibrary.org/obo/GSSO_001307> <http://www.w3.org/2002/07/owl#annotatedTarget> "fetichisme"@da .
+<http://purl.obolibrary.org/obo/GSSO_002406> <http://www.w3.org/2002/07/owl#annotatedTarget> "personlige pronominer"@da .
+<http://purl.obolibrary.org/obo/GSSO_012581> <http://www.w3.org/2002/07/owl#annotatedTarget> "topoperation"@da .
+<http://purl.obolibrary.org/obo/GSSO_000414> <http://www.w3.org/2002/07/owl#annotatedTarget> "seksualitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_003397> <http://www.w3.org/2002/07/owl#annotatedTarget> "demiromantisk"@da .
+<http://purl.obolibrary.org/obo/GSSO_001236> <http://www.w3.org/2002/07/owl#annotatedTarget> "kink"@da .
+<http://purl.obolibrary.org/obo/GSSO_003895> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsbekræftende behandling"@da .
+<http://purl.obolibrary.org/obo/GSSO_003556> <http://www.w3.org/2002/07/owl#annotatedTarget> "gender  bender"@da .
+<http://purl.obolibrary.org/obo/GSSO_002843> <http://www.w3.org/2002/07/owl#annotatedTarget> "cissexisme"@da .
+<http://purl.obolibrary.org/obo/GSSO_005319> <http://www.w3.org/2002/07/owl#annotatedTarget> "orgasme"@da .
+<http://purl.obolibrary.org/obo/UBERON_0003133> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsorgan"@da .
+<http://purl.obolibrary.org/obo/GSSO_000526> <http://www.w3.org/2002/07/owl#annotatedTarget> "sexsygdomme"@da .
+<http://purl.obolibrary.org/obo/GSSO_001019> <http://www.w3.org/2002/07/owl#annotatedTarget> "pride"@da .
+<http://purl.obolibrary.org/obo/UBERON_0000992> <http://www.w3.org/2002/07/owl#annotatedTarget> "æggestok"@da .
+<http://purl.obolibrary.org/obo/GSSO_006288> <http://www.w3.org/2002/07/owl#annotatedTarget> "metoiodoplastik"@da .
+<http://purl.bioontology.org/ontology/MESH/D013734> <http://www.w3.org/2002/07/owl#annotatedTarget> "Morris syndrom"@da .
+<http://purl.obolibrary.org/obo/GSSO_001592> <http://www.w3.org/2002/07/owl#annotatedTarget> "straight"@da .
+<http://purl.obolibrary.org/obo/GSSO_006347> <http://www.w3.org/2002/07/owl#annotatedTarget> "minoritetsstress"@da .
+<http://purl.obolibrary.org/obo/GSSO_009476> <http://www.w3.org/2002/07/owl#annotatedTarget> "oplevet køn"@da .
+<http://purl.obolibrary.org/obo/GSSO_000771> <http://www.w3.org/2002/07/owl#annotatedTarget> "blowjob"@da .
+<http://purl.obolibrary.org/obo/GSSO_003557> <http://www.w3.org/2002/07/owl#annotatedTarget> "genderfuck"@da .
+<http://purl.obolibrary.org/obo/GSSO_001625> <http://www.w3.org/2002/07/owl#annotatedTarget> "andrenogenitalt syndrom"@da .
+<http://purl.obolibrary.org/obo/NCIT_C28421> <http://www.w3.org/2002/07/owl#annotatedTarget> "sex"@da .
+<http://purl.obolibrary.org/obo/GSSO_000347> <http://www.w3.org/2002/07/owl#annotatedTarget> "versatile"@da .
+<http://purl.obolibrary.org/obo/GSSO_002863> <http://www.w3.org/2002/07/owl#annotatedTarget> "bifobi"@da .
+<http://purl.obolibrary.org/obo/GSSO_009542> <http://www.w3.org/2002/07/owl#annotatedTarget> "Viagra"@da .
+<http://purl.obolibrary.org/obo/GSSO_003643> <http://www.w3.org/2002/07/owl#annotatedTarget> "identitetspolitik"@da .
+<http://purl.obolibrary.org/obo/GSSO_005443> <http://www.w3.org/2002/07/owl#annotatedTarget> "G-punkt"@da .
+<http://purl.obolibrary.org/obo/GSSO_002255> <http://www.w3.org/2002/07/owl#annotatedTarget> "queerteori"@da .
+<http://purl.obolibrary.org/obo/GSSO_004240> <http://www.w3.org/2002/07/owl#annotatedTarget> "ciskønnet"@da .
+<http://purl.bioontology.org/ontology/MESH/D007713> <http://www.w3.org/2002/07/owl#annotatedTarget> "klinefelters syndrom"@da .
+<http://purl.obolibrary.org/obo/GSSO_001222> <http://www.w3.org/2002/07/owl#annotatedTarget> "følelsesmæssig tiltrækning"@da .
+<http://purl.obolibrary.org/obo/GSSO_001219> <http://www.w3.org/2002/07/owl#annotatedTarget> "seksuel tiltrækning"@da .
+<http://purl.obolibrary.org/obo/GSSO_004502> <http://www.w3.org/2002/07/owl#annotatedTarget> "mikroaggression"@da .
+<http://purl.obolibrary.org/obo/GSSO_001903> <http://www.w3.org/2002/07/owl#annotatedTarget> "primære kønskarakteristika"@da .
+<http://purl.obolibrary.org/obo/GSSO_011370> <http://www.w3.org/2002/07/owl#annotatedTarget> "klamydia"@da .
+<http://purl.obolibrary.org/obo/GSSO_000710> <http://www.w3.org/2002/07/owl#annotatedTarget> "polyseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_000897> <http://www.w3.org/2002/07/owl#annotatedTarget> "åbent forhold"@da .
+<http://purl.obolibrary.org/obo/NCIT_C17357> <http://www.w3.org/2002/07/owl#annotatedTarget> "genus"@da .
+<http://purl.obolibrary.org/obo/GSSO_004005> <http://www.w3.org/2002/07/owl#annotatedTarget> "transmaskulin"@da .
+<http://purl.obolibrary.org/obo/GSSO_000881> <http://www.w3.org/2002/07/owl#annotatedTarget> "serielt monogami"@da .
+<http://purl.obolibrary.org/obo/GSSO_012611> <http://www.w3.org/2002/07/owl#annotatedTarget> "regnbuefamilie"@da .
+<http://purl.obolibrary.org/obo/GSSO_000096> <http://www.w3.org/2002/07/owl#annotatedTarget> "trans"@da .
+<http://purl.obolibrary.org/obo/OMRSE_00000009> <http://www.w3.org/2002/07/owl#annotatedTarget> "femininitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_002872> <http://www.w3.org/2002/07/owl#annotatedTarget> "antiseksualisme"@da .
+<http://purl.obolibrary.org/obo/GSSO_001191> <http://www.w3.org/2002/07/owl#annotatedTarget> "TERF"@da .
+<http://purl.obolibrary.org/obo/GSSO_000109> <http://www.w3.org/2002/07/owl#annotatedTarget> "intersex"@da .
+<http://purl.obolibrary.org/obo/GSSO_008447> <http://www.w3.org/2002/07/owl#annotatedTarget> "MTF"@da .
+<http://purl.obolibrary.org/obo/GSSO_000513> <http://www.w3.org/2002/07/owl#annotatedTarget> "hiv"@da .
+<http://purl.obolibrary.org/obo/GSSO_004898> <http://www.w3.org/2002/07/owl#annotatedTarget> "lithromantisk"@da .
+<http://purl.obolibrary.org/obo/GSSO_003677> <http://www.w3.org/2002/07/owl#annotatedTarget> "trans*"@da .
+<http://purl.obolibrary.org/obo/GSSO_004899> <http://www.w3.org/2002/07/owl#annotatedTarget> "panromantisk"@da .
+<http://purl.obolibrary.org/obo/GSSO_002797> <http://www.w3.org/2002/07/owl#annotatedTarget> "sexisme"@da .
+<http://purl.obolibrary.org/obo/GSSO_008447> <http://www.w3.org/2002/07/owl#annotatedTarget> "MtK"@da .
+<http://purl.obolibrary.org/obo/GSSO_001236> <http://www.w3.org/2002/07/owl#annotatedTarget> "kinky"@da .
+<http://purl.obolibrary.org/obo/GSSO_003948> <http://www.w3.org/2002/07/owl#annotatedTarget> "synlighed"@da .
+<http://purl.obolibrary.org/obo/GSSO_003347> <http://www.w3.org/2002/07/owl#annotatedTarget> "sterilisation"@da .
+<http://purl.obolibrary.org/obo/GSSO_012580> <http://www.w3.org/2002/07/owl#annotatedTarget> "bundkirurgi"@da .
+<http://purl.obolibrary.org/obo/GSSO_000783> <http://www.w3.org/2002/07/owl#annotatedTarget> "penetration"@da .
+<http://purl.obolibrary.org/obo/GSSO_012588> <http://www.w3.org/2002/07/owl#annotatedTarget> "dobbeltdiskrimination"@da .
+<http://purl.obolibrary.org/obo/GSSO_002862> <http://www.w3.org/2002/07/owl#annotatedTarget> "transfobi"@da .
+<http://purl.obolibrary.org/obo/NCIT_C15277> <http://www.w3.org/2002/07/owl#annotatedTarget> "mastektomi"@da .
+<http://purl.obolibrary.org/obo/GSSO_003591> <http://www.w3.org/2002/07/owl#annotatedTarget> "hate crime"@da .
+<http://purl.bioontology.org/ontology/MESH/D005783> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsidentitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_009001> <http://www.w3.org/2002/07/owl#annotatedTarget> "variation"@da .
+<http://purl.obolibrary.org/obo/GSSO_000346> <http://www.w3.org/2002/07/owl#annotatedTarget> "top"@da .
+<http://purl.obolibrary.org/obo/GSSO_007177> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsbetegnelse"@da .
+<http://purl.obolibrary.org/obo/GSSO_004950> <http://www.w3.org/2002/07/owl#annotatedTarget> "MOGII"@da .
+<http://purl.obolibrary.org/obo/GSSO_003830> <http://www.w3.org/2002/07/owl#annotatedTarget> "regnbueflag"@da .
+<http://purl.obolibrary.org/obo/UBERON_0000996> <http://www.w3.org/2002/07/owl#annotatedTarget> "vagina"@da .
+<http://purl.obolibrary.org/obo/GSSO_001593> <http://www.w3.org/2002/07/owl#annotatedTarget> "panseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_004004> <http://www.w3.org/2002/07/owl#annotatedTarget> "transfeminin"@da .
+<http://purl.obolibrary.org/obo/GSSO_003634> <http://www.w3.org/2002/07/owl#annotatedTarget> "hormonbehandling"@da .
+<http://purl.obolibrary.org/obo/GSSO_003306> <http://www.w3.org/2002/07/owl#annotatedTarget> "udspring"@da .
+<http://purl.obolibrary.org/obo/UBERON_0000992> <http://www.w3.org/2002/07/owl#annotatedTarget> "ovarier"@da .
+<http://purl.obolibrary.org/obo/GSSO_003839> <http://www.w3.org/2002/07/owl#annotatedTarget> "samkønsægteskab"@da .
+<http://purl.obolibrary.org/obo/GSSO_005757> <http://www.w3.org/2002/07/owl#annotatedTarget> "transvestit"@da .
+<http://purl.obolibrary.org/obo/GSSO_004203> <http://www.w3.org/2002/07/owl#annotatedTarget> "homoromantisk"@da .
+<http://purl.obolibrary.org/obo/NCIT_C68806> <http://www.w3.org/2002/07/owl#annotatedTarget> "identitet"@da .
+<http://purl.obolibrary.org/obo/GSSO_004240> <http://www.w3.org/2002/07/owl#annotatedTarget> "cis"@da .
+<http://purl.obolibrary.org/obo/GSSO_000701> <http://www.w3.org/2002/07/owl#annotatedTarget> "monoseksuel"@da .
+<http://purl.obolibrary.org/obo/UBERON_0000989> <http://www.w3.org/2002/07/owl#annotatedTarget> "penis"@da .
+<http://purl.obolibrary.org/obo/GSSO_002405> <http://www.w3.org/2002/07/owl#annotatedTarget> "pronomen"@da .
+<http://purl.obolibrary.org/obo/GSSO_003291> <http://www.w3.org/2002/07/owl#annotatedTarget> "rettigheder"@da .
+<http://purl.obolibrary.org/obo/GSSO_003841> <http://www.w3.org/2002/07/owl#annotatedTarget> "sapioseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_003189> <http://www.w3.org/2002/07/owl#annotatedTarget> "sikker sex"@da .
+<http://purl.obolibrary.org/obo/GSSO_012587> <http://www.w3.org/2002/07/owl#annotatedTarget> "CPR-nummer"@da .
+<http://purl.obolibrary.org/obo/GSSO_003555> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønseufori"@da .
+<http://purl.obolibrary.org/obo/GSSO_012580> <http://www.w3.org/2002/07/owl#annotatedTarget> "bottom surgery"@da .
+<http://purl.obolibrary.org/obo/GSSO_002255> <http://www.w3.org/2002/07/owl#annotatedTarget> "queerfeminisme"@da .
+<http://purl.obolibrary.org/obo/UBERON_0000995> <http://www.w3.org/2002/07/owl#annotatedTarget> "livmoder"@da .
+<http://purl.obolibrary.org/obo/GSSO_003565> <http://www.w3.org/2002/07/owl#annotatedTarget> "kønsdivers"@da .
+<http://purl.obolibrary.org/obo/GSSO_001592> <http://www.w3.org/2002/07/owl#annotatedTarget> "hetero"@da .
+<http://purl.obolibrary.org/obo/GSSO_003355> <http://www.w3.org/2002/07/owl#annotatedTarget> "kondom"@da .

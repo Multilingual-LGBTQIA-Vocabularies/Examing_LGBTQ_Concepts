@@ -1,0 +1,16 @@
+<http://purl.obolibrary.org/obo/GSSO_007861> <http://www.w3.org/2000/01/rdf-schema#label> "जोगप्पा"@hi .
+<http://purl.obolibrary.org/obo/GSSO_006194> <http://www.w3.org/2000/01/rdf-schema#label> "अरावनी"@hi .
+<http://purl.obolibrary.org/obo/GSSO_002305> <http://www.w3.org/2000/01/rdf-schema#label> "हिजड़ा"@hi .
+<http://purl.obolibrary.org/obo/GSSO_009913> <http://www.w3.org/2000/01/rdf-schema#label> "सेक्स रिअसाइनमेंट सर्जरी"@hi .
+<http://purl.obolibrary.org/obo/GSSO_011932> <http://www.w3.org/2000/01/rdf-schema#label> "खसुआ"@hi .
+<http://purl.obolibrary.org/obo/GSSO_011931> <http://www.w3.org/2000/01/rdf-schema#label> "खुसरा"@hi .
+<http://purl.obolibrary.org/obo/GSSO_004024> <http://www.w3.org/2000/01/rdf-schema#label> "मध्यलिंगता"@hi .
+<http://purl.obolibrary.org/obo/GSSO_002313> <http://www.w3.org/2000/01/rdf-schema#label> "ज़नाना"@hi .
+<http://purl.obolibrary.org/obo/GSSO_000131> <http://www.w3.org/2000/01/rdf-schema#label> "जेंडर कवीर"@hi .
+<http://purl.obolibrary.org/obo/GSSO_011930> <http://www.w3.org/2000/01/rdf-schema#label> "छक्का"@hi .
+<http://purl.obolibrary.org/obo/GSSO_006191> <http://www.w3.org/2000/01/rdf-schema#label> "शिवशक्ति"@hi .
+<http://purl.obolibrary.org/obo/GSSO_000109> <http://www.w3.org/2000/01/rdf-schema#label> "मध्यलिंग"@hi .
+<http://purl.obolibrary.org/obo/GSSO_002309> <http://www.w3.org/2000/01/rdf-schema#label> "कोथी"@hi .
+<http://purl.obolibrary.org/obo/GSSO_000096> <http://www.w3.org/2000/01/rdf-schema#label> "ट्रांसजेंडर"@hi .
+<http://purl.obolibrary.org/obo/GSSO_004063> <http://www.w3.org/2000/01/rdf-schema#label> "तृतीय लिंग"@hi .
+<http://purl.obolibrary.org/obo/GSSO_001444> <http://www.w3.org/2000/01/rdf-schema#label> "ट्रांससेक्सुअल"@hi .

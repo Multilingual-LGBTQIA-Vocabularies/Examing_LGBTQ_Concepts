@@ -1,0 +1,1551 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+
+<http://www.wikidata.org/entity/Q100377526> ns1:P10192 <https://homosaurus.org/v3/homoit0000664> .
+
+<http://www.wikidata.org/entity/Q100919075> ns1:P10192 <https://homosaurus.org/v3/homoit0001899> .
+
+<http://www.wikidata.org/entity/Q101922089> ns1:P10192 <https://homosaurus.org/v3/homoit0000648> .
+
+<http://www.wikidata.org/entity/Q102331591> ns1:P10192 <https://homosaurus.org/v3/homoit0001414> .
+
+<http://www.wikidata.org/entity/Q10298025> ns1:P10192 <https://homosaurus.org/v3/homoit0000391> .
+
+<http://www.wikidata.org/entity/Q10336336> ns1:P10192 <https://homosaurus.org/v3/homoit0001040> .
+
+<http://www.wikidata.org/entity/Q1035954> ns1:P10192 <https://homosaurus.org/v3/homoit0000631> .
+
+<http://www.wikidata.org/entity/Q10370861> ns1:P10192 <https://homosaurus.org/v3/homoit0001039> .
+
+<http://www.wikidata.org/entity/Q10384150> ns1:P10192 <https://homosaurus.org/v3/homoit0001470> .
+
+<http://www.wikidata.org/entity/Q103888374> ns1:P10192 <https://homosaurus.org/v3/homoit0001752> .
+
+<http://www.wikidata.org/entity/Q104096788> ns1:P10192 <https://homosaurus.org/v3/homoit0001590> .
+
+<http://www.wikidata.org/entity/Q104097002> ns1:P10192 <https://homosaurus.org/v3/homoit0001411> .
+
+<http://www.wikidata.org/entity/Q1043639> ns1:P10192 <https://homosaurus.org/v3/homoit0000474> .
+
+<http://www.wikidata.org/entity/Q104711407> ns1:P10192 <https://homosaurus.org/v3/homoit0001319> .
+
+<http://www.wikidata.org/entity/Q104717073> ns1:P10192 <https://homosaurus.org/v3/homoit0000618> .
+
+<http://www.wikidata.org/entity/Q104834145> ns1:P10192 <https://homosaurus.org/v3/homoit0001501> .
+
+<http://www.wikidata.org/entity/Q104838508> ns1:P10192 <https://homosaurus.org/v3/homoit0000039> .
+
+<http://www.wikidata.org/entity/Q10485247> ns1:P10192 <https://homosaurus.org/v3/homoit0000395> .
+
+<http://www.wikidata.org/entity/Q1049021> ns1:P10192 <https://homosaurus.org/v3/homoit0000567> .
+
+<http://www.wikidata.org/entity/Q104969456> ns1:P10192 <https://homosaurus.org/v3/homoit0000506> .
+
+<http://www.wikidata.org/entity/Q104985620> ns1:P10192 <https://homosaurus.org/v3/homoit0000555> .
+
+<http://www.wikidata.org/entity/Q104985914> ns1:P10192 <https://homosaurus.org/v3/homoit0002024> .
+
+<http://www.wikidata.org/entity/Q105008573> ns1:P10192 <https://homosaurus.org/v3/homoit0000472> .
+
+<http://www.wikidata.org/entity/Q105008833> ns1:P10192 <https://homosaurus.org/v3/homoit0000477> .
+
+<http://www.wikidata.org/entity/Q105074283> ns1:P10192 <https://homosaurus.org/v3/homoit0000487> .
+
+<http://www.wikidata.org/entity/Q105079567> ns1:P10192 <https://homosaurus.org/v3/homoit0000160> .
+
+<http://www.wikidata.org/entity/Q105079916> ns1:P10192 <https://homosaurus.org/v3/homoit0000202> .
+
+<http://www.wikidata.org/entity/Q105222132> ns1:P10192 <https://homosaurus.org/v3/homoit0001381> .
+
+<http://www.wikidata.org/entity/Q1052281> ns1:P10192 <https://homosaurus.org/v3/homoit0001642> .
+
+<http://www.wikidata.org/entity/Q105321449> ns1:P10192 <https://homosaurus.org/v3/homoit0000100> .
+
+<http://www.wikidata.org/entity/Q1053501> ns1:P10192 <https://homosaurus.org/v3/homoit0000561> .
+
+<http://www.wikidata.org/entity/Q105444846> ns1:P10192 <https://homosaurus.org/v3/homoit0002339> .
+
+<http://www.wikidata.org/entity/Q105592359> ns1:P10192 <https://homosaurus.org/v3/homoit0000479> .
+
+<http://www.wikidata.org/entity/Q105592489> ns1:P10192 <https://homosaurus.org/v3/homoit0001055> .
+
+<http://www.wikidata.org/entity/Q105699546> ns1:P10192 <https://homosaurus.org/v3/homoit0000457> .
+
+<http://www.wikidata.org/entity/Q105824186> ns1:P10192 <https://homosaurus.org/v3/homoit0000432> .
+
+<http://www.wikidata.org/entity/Q105825074> ns1:P10192 <https://homosaurus.org/v3/homoit0000735> .
+
+<http://www.wikidata.org/entity/Q106056551> ns1:P10192 <https://homosaurus.org/v3/homoit0001928> .
+
+<http://www.wikidata.org/entity/Q1062222> ns1:P10192 <https://homosaurus.org/v3/homoit0001517> .
+
+<http://www.wikidata.org/entity/Q106610856> ns1:P10192 <https://homosaurus.org/v3/homoit0001896> .
+
+<http://www.wikidata.org/entity/Q106634743> ns1:P10192 <https://homosaurus.org/v3/homoit0000515> .
+
+<http://www.wikidata.org/entity/Q106647045> ns1:P10192 <https://homosaurus.org/v3/homoit0001263> .
+
+<http://www.wikidata.org/entity/Q106771414> ns1:P10192 <https://homosaurus.org/v3/homoit0001118> .
+
+<http://www.wikidata.org/entity/Q106771428> ns1:P10192 <https://homosaurus.org/v3/homoit0000922> .
+
+<http://www.wikidata.org/entity/Q106771443> ns1:P10192 <https://homosaurus.org/v3/homoit0000874> .
+
+<http://www.wikidata.org/entity/Q106771467> ns1:P10192 <https://homosaurus.org/v3/homoit0000006> .
+
+<http://www.wikidata.org/entity/Q106771575> ns1:P10192 <https://homosaurus.org/v3/homoit0001608> .
+
+<http://www.wikidata.org/entity/Q106771606> ns1:P10192 <https://homosaurus.org/v3/homoit0001614> .
+
+<http://www.wikidata.org/entity/Q106811916> ns1:P10192 <https://homosaurus.org/v3/homoit0001150> .
+
+<http://www.wikidata.org/entity/Q1070054> ns1:P10192 <https://homosaurus.org/v3/homoit0000248>,
+        <https://homosaurus.org/v3/homoit0000975> .
+
+<http://www.wikidata.org/entity/Q10701290> ns1:P10192 <https://homosaurus.org/v3/homoit0001463> .
+
+<http://www.wikidata.org/entity/Q1070872> ns1:P10192 <https://homosaurus.org/v3/homoit0000976> .
+
+<http://www.wikidata.org/entity/Q107196743> ns1:P10192 <https://homosaurus.org/v3/homoit0000214> .
+
+<http://www.wikidata.org/entity/Q1075191> ns1:P10192 <https://homosaurus.org/v3/homoit0002205> .
+
+<http://www.wikidata.org/entity/Q107627866> ns1:P10192 <https://homosaurus.org/v3/homoit0000891> .
+
+<http://www.wikidata.org/entity/Q1076509> ns1:P10192 <https://homosaurus.org/v3/homoit0000995> .
+
+<http://www.wikidata.org/entity/Q107782629> ns1:P10192 <https://homosaurus.org/v3/homoit0001553> .
+
+<http://www.wikidata.org/entity/Q107782882> ns1:P10192 <https://homosaurus.org/v3/homoit0000151> .
+
+<http://www.wikidata.org/entity/Q10801> ns1:P10192 <https://homosaurus.org/v3/homoit0000355> .
+
+<http://www.wikidata.org/entity/Q108028005> ns1:P10192 <https://homosaurus.org/v3/homoit0000259> .
+
+<http://www.wikidata.org/entity/Q108060260> ns1:P10192 <https://homosaurus.org/v3/homoit0000434> .
+
+<http://www.wikidata.org/entity/Q10807> ns1:P10192 <https://homosaurus.org/v3/homoit0000292> .
+
+<http://www.wikidata.org/entity/Q108281135> ns1:P10192 <https://homosaurus.org/v3/homoit0000544> .
+
+<http://www.wikidata.org/entity/Q108281294> ns1:P10192 <https://homosaurus.org/v3/homoit0000443>,
+        <https://homosaurus.org/v3/homoit0001177> .
+
+<http://www.wikidata.org/entity/Q10832> ns1:P10192 <https://homosaurus.org/v3/homoit0000213> .
+
+<http://www.wikidata.org/entity/Q108375203> ns1:P10192 <https://homosaurus.org/v3/homoit0000448> .
+
+<http://www.wikidata.org/entity/Q1084257> ns1:P10192 <https://homosaurus.org/v3/homoit0000639> .
+
+<http://www.wikidata.org/entity/Q108441288> ns1:P10192 <https://homosaurus.org/v3/homoit0001156> .
+
+<http://www.wikidata.org/entity/Q1085588> ns1:P10192 <https://homosaurus.org/v3/homoit0001465> .
+
+<http://www.wikidata.org/entity/Q108738031> ns1:P10192 <https://homosaurus.org/v3/homoit0001486> .
+
+<http://www.wikidata.org/entity/Q108861466> ns1:P10192 <https://homosaurus.org/v3/homoit0000471> .
+
+<http://www.wikidata.org/entity/Q108861472> ns1:P10192 <https://homosaurus.org/v3/homoit0000463> .
+
+<http://www.wikidata.org/entity/Q108866835> ns1:P10192 <https://homosaurus.org/v3/homoit0000513>,
+        <https://homosaurus.org/v3/homoit0001969> .
+
+<http://www.wikidata.org/entity/Q108874572> ns1:P10192 <https://homosaurus.org/v3/homoit0000217> .
+
+<http://www.wikidata.org/entity/Q108917284> ns1:P10192 <https://homosaurus.org/v3/homoit0000517> .
+
+<http://www.wikidata.org/entity/Q108939729> ns1:P10192 <https://homosaurus.org/v3/homoit0001390> .
+
+<http://www.wikidata.org/entity/Q109291072> ns1:P10192 <https://homosaurus.org/v3/homoit0000470> .
+
+<http://www.wikidata.org/entity/Q1093205> ns1:P10192 <https://homosaurus.org/v3/homoit0001924> .
+
+<http://www.wikidata.org/entity/Q109480297> ns1:P10192 <https://homosaurus.org/v3/homoit0000286> .
+
+<http://www.wikidata.org/entity/Q109482902> ns1:P10192 <https://homosaurus.org/v3/homoit0000510> .
+
+<http://www.wikidata.org/entity/Q109501952> ns1:P10192 <https://homosaurus.org/v3/homoit0000071> .
+
+<http://www.wikidata.org/entity/Q109581585> ns1:P10192 <https://homosaurus.org/v3/homoit0000742> .
+
+<http://www.wikidata.org/entity/Q109607093> ns1:P10192 <https://homosaurus.org/v3/homoit0000557>,
+        <https://homosaurus.org/v3/homoit0001228> .
+
+<http://www.wikidata.org/entity/Q109700843> ns1:P10192 <https://homosaurus.org/v3/homoit0001265> .
+
+<http://www.wikidata.org/entity/Q1097630> ns1:P10192 <https://homosaurus.org/v3/homoit0000352> .
+
+<http://www.wikidata.org/entity/Q1098028> ns1:P10192 <https://homosaurus.org/v3/homoit0000456> .
+
+<http://www.wikidata.org/entity/Q109964663> ns1:P10192 <https://homosaurus.org/v3/homoit0001589> .
+
+<http://www.wikidata.org/entity/Q110022526> ns1:P10192 <https://homosaurus.org/v3/homoit0000489> .
+
+<http://www.wikidata.org/entity/Q110256630> ns1:P10192 <https://homosaurus.org/v3/homoit0000021> .
+
+<http://www.wikidata.org/entity/Q110256681> ns1:P10192 <https://homosaurus.org/v3/homoit0000003> .
+
+<http://www.wikidata.org/entity/Q110256737> ns1:P10192 <https://homosaurus.org/v3/homoit0000025> .
+
+<http://www.wikidata.org/entity/Q110256827> ns1:P10192 <https://homosaurus.org/v3/homoit0001535> .
+
+<http://www.wikidata.org/entity/Q110256843> ns1:P10192 <https://homosaurus.org/v3/homoit0001481> .
+
+<http://www.wikidata.org/entity/Q110266417> ns1:P10192 <https://homosaurus.org/v3/homoit0001789> .
+
+<http://www.wikidata.org/entity/Q110271724> ns1:P10192 <https://homosaurus.org/v3/homoit0000556> .
+
+<http://www.wikidata.org/entity/Q110273030> ns1:P10192 <https://homosaurus.org/v3/homoit0001247> .
+
+<http://www.wikidata.org/entity/Q110275985> ns1:P10192 <https://homosaurus.org/v3/homoit0000739> .
+
+<http://www.wikidata.org/entity/Q110292677> ns1:P10192 <https://homosaurus.org/v3/homoit0000493> .
+
+<http://www.wikidata.org/entity/Q110295146> ns1:P10192 <https://homosaurus.org/v3/homoit0001754> .
+
+<http://www.wikidata.org/entity/Q110297576> ns1:P10192 <https://homosaurus.org/v3/homoit0000698> .
+
+<http://www.wikidata.org/entity/Q110404039> ns1:P10192 <https://homosaurus.org/v3/homoit0001423> .
+
+<http://www.wikidata.org/entity/Q110416422> ns1:P10192 <https://homosaurus.org/v3/homoit0000067> .
+
+<http://www.wikidata.org/entity/Q110515686> ns1:P10192 <https://homosaurus.org/v3/homoit0001651> .
+
+<http://www.wikidata.org/entity/Q110541178> ns1:P10192 <https://homosaurus.org/v3/homoit0000627> .
+
+<http://www.wikidata.org/entity/Q11076311> ns1:P10192 <https://homosaurus.org/v3/homoit0000500> .
+
+<http://www.wikidata.org/entity/Q110867016> ns1:P10192 <https://homosaurus.org/v3/homoit0001115> .
+
+<http://www.wikidata.org/entity/Q111107359> ns1:P10192 <https://homosaurus.org/v3/homoit0000103> .
+
+<http://www.wikidata.org/entity/Q1112128> ns1:P10192 <https://homosaurus.org/v3/homoit0001494> .
+
+<http://www.wikidata.org/entity/Q11122599> ns1:P10192 <https://homosaurus.org/v3/homoit0000981> .
+
+<http://www.wikidata.org/entity/Q111489136> ns1:P10192 <https://homosaurus.org/v3/homoit0001588> .
+
+<http://www.wikidata.org/entity/Q111823010> ns1:P10192 <https://homosaurus.org/v3/homoit0000804> .
+
+<http://www.wikidata.org/entity/Q111971354> ns1:P10192 <https://homosaurus.org/v3/homoit0001714> .
+
+<http://www.wikidata.org/entity/Q111980522> ns1:P10192 <https://homosaurus.org/v3/homoit0001576> .
+
+<http://www.wikidata.org/entity/Q111980524> ns1:P10192 <https://homosaurus.org/v3/homoit0001576> .
+
+<http://www.wikidata.org/entity/Q111980734> ns1:P10192 <https://homosaurus.org/v3/homoit0001575> .
+
+<http://www.wikidata.org/entity/Q111980753> ns1:P10192 <https://homosaurus.org/v3/homoit0001575> .
+
+<http://www.wikidata.org/entity/Q112226925> ns1:P10192 <https://homosaurus.org/v3/homoit0001483> .
+
+<http://www.wikidata.org/entity/Q1128431> ns1:P10192 <https://homosaurus.org/v3/homoit0001489> .
+
+<http://www.wikidata.org/entity/Q112865153> ns1:P10192 <https://homosaurus.org/v3/homoit0001809> .
+
+<http://www.wikidata.org/entity/Q112865188> ns1:P10192 <https://homosaurus.org/v3/homoit0001810> .
+
+<http://www.wikidata.org/entity/Q112871990> ns1:P10192 <https://homosaurus.org/v3/homoit0001073> .
+
+<http://www.wikidata.org/entity/Q11294156> ns1:P10192 <https://homosaurus.org/v3/homoit0001068> .
+
+<http://www.wikidata.org/entity/Q1132108> ns1:P10192 <https://homosaurus.org/v3/homoit0000657> .
+
+<http://www.wikidata.org/entity/Q1134368> ns1:P10192 <https://homosaurus.org/v3/homoit0001006> .
+
+<http://www.wikidata.org/entity/Q1135287> ns1:P10192 <https://homosaurus.org/v3/homoit0000306> .
+
+<http://www.wikidata.org/entity/Q11364> ns1:P10192 <https://homosaurus.org/v3/homoit0000651> .
+
+<http://www.wikidata.org/entity/Q1137326> ns1:P10192 <https://homosaurus.org/v3/homoit0001561> .
+
+<http://www.wikidata.org/entity/Q1137463> ns1:P10192 <https://homosaurus.org/v3/homoit0001291> .
+
+<http://www.wikidata.org/entity/Q1139657> ns1:P10192 <https://homosaurus.org/v3/homoit0000034> .
+
+<http://www.wikidata.org/entity/Q114079361> ns1:P10192 <https://homosaurus.org/v3/homoit0001197> .
+
+<http://www.wikidata.org/entity/Q114079439> ns1:P10192 <https://homosaurus.org/v3/homoit0001433> .
+
+<http://www.wikidata.org/entity/Q1141526> ns1:P10192 <https://homosaurus.org/v3/homoit0001343> .
+
+<http://www.wikidata.org/entity/Q1141983> ns1:P10192 <https://homosaurus.org/v3/homoit0000319> .
+
+<http://www.wikidata.org/entity/Q11460> ns1:P10192 <https://homosaurus.org/v3/homoit0000289> .
+
+<http://www.wikidata.org/entity/Q114609471> ns1:P10192 <https://homosaurus.org/v3/homoit0000174> .
+
+<http://www.wikidata.org/entity/Q114609479> ns1:P10192 <https://homosaurus.org/v3/homoit0000762> .
+
+<http://www.wikidata.org/entity/Q11491595> ns1:P10192 <https://homosaurus.org/v3/homoit0000572> .
+
+<http://www.wikidata.org/entity/Q11493441> ns1:P10192 <https://homosaurus.org/v3/homoit0001311> .
+
+<http://www.wikidata.org/entity/Q115432270> ns1:P10192 <https://homosaurus.org/v3/homoit0000757> .
+
+<http://www.wikidata.org/entity/Q115689759> ns1:P10192 <https://homosaurus.org/v3/homoit0001042> .
+
+<http://www.wikidata.org/entity/Q115769587> ns1:P10192 <https://homosaurus.org/v3/homoit0000030> .
+
+<http://www.wikidata.org/entity/Q115777618> ns1:P10192 <https://homosaurus.org/v3/homoit0000530> .
+
+<http://www.wikidata.org/entity/Q115857011> ns1:P10192 <https://homosaurus.org/v3/homoit0001753> .
+
+<http://www.wikidata.org/entity/Q116025472> ns1:P10192 <https://homosaurus.org/v3/homoit0000930> .
+
+<http://www.wikidata.org/entity/Q116167940> ns1:P10192 <https://homosaurus.org/v3/homoit0000881> .
+
+<http://www.wikidata.org/entity/Q116168059> ns1:P10192 <https://homosaurus.org/v3/homoit0000268> .
+
+<http://www.wikidata.org/entity/Q116543473> ns1:P10192 <https://homosaurus.org/v3/homoit0001741> .
+
+<http://www.wikidata.org/entity/Q1165905> ns1:P10192 <https://homosaurus.org/v3/homoit0001295> .
+
+<http://www.wikidata.org/entity/Q116680125> ns1:P10192 <https://homosaurus.org/v3/homoit0002198> .
+
+<http://www.wikidata.org/entity/Q11858658> ns1:P10192 <https://homosaurus.org/v3/homoit0001102> .
+
+<http://www.wikidata.org/entity/Q11894636> ns1:P10192 <https://homosaurus.org/v3/homoit0001817> .
+
+<http://www.wikidata.org/entity/Q11920938> ns1:P10192 <https://homosaurus.org/v3/homoit0000989> .
+
+<http://www.wikidata.org/entity/Q120434407> ns1:P10192 <https://homosaurus.org/v3/homoit0002142> .
+
+<http://www.wikidata.org/entity/Q120434444> ns1:P10192 <https://homosaurus.org/v3/homoit0002147> .
+
+<http://www.wikidata.org/entity/Q120434478> ns1:P10192 <https://homosaurus.org/v3/homoit0002157> .
+
+<http://www.wikidata.org/entity/Q120434499> ns1:P10192 <https://homosaurus.org/v3/homoit0002202> .
+
+<http://www.wikidata.org/entity/Q120434510> ns1:P10192 <https://homosaurus.org/v3/homoit0002203> .
+
+<http://www.wikidata.org/entity/Q120434532> ns1:P10192 <https://homosaurus.org/v3/homoit0001751> .
+
+<http://www.wikidata.org/entity/Q12135> ns1:P10192 <https://homosaurus.org/v3/homoit0001011> .
+
+<http://www.wikidata.org/entity/Q12140> ns1:P10192 <https://homosaurus.org/v3/homoit0001007> .
+
+<http://www.wikidata.org/entity/Q12198> ns1:P10192 <https://homosaurus.org/v3/homoit0001308> .
+
+<http://www.wikidata.org/entity/Q12199> ns1:P10192 <https://homosaurus.org/v3/homoit0000005> .
+
+<http://www.wikidata.org/entity/Q122229711> ns1:P10192 <https://homosaurus.org/v3/homoit0001592> .
+
+<http://www.wikidata.org/entity/Q122751088> ns1:P10192 <https://homosaurus.org/v3/homoit0000236> .
+
+<http://www.wikidata.org/entity/Q122764323> ns1:P10192 <https://homosaurus.org/v3/homoit0000875> .
+
+<http://www.wikidata.org/entity/Q1230584> ns1:P10192 <https://homosaurus.org/v3/homoit0000358> .
+
+<http://www.wikidata.org/entity/Q12309880> ns1:P10192 <https://homosaurus.org/v3/homoit0001662> .
+
+<http://www.wikidata.org/entity/Q12338229> ns1:P10192 <https://homosaurus.org/v3/homoit0001336> .
+
+<http://www.wikidata.org/entity/Q123851035> ns1:P10192 <https://homosaurus.org/v3/homoit0002285> .
+
+<http://www.wikidata.org/entity/Q123851037> ns1:P10192 <https://homosaurus.org/v3/homoit0002226> .
+
+<http://www.wikidata.org/entity/Q123851038> ns1:P10192 <https://homosaurus.org/v3/homoit0002342> .
+
+<http://www.wikidata.org/entity/Q123851043> ns1:P10192 <https://homosaurus.org/v3/homoit0000013> .
+
+<http://www.wikidata.org/entity/Q123851050> ns1:P10192 <https://homosaurus.org/v3/homoit0000360> .
+
+<http://www.wikidata.org/entity/Q123851082> ns1:P10192 <https://homosaurus.org/v3/homoit0000910> .
+
+<http://www.wikidata.org/entity/Q123851660> ns1:P10192 <https://homosaurus.org/v3/homoit0000431> .
+
+<http://www.wikidata.org/entity/Q1254525> ns1:P10192 <https://homosaurus.org/v3/homoit0000373>,
+        <https://homosaurus.org/v3/homoit0000983> .
+
+<http://www.wikidata.org/entity/Q1255251> ns1:P10192 <https://homosaurus.org/v3/homoit0000410> .
+
+<http://www.wikidata.org/entity/Q125719481> ns1:P10192 <https://homosaurus.org/v3/homoit0000765> .
+
+<http://www.wikidata.org/entity/Q1261491> ns1:P10192 <https://homosaurus.org/v3/homoit0000984> .
+
+<http://www.wikidata.org/entity/Q1270787> ns1:P10192 <https://homosaurus.org/v3/homoit0001692> .
+
+<http://www.wikidata.org/entity/Q12754745> ns1:P10192 <https://homosaurus.org/v3/homoit0000997> .
+
+<http://www.wikidata.org/entity/Q12758374> ns1:P10192 <https://homosaurus.org/v3/homoit0000421> .
+
+<http://www.wikidata.org/entity/Q12809489> ns1:P10192 <https://homosaurus.org/v3/homoit0000993> .
+
+<http://www.wikidata.org/entity/Q1283059> ns1:P10192 <https://homosaurus.org/v3/homoit0001649> .
+
+<http://www.wikidata.org/entity/Q12905217> ns1:P10192 <https://homosaurus.org/v3/homoit0000108>,
+        <https://homosaurus.org/v3/homoit0000170> .
+
+<http://www.wikidata.org/entity/Q1297897> ns1:P10192 <https://homosaurus.org/v3/homoit0001276> .
+
+<http://www.wikidata.org/entity/Q1299632> ns1:P10192 <https://homosaurus.org/v3/homoit0000991> .
+
+<http://www.wikidata.org/entity/Q131295> ns1:P10192 <https://homosaurus.org/v3/homoit0000223> .
+
+<http://www.wikidata.org/entity/Q131543> ns1:P10192 <https://homosaurus.org/v3/homoit0000394> .
+
+<http://www.wikidata.org/entity/Q1318776> ns1:P10192 <https://homosaurus.org/v3/homoit0001362> .
+
+<http://www.wikidata.org/entity/Q1332427> ns1:P10192 <https://homosaurus.org/v3/homoit0000599> .
+
+<http://www.wikidata.org/entity/Q133993> ns1:P10192 <https://homosaurus.org/v3/homoit0000400> .
+
+<http://www.wikidata.org/entity/Q134154> ns1:P10192 <https://homosaurus.org/v3/homoit0000040> .
+
+<http://www.wikidata.org/entity/Q1361427> ns1:P10192 <https://homosaurus.org/v3/homoit0001242> .
+
+<http://www.wikidata.org/entity/Q1377445> ns1:P10192 <https://homosaurus.org/v3/homoit0000296> .
+
+<http://www.wikidata.org/entity/Q1379223> ns1:P10192 <https://homosaurus.org/v3/homoit0000069> .
+
+<http://www.wikidata.org/entity/Q138686> ns1:P10192 <https://homosaurus.org/v3/homoit0001274> .
+
+<http://www.wikidata.org/entity/Q1399232> ns1:P10192 <https://homosaurus.org/v3/homoit0000413> .
+
+<http://www.wikidata.org/entity/Q14076> ns1:P10192 <https://homosaurus.org/v3/homoit0000299> .
+
+<http://www.wikidata.org/entity/Q1410477> ns1:P10192 <https://homosaurus.org/v3/homoit0001808> .
+
+<http://www.wikidata.org/entity/Q1412313> ns1:P10192 <https://homosaurus.org/v3/homoit0001342> .
+
+<http://www.wikidata.org/entity/Q1434843> ns1:P10192 <https://homosaurus.org/v3/homoit0000595> .
+
+<http://www.wikidata.org/entity/Q1436248> ns1:P10192 <https://homosaurus.org/v3/homoit0001335> .
+
+<http://www.wikidata.org/entity/Q1454125> ns1:P10192 <https://homosaurus.org/v3/homoit0000278> .
+
+<http://www.wikidata.org/entity/Q146491> ns1:P10192 <https://homosaurus.org/v3/homoit0000313> .
+
+<http://www.wikidata.org/entity/Q1464965> ns1:P10192 <https://homosaurus.org/v3/homoit0001852> .
+
+<http://www.wikidata.org/entity/Q1471642> ns1:P10192 <https://homosaurus.org/v3/homoit0001014> .
+
+<http://www.wikidata.org/entity/Q1492584> ns1:P10192 <https://homosaurus.org/v3/homoit0000461> .
+
+<http://www.wikidata.org/entity/Q1501335> ns1:P10192 <https://homosaurus.org/v3/homoit0000566> .
+
+<http://www.wikidata.org/entity/Q1503443> ns1:P10192 <https://homosaurus.org/v3/homoit0001261> .
+
+<http://www.wikidata.org/entity/Q1505902> ns1:P10192 <https://homosaurus.org/v3/homoit0001337> .
+
+<http://www.wikidata.org/entity/Q1514248> ns1:P10192 <https://homosaurus.org/v3/homoit0001539> .
+
+<http://www.wikidata.org/entity/Q15145778> ns1:P10192 <https://homosaurus.org/v3/homoit0000270> .
+
+<http://www.wikidata.org/entity/Q1516555> ns1:P10192 <https://homosaurus.org/v3/homoit0000667> .
+
+<http://www.wikidata.org/entity/Q152213> ns1:P10192 <https://homosaurus.org/v3/homoit0001344> .
+
+<http://www.wikidata.org/entity/Q15269209> ns1:P10192 <https://homosaurus.org/v3/homoit0001666> .
+
+<http://www.wikidata.org/entity/Q1527023> ns1:P10192 <https://homosaurus.org/v3/homoit0001262> .
+
+<http://www.wikidata.org/entity/Q152910> ns1:P10192 <https://homosaurus.org/v3/homoit0001503> .
+
+<http://www.wikidata.org/entity/Q1531507> ns1:P10192 <https://homosaurus.org/v3/homoit0000475> .
+
+<http://www.wikidata.org/entity/Q15326> ns1:P10192 <https://homosaurus.org/v3/homoit0001530> .
+
+<http://www.wikidata.org/entity/Q1537534> ns1:P10192 <https://homosaurus.org/v3/homoit0001851> .
+
+<http://www.wikidata.org/entity/Q1538947> ns1:P10192 <https://homosaurus.org/v3/homoit0000303> .
+
+<http://www.wikidata.org/entity/Q15404978> ns1:P10192 <https://homosaurus.org/v3/homoit0000568> .
+
+<http://www.wikidata.org/entity/Q15580856> ns1:P10192 <https://homosaurus.org/v3/homoit0000438> .
+
+<http://www.wikidata.org/entity/Q1558568> ns1:P10192 <https://homosaurus.org/v3/homoit0001090> .
+
+<http://www.wikidata.org/entity/Q1563086> ns1:P10192 <https://homosaurus.org/v3/homoit0001218> .
+
+<http://www.wikidata.org/entity/Q1567197> ns1:P10192 <https://homosaurus.org/v3/homoit0001327> .
+
+<http://www.wikidata.org/entity/Q1567201> ns1:P10192 <https://homosaurus.org/v3/homoit0001340> .
+
+<http://www.wikidata.org/entity/Q15695258> ns1:P10192 <https://homosaurus.org/v3/homoit0000753> .
+
+<http://www.wikidata.org/entity/Q1575643> ns1:P10192 <https://homosaurus.org/v3/homoit0000609> .
+
+<http://www.wikidata.org/entity/Q157943> ns1:P10192 <https://homosaurus.org/v3/homoit0001114> .
+
+<http://www.wikidata.org/entity/Q15808> ns1:P10192 <https://homosaurus.org/v3/homoit0000608> .
+
+<http://www.wikidata.org/entity/Q1583202> ns1:P10192 <https://homosaurus.org/v3/homoit0000450> .
+
+<http://www.wikidata.org/entity/Q15930278> ns1:P10192 <https://homosaurus.org/v3/homoit0002041> .
+
+<http://www.wikidata.org/entity/Q15951126> ns1:P10192 <https://homosaurus.org/v3/homoit0001313> .
+
+<http://www.wikidata.org/entity/Q16002379> ns1:P10192 <https://homosaurus.org/v3/homoit0000229> .
+
+<http://www.wikidata.org/entity/Q16131050> ns1:P10192 <https://homosaurus.org/v3/homoit0000085> .
+
+<http://www.wikidata.org/entity/Q16262180> ns1:P10192 <https://homosaurus.org/v3/homoit0000106> .
+
+<http://www.wikidata.org/entity/Q1630725> ns1:P10192 <https://homosaurus.org/v3/homoit0000346> .
+
+<http://www.wikidata.org/entity/Q1632385> ns1:P10192 <https://homosaurus.org/v3/homoit0001556> .
+
+<http://www.wikidata.org/entity/Q1638401> ns1:P10192 <https://homosaurus.org/v3/homoit0000368> .
+
+<http://www.wikidata.org/entity/Q164654> ns1:P10192 <https://homosaurus.org/v3/homoit0001487> .
+
+<http://www.wikidata.org/entity/Q165371> ns1:P10192 <https://homosaurus.org/v3/homoit0001116> .
+
+<http://www.wikidata.org/entity/Q1656146> ns1:P10192 <https://homosaurus.org/v3/homoit0001326> .
+
+<http://www.wikidata.org/entity/Q1662673> ns1:P10192 <https://homosaurus.org/v3/homoit0000579> .
+
+<http://www.wikidata.org/entity/Q167918> ns1:P10192 <https://homosaurus.org/v3/homoit0000602> .
+
+<http://www.wikidata.org/entity/Q1681856> ns1:P10192 <https://homosaurus.org/v3/homoit0001010> .
+
+<http://www.wikidata.org/entity/Q168210> ns1:P10192 <https://homosaurus.org/v3/homoit0000665> .
+
+<http://www.wikidata.org/entity/Q17004012> ns1:P10192 <https://homosaurus.org/v3/homoit0000670> .
+
+<http://www.wikidata.org/entity/Q17007178> ns1:P10192 <https://homosaurus.org/v3/homoit0001904> .
+
+<http://www.wikidata.org/entity/Q17009830> ns1:P10192 <https://homosaurus.org/v3/homoit0001134> .
+
+<http://www.wikidata.org/entity/Q17014350> ns1:P10192 <https://homosaurus.org/v3/homoit0001383> .
+
+<http://www.wikidata.org/entity/Q17014367> ns1:P10192 <https://homosaurus.org/v3/homoit0001447> .
+
+<http://www.wikidata.org/entity/Q170538> ns1:P10192 <https://homosaurus.org/v3/homoit0001493> .
+
+<http://www.wikidata.org/entity/Q170585> ns1:P10192 <https://homosaurus.org/v3/homoit0001124> .
+
+<http://www.wikidata.org/entity/Q1707435> ns1:P10192 <https://homosaurus.org/v3/homoit0000281> .
+
+<http://www.wikidata.org/entity/Q170912> ns1:P10192 <https://homosaurus.org/v3/homoit0001280> .
+
+<http://www.wikidata.org/entity/Q17145385> ns1:P10192 <https://homosaurus.org/v3/homoit0001080> .
+
+<http://www.wikidata.org/entity/Q17148251> ns1:P10192 <https://homosaurus.org/v3/homoit0001471> .
+
+<http://www.wikidata.org/entity/Q17166092> ns1:P10192 <https://homosaurus.org/v3/homoit0002263> .
+
+<http://www.wikidata.org/entity/Q1718317> ns1:P10192 <https://homosaurus.org/v3/homoit0002177> .
+
+<http://www.wikidata.org/entity/Q1740706> ns1:P10192 <https://homosaurus.org/v3/homoit0000688> .
+
+<http://www.wikidata.org/entity/Q17422> ns1:P10192 <https://homosaurus.org/v3/homoit0000504> .
+
+<http://www.wikidata.org/entity/Q1742659> ns1:P10192 <https://homosaurus.org/v3/homoit0000803> .
+
+<http://www.wikidata.org/entity/Q17542970> ns1:P10192 <https://homosaurus.org/v3/homoit0000992> .
+
+<http://www.wikidata.org/entity/Q1761413> ns1:P10192 <https://homosaurus.org/v3/homoit0000314> .
+
+<http://www.wikidata.org/entity/Q17625913> ns1:P10192 <https://homosaurus.org/v3/homoit0000276>,
+        <https://homosaurus.org/v3/homoit0000531>,
+        <https://homosaurus.org/v3/homoit0000775>,
+        <https://homosaurus.org/v3/homoit0001206> .
+
+<http://www.wikidata.org/entity/Q17737> ns1:P10192 <https://homosaurus.org/v3/homoit0001365> .
+
+<http://www.wikidata.org/entity/Q1774784> ns1:P10192 <https://homosaurus.org/v3/homoit0000283> .
+
+<http://www.wikidata.org/entity/Q178066> ns1:P10192 <https://homosaurus.org/v3/homoit0000967> .
+
+<http://www.wikidata.org/entity/Q1784017> ns1:P10192 <https://homosaurus.org/v3/homoit0001259> .
+
+<http://www.wikidata.org/entity/Q17884> ns1:P10192 <https://homosaurus.org/v3/homoit0000594>,
+        <https://homosaurus.org/v3/homoit0000805>,
+        <https://homosaurus.org/v3/homoit0000807>,
+        <https://homosaurus.org/v3/homoit0000882>,
+        <https://homosaurus.org/v3/homoit0000915> .
+
+<http://www.wikidata.org/entity/Q17888> ns1:P10192 <https://homosaurus.org/v3/homoit0001298> .
+
+<http://www.wikidata.org/entity/Q1789938> ns1:P10192 <https://homosaurus.org/v3/homoit0001845> .
+
+<http://www.wikidata.org/entity/Q17900> ns1:P10192 <https://homosaurus.org/v3/homoit0000809> .
+
+<http://www.wikidata.org/entity/Q1791388> ns1:P10192 <https://homosaurus.org/v3/homoit0001562> .
+
+<http://www.wikidata.org/entity/Q179294> ns1:P10192 <https://homosaurus.org/v3/homoit0000240> .
+
+<http://www.wikidata.org/entity/Q179415> ns1:P10192 <https://homosaurus.org/v3/homoit0000998> .
+
+<http://www.wikidata.org/entity/Q179661> ns1:P10192 <https://homosaurus.org/v3/homoit0001366> .
+
+<http://www.wikidata.org/entity/Q180225> ns1:P10192 <https://homosaurus.org/v3/homoit0000307> .
+
+<http://www.wikidata.org/entity/Q18053565> ns1:P10192 <https://homosaurus.org/v3/homoit0000986> .
+
+<http://www.wikidata.org/entity/Q1806228> ns1:P10192 <https://homosaurus.org/v3/homoit0001060> .
+
+<http://www.wikidata.org/entity/Q1809145> ns1:P10192 <https://homosaurus.org/v3/homoit0001355> .
+
+<http://www.wikidata.org/entity/Q181001> ns1:P10192 <https://homosaurus.org/v3/homoit0000403> .
+
+<http://www.wikidata.org/entity/Q18116794> ns1:P10192 <https://homosaurus.org/v3/homoit0000569> .
+
+<http://www.wikidata.org/entity/Q18211073> ns1:P10192 <https://homosaurus.org/v3/homoit0001183> .
+
+<http://www.wikidata.org/entity/Q18211652> ns1:P10192 <https://homosaurus.org/v3/homoit0001892> .
+
+<http://www.wikidata.org/entity/Q18231> ns1:P10192 <https://homosaurus.org/v3/homoit0001529> .
+
+<http://www.wikidata.org/entity/Q18299> ns1:P10192 <https://homosaurus.org/v3/homoit0000741> .
+
+<http://www.wikidata.org/entity/Q183548> ns1:P10192 <https://homosaurus.org/v3/homoit0001257> .
+
+<http://www.wikidata.org/entity/Q1840469> ns1:P10192 <https://homosaurus.org/v3/homoit0001033> .
+
+<http://www.wikidata.org/entity/Q184211> ns1:P10192 <https://homosaurus.org/v3/homoit0001019> .
+
+<http://www.wikidata.org/entity/Q184674> ns1:P10192 <https://homosaurus.org/v3/homoit0000398> .
+
+<http://www.wikidata.org/entity/Q1862618> ns1:P10192 <https://homosaurus.org/v3/homoit0000502> .
+
+<http://www.wikidata.org/entity/Q188641> ns1:P10192 <https://homosaurus.org/v3/homoit0001984> .
+
+<http://www.wikidata.org/entity/Q1889215> ns1:P10192 <https://homosaurus.org/v3/homoit0001850> .
+
+<http://www.wikidata.org/entity/Q189125> ns1:P10192 <https://homosaurus.org/v3/homoit0001378>,
+        <https://homosaurus.org/v3/homoit0001563> .
+
+<http://www.wikidata.org/entity/Q190007> ns1:P10192 <https://homosaurus.org/v3/homoit0001520> .
+
+<http://www.wikidata.org/entity/Q190845> ns1:P10192 <https://homosaurus.org/v3/homoit0000102> .
+
+<http://www.wikidata.org/entity/Q190965> ns1:P10192 <https://homosaurus.org/v3/homoit0001380>,
+        <https://homosaurus.org/v3/homoit0001468> .
+
+<http://www.wikidata.org/entity/Q191778> ns1:P10192 <https://homosaurus.org/v3/homoit0000244> .
+
+<http://www.wikidata.org/entity/Q192280> ns1:P10192 <https://homosaurus.org/v3/homoit0001271> .
+
+<http://www.wikidata.org/entity/Q1937808> ns1:P10192 <https://homosaurus.org/v3/homoit0002199> .
+
+<http://www.wikidata.org/entity/Q1940866> ns1:P10192 <https://homosaurus.org/v3/homoit0000158> .
+
+<http://www.wikidata.org/entity/Q194517> ns1:P10192 <https://homosaurus.org/v3/homoit0000293> .
+
+<http://www.wikidata.org/entity/Q19509201> ns1:P10192 <https://homosaurus.org/v3/homoit0000007> .
+
+<http://www.wikidata.org/entity/Q1956046> ns1:P10192 <https://homosaurus.org/v3/homoit0001001> .
+
+<http://www.wikidata.org/entity/Q1968653> ns1:P10192 <https://homosaurus.org/v3/homoit0001849> .
+
+<http://www.wikidata.org/entity/Q1969172> ns1:P10192 <https://homosaurus.org/v3/homoit0001839> .
+
+<http://www.wikidata.org/entity/Q1974238> ns1:P10192 <https://homosaurus.org/v3/homoit0000402> .
+
+<http://www.wikidata.org/entity/Q1975772> ns1:P10192 <https://homosaurus.org/v3/homoit0000418> .
+
+<http://www.wikidata.org/entity/Q1977453> ns1:P10192 <https://homosaurus.org/v3/homoit0001260> .
+
+<http://www.wikidata.org/entity/Q19801288> ns1:P10192 <https://homosaurus.org/v3/homoit0000612> .
+
+<http://www.wikidata.org/entity/Q199701> ns1:P10192 <https://homosaurus.org/v3/homoit0000685> .
+
+<http://www.wikidata.org/entity/Q200117> ns1:P10192 <https://homosaurus.org/v3/homoit0000659> .
+
+<http://www.wikidata.org/entity/Q201561> ns1:P10192 <https://homosaurus.org/v3/homoit0000351> .
+
+<http://www.wikidata.org/entity/Q20200811> ns1:P10192 <https://homosaurus.org/v3/homoit0001117> .
+
+<http://www.wikidata.org/entity/Q202444> ns1:P10192 <https://homosaurus.org/v3/homoit0000592> .
+
+<http://www.wikidata.org/entity/Q202833> ns1:P10192 <https://homosaurus.org/v3/homoit0001321> .
+
+<http://www.wikidata.org/entity/Q202849> ns1:P10192 <https://homosaurus.org/v3/homoit0001478> .
+
+<http://www.wikidata.org/entity/Q2037224> ns1:P10192 <https://homosaurus.org/v3/homoit0001079> .
+
+<http://www.wikidata.org/entity/Q20442589> ns1:P10192 <https://homosaurus.org/v3/homoit0000869> .
+
+<http://www.wikidata.org/entity/Q20474187> ns1:P10192 <https://homosaurus.org/v3/homoit0000078>,
+        <https://homosaurus.org/v3/homoit0000120>,
+        <https://homosaurus.org/v3/homoit0001648> .
+
+<http://www.wikidata.org/entity/Q205647> ns1:P10192 <https://homosaurus.org/v3/homoit0000377> .
+
+<http://www.wikidata.org/entity/Q205665> ns1:P10192 <https://homosaurus.org/v3/homoit0001323> .
+
+<http://www.wikidata.org/entity/Q206426> ns1:P10192 <https://homosaurus.org/v3/homoit0001325> .
+
+<http://www.wikidata.org/entity/Q2069010> ns1:P10192 <https://homosaurus.org/v3/homoit0001894> .
+
+<http://www.wikidata.org/entity/Q2069508> ns1:P10192 <https://homosaurus.org/v3/homoit0001806> .
+
+<http://www.wikidata.org/entity/Q207133> ns1:P10192 <https://homosaurus.org/v3/homoit0000692> .
+
+<http://www.wikidata.org/entity/Q20746742> ns1:P10192 <https://homosaurus.org/v3/homoit0000010> .
+
+<http://www.wikidata.org/entity/Q207791> ns1:P10192 <https://homosaurus.org/v3/homoit0000442> .
+
+<http://www.wikidata.org/entity/Q207959> ns1:P10192 <https://homosaurus.org/v3/homoit0000047> .
+
+<http://www.wikidata.org/entity/Q208099> ns1:P10192 <https://homosaurus.org/v3/homoit0000295> .
+
+<http://www.wikidata.org/entity/Q208373> ns1:P10192 <https://homosaurus.org/v3/homoit0000430> .
+
+<http://www.wikidata.org/entity/Q2090663> ns1:P10192 <https://homosaurus.org/v3/homoit0001664> .
+
+<http://www.wikidata.org/entity/Q2094204> ns1:P10192 <https://homosaurus.org/v3/homoit0001558> .
+
+<http://www.wikidata.org/entity/Q20974076> ns1:P10192 <https://homosaurus.org/v3/homoit0001324> .
+
+<http://www.wikidata.org/entity/Q210604> ns1:P10192 <https://homosaurus.org/v3/homoit0001510> .
+
+<http://www.wikidata.org/entity/Q210749> ns1:P10192 <https://homosaurus.org/v3/homoit0000049> .
+
+<http://www.wikidata.org/entity/Q211354> ns1:P10192 <https://homosaurus.org/v3/homoit0001094>,
+        <https://homosaurus.org/v3/homoit0001095> .
+
+<http://www.wikidata.org/entity/Q2122> ns1:P10192 <https://homosaurus.org/v3/homoit0000593> .
+
+<http://www.wikidata.org/entity/Q213456> ns1:P10192 <https://homosaurus.org/v3/homoit0000600> .
+
+<http://www.wikidata.org/entity/Q2137268> ns1:P10192 <https://homosaurus.org/v3/homoit0001479> .
+
+<http://www.wikidata.org/entity/Q2141450> ns1:P10192 <https://homosaurus.org/v3/homoit0000637> .
+
+<http://www.wikidata.org/entity/Q215127> ns1:P10192 <https://homosaurus.org/v3/homoit0001284> .
+
+<http://www.wikidata.org/entity/Q2162206> ns1:P10192 <https://homosaurus.org/v3/homoit0000415> .
+
+<http://www.wikidata.org/entity/Q2192288> ns1:P10192 <https://homosaurus.org/v3/homoit0001497> .
+
+<http://www.wikidata.org/entity/Q2197458> ns1:P10192 <https://homosaurus.org/v3/homoit0001273> .
+
+<http://www.wikidata.org/entity/Q2211650> ns1:P10192 <https://homosaurus.org/v3/homoit0000036> .
+
+<http://www.wikidata.org/entity/Q221618> ns1:P10192 <https://homosaurus.org/v3/homoit0000012> .
+
+<http://www.wikidata.org/entity/Q221810> ns1:P10192 <https://homosaurus.org/v3/homoit0000053> .
+
+<http://www.wikidata.org/entity/Q2262288> ns1:P10192 <https://homosaurus.org/v3/homoit0000209> .
+
+<http://www.wikidata.org/entity/Q2275640> ns1:P10192 <https://homosaurus.org/v3/homoit0001300> .
+
+<http://www.wikidata.org/entity/Q22809895> ns1:P10192 <https://homosaurus.org/v3/homoit0000643> .
+
+<http://www.wikidata.org/entity/Q22905873> ns1:P10192 <https://homosaurus.org/v3/homoit0000673> .
+
+<http://www.wikidata.org/entity/Q231043> ns1:P10192 <https://homosaurus.org/v3/homoit0000302> .
+
+<http://www.wikidata.org/entity/Q2343619> ns1:P10192 <https://homosaurus.org/v3/homoit0000247> .
+
+<http://www.wikidata.org/entity/Q2349> ns1:P10192 <https://homosaurus.org/v3/homoit0002578> .
+
+<http://www.wikidata.org/entity/Q235757> ns1:P10192 <https://homosaurus.org/v3/homoit0000445> .
+
+<http://www.wikidata.org/entity/Q2383974> ns1:P10192 <https://homosaurus.org/v3/homoit0000699> .
+
+<http://www.wikidata.org/entity/Q23912283> ns1:P10192 <https://homosaurus.org/v3/homoit0000343> .
+
+<http://www.wikidata.org/entity/Q240126> ns1:P10192 <https://homosaurus.org/v3/homoit0000228> .
+
+<http://www.wikidata.org/entity/Q2406467> ns1:P10192 <https://homosaurus.org/v3/homoit0000381> .
+
+<http://www.wikidata.org/entity/Q2420841> ns1:P10192 <https://homosaurus.org/v3/homoit0002270> .
+
+<http://www.wikidata.org/entity/Q2427941> ns1:P10192 <https://homosaurus.org/v3/homoit0000452> .
+
+<http://www.wikidata.org/entity/Q2449503> ns1:P10192 <https://homosaurus.org/v3/homoit0000436>,
+        <https://homosaurus.org/v3/homoit0001643> .
+
+<http://www.wikidata.org/entity/Q2449779> ns1:P10192 <https://homosaurus.org/v3/homoit0001400>,
+        <https://homosaurus.org/v3/homoit0001452> .
+
+<http://www.wikidata.org/entity/Q2484615> ns1:P10192 <https://homosaurus.org/v3/homoit0001038> .
+
+<http://www.wikidata.org/entity/Q2487865> ns1:P10192 <https://homosaurus.org/v3/homoit0001245> .
+
+<http://www.wikidata.org/entity/Q24964968> ns1:P10192 <https://homosaurus.org/v3/homoit0001139> .
+
+<http://www.wikidata.org/entity/Q251868> ns1:P10192 <https://homosaurus.org/v3/homoit0000607> .
+
+<http://www.wikidata.org/entity/Q252185> ns1:P10192 <https://homosaurus.org/v3/homoit0001538> .
+
+<http://www.wikidata.org/entity/Q2526300> ns1:P10192 <https://homosaurus.org/v3/homoit0001315> .
+
+<http://www.wikidata.org/entity/Q25267463> ns1:P10192 <https://homosaurus.org/v3/homoit0000629> .
+
+<http://www.wikidata.org/entity/Q25267467> ns1:P10192 <https://homosaurus.org/v3/homoit0000626> .
+
+<http://www.wikidata.org/entity/Q2536039> ns1:P10192 <https://homosaurus.org/v3/homoit0000494> .
+
+<http://www.wikidata.org/entity/Q2537421> ns1:P10192 <https://homosaurus.org/v3/homoit0000535>,
+        <https://homosaurus.org/v3/homoit0001317> .
+
+<http://www.wikidata.org/entity/Q25388691> ns1:P10192 <https://homosaurus.org/v3/homoit0000079> .
+
+<http://www.wikidata.org/entity/Q25396757> ns1:P10192 <https://homosaurus.org/v3/homoit0001834> .
+
+<http://www.wikidata.org/entity/Q25619139> ns1:P10192 <https://homosaurus.org/v3/homoit0000996> .
+
+<http://www.wikidata.org/entity/Q25659176> ns1:P10192 <https://homosaurus.org/v3/homoit0000121> .
+
+<http://www.wikidata.org/entity/Q2576697> ns1:P10192 <https://homosaurus.org/v3/homoit0001142> .
+
+<http://www.wikidata.org/entity/Q2628882> ns1:P10192 <https://homosaurus.org/v3/homoit0000712> .
+
+<http://www.wikidata.org/entity/Q2642673> ns1:P10192 <https://homosaurus.org/v3/homoit0001320> .
+
+<http://www.wikidata.org/entity/Q264965> ns1:P10192 <https://homosaurus.org/v3/homoit0001345> .
+
+<http://www.wikidata.org/entity/Q2651749> ns1:P10192 <https://homosaurus.org/v3/homoit0001621> .
+
+<http://www.wikidata.org/entity/Q2672163> ns1:P10192 <https://homosaurus.org/v3/homoit0000577> .
+
+<http://www.wikidata.org/entity/Q267907> ns1:P10192 <https://homosaurus.org/v3/homoit0000656> .
+
+<http://www.wikidata.org/entity/Q26791> ns1:P10192 <https://homosaurus.org/v3/homoit0000416> .
+
+<http://www.wikidata.org/entity/Q2704283> ns1:P10192 <https://homosaurus.org/v3/homoit0001484>,
+        <https://homosaurus.org/v3/homoit0001564> .
+
+<http://www.wikidata.org/entity/Q271534> ns1:P10192 <https://homosaurus.org/v3/homoit0001926> .
+
+<http://www.wikidata.org/entity/Q272026> ns1:P10192 <https://homosaurus.org/v3/homoit0001123> .
+
+<http://www.wikidata.org/entity/Q2735540> ns1:P10192 <https://homosaurus.org/v3/homoit0001283> .
+
+<http://www.wikidata.org/entity/Q273972> ns1:P10192 <https://homosaurus.org/v3/homoit0000086> .
+
+<http://www.wikidata.org/entity/Q27410> ns1:P10192 <https://homosaurus.org/v3/homoit0001096> .
+
+<http://www.wikidata.org/entity/Q2743> ns1:P10192 <https://homosaurus.org/v3/homoit0001031> .
+
+<http://www.wikidata.org/entity/Q27679684> ns1:P10192 <https://homosaurus.org/v3/homoit0001821> .
+
+<http://www.wikidata.org/entity/Q27679766> ns1:P10192 <https://homosaurus.org/v3/homoit0001820> .
+
+<http://www.wikidata.org/entity/Q277954> ns1:P10192 <https://homosaurus.org/v3/homoit0000407> .
+
+<http://www.wikidata.org/entity/Q2797937> ns1:P10192 <https://homosaurus.org/v3/homoit0000565> .
+
+<http://www.wikidata.org/entity/Q28001435> ns1:P10192 <https://homosaurus.org/v3/homoit0000666> .
+
+<http://www.wikidata.org/entity/Q28003155> ns1:P10192 <https://homosaurus.org/v3/homoit0002040> .
+
+<http://www.wikidata.org/entity/Q28129894> ns1:P10192 <https://homosaurus.org/v3/homoit0000440> .
+
+<http://www.wikidata.org/entity/Q28130022> ns1:P10192 <https://homosaurus.org/v3/homoit0000092> .
+
+<http://www.wikidata.org/entity/Q28134845> ns1:P10192 <https://homosaurus.org/v3/homoit0000328> .
+
+<http://www.wikidata.org/entity/Q28439795> ns1:P10192 <https://homosaurus.org/v3/homoit0001377> .
+
+<http://www.wikidata.org/entity/Q28472> ns1:P10192 <https://homosaurus.org/v3/homoit0000605> .
+
+<http://www.wikidata.org/entity/Q2896360> ns1:P10192 <https://homosaurus.org/v3/homoit0000701> .
+
+<http://www.wikidata.org/entity/Q290> ns1:P10192 <https://homosaurus.org/v3/homoit0001269> .
+
+<http://www.wikidata.org/entity/Q2904759> ns1:P10192 <https://homosaurus.org/v3/homoit0000205> .
+
+<http://www.wikidata.org/entity/Q291> ns1:P10192 <https://homosaurus.org/v3/homoit0001128> .
+
+<http://www.wikidata.org/entity/Q2914207> ns1:P10192 <https://homosaurus.org/v3/homoit0001230> .
+
+<http://www.wikidata.org/entity/Q2914621> ns1:P10192 <https://homosaurus.org/v3/homoit0001647> .
+
+<http://www.wikidata.org/entity/Q2917928> ns1:P10192 <https://homosaurus.org/v3/homoit0000969> .
+
+<http://www.wikidata.org/entity/Q2920595> ns1:P10192 <https://homosaurus.org/v3/homoit0001279> .
+
+<http://www.wikidata.org/entity/Q293533> ns1:P10192 <https://homosaurus.org/v3/homoit0000032> .
+
+<http://www.wikidata.org/entity/Q2945640> ns1:P10192 <https://homosaurus.org/v3/homoit0000486> .
+
+<http://www.wikidata.org/entity/Q294949> ns1:P10192 <https://homosaurus.org/v3/homoit0000387> .
+
+<http://www.wikidata.org/entity/Q2984475> ns1:P10192 <https://homosaurus.org/v3/homoit0001848> .
+
+<http://www.wikidata.org/entity/Q29957539> ns1:P10192 <https://homosaurus.org/v3/homoit0000027> .
+
+<http://www.wikidata.org/entity/Q30072520> ns1:P10192 <https://homosaurus.org/v3/homoit0000231>,
+        <https://homosaurus.org/v3/homoit0001898> .
+
+<http://www.wikidata.org/entity/Q3010> ns1:P10192 <https://homosaurus.org/v3/homoit0000220> .
+
+<http://www.wikidata.org/entity/Q301702> ns1:P10192 <https://homosaurus.org/v3/homoit0000098>,
+        <https://homosaurus.org/v3/homoit0001480> .
+
+<http://www.wikidata.org/entity/Q3031> ns1:P10192 <https://homosaurus.org/v3/homoit0000590> .
+
+<http://www.wikidata.org/entity/Q30324198> ns1:P10192 <https://homosaurus.org/v3/homoit0000724> .
+
+<http://www.wikidata.org/entity/Q303479> ns1:P10192 <https://homosaurus.org/v3/homoit0001822> .
+
+<http://www.wikidata.org/entity/Q3043188> ns1:P10192 <https://homosaurus.org/v3/homoit0001306> .
+
+<http://www.wikidata.org/entity/Q3046146> ns1:P10192 <https://homosaurus.org/v3/homoit0000994> .
+
+<http://www.wikidata.org/entity/Q308194> ns1:P10192 <https://homosaurus.org/v3/homoit0002351> .
+
+<http://www.wikidata.org/entity/Q30849> ns1:P10192 <https://homosaurus.org/v3/homoit0000210> .
+
+<http://www.wikidata.org/entity/Q308857> ns1:P10192 <https://homosaurus.org/v3/homoit0001017> .
+
+<http://www.wikidata.org/entity/Q3090509> ns1:P10192 <https://homosaurus.org/v3/homoit0000458> .
+
+<http://www.wikidata.org/entity/Q3092671> ns1:P10192 <https://homosaurus.org/v3/homoit0000580> .
+
+<http://www.wikidata.org/entity/Q3110090> ns1:P10192 <https://homosaurus.org/v3/homoit0001272> .
+
+<http://www.wikidata.org/entity/Q31184> ns1:P10192 <https://homosaurus.org/v3/homoit0001310> .
+
+<http://www.wikidata.org/entity/Q31207> ns1:P10192 <https://homosaurus.org/v3/homoit0001004> .
+
+<http://www.wikidata.org/entity/Q3139891> ns1:P10192 <https://homosaurus.org/v3/homoit0000972> .
+
+<http://www.wikidata.org/entity/Q3177577> ns1:P10192 <https://homosaurus.org/v3/homoit0001034> .
+
+<http://www.wikidata.org/entity/Q3184856> ns1:P10192 <https://homosaurus.org/v3/homoit0000251>,
+        <https://homosaurus.org/v3/homoit0000378> .
+
+<http://www.wikidata.org/entity/Q318529> ns1:P10192 <https://homosaurus.org/v3/homoit0001251> .
+
+<http://www.wikidata.org/entity/Q322170> ns1:P10192 <https://homosaurus.org/v3/homoit0001346> .
+
+<http://www.wikidata.org/entity/Q3233982> ns1:P10192 <https://homosaurus.org/v3/homoit0001980> .
+
+<http://www.wikidata.org/entity/Q323840> ns1:P10192 <https://homosaurus.org/v3/homoit0000977> .
+
+<http://www.wikidata.org/entity/Q3240539> ns1:P10192 <https://homosaurus.org/v3/homoit0000611> .
+
+<http://www.wikidata.org/entity/Q3242821> ns1:P10192 <https://homosaurus.org/v3/homoit0000529> .
+
+<http://www.wikidata.org/entity/Q327538> ns1:P10192 <https://homosaurus.org/v3/homoit0000020> .
+
+<http://www.wikidata.org/entity/Q3277905> ns1:P10192 <https://homosaurus.org/v3/homoit0000979> .
+
+<http://www.wikidata.org/entity/Q3291045> ns1:P10192 <https://homosaurus.org/v3/homoit0001846> .
+
+<http://www.wikidata.org/entity/Q3294465> ns1:P10192 <https://homosaurus.org/v3/homoit0000750> .
+
+<http://www.wikidata.org/entity/Q33111443> ns1:P10192 <https://homosaurus.org/v3/homoit0002152> .
+
+<http://www.wikidata.org/entity/Q3333006> ns1:P10192 <https://homosaurus.org/v3/homoit0001029> .
+
+<http://www.wikidata.org/entity/Q334645> ns1:P10192 <https://homosaurus.org/v3/homoit0001347> .
+
+<http://www.wikidata.org/entity/Q33487> ns1:P10192 <https://homosaurus.org/v3/homoit0000646> .
+
+<http://www.wikidata.org/entity/Q336078> ns1:P10192 <https://homosaurus.org/v3/homoit0001270> .
+
+<http://www.wikidata.org/entity/Q3366838> ns1:P10192 <https://homosaurus.org/v3/homoit0001634> .
+
+<http://www.wikidata.org/entity/Q337084> ns1:P10192 <https://homosaurus.org/v3/homoit0000375> .
+
+<http://www.wikidata.org/entity/Q337517> ns1:P10192 <https://homosaurus.org/v3/homoit0000634> .
+
+<http://www.wikidata.org/entity/Q34074720> ns1:P10192 <https://homosaurus.org/v3/homoit0000439> .
+
+<http://www.wikidata.org/entity/Q3410369> ns1:P10192 <https://homosaurus.org/v3/homoit0000367> .
+
+<http://www.wikidata.org/entity/Q3436958> ns1:P10192 <https://homosaurus.org/v3/homoit0001659> .
+
+<http://www.wikidata.org/entity/Q3437264> ns1:P10192 <https://homosaurus.org/v3/homoit0001696> .
+
+<http://www.wikidata.org/entity/Q3449014> ns1:P10192 <https://homosaurus.org/v3/homoit0000362> .
+
+<http://www.wikidata.org/entity/Q3473038> ns1:P10192 <https://homosaurus.org/v3/homoit0001294> .
+
+<http://www.wikidata.org/entity/Q350374> ns1:P10192 <https://homosaurus.org/v3/homoit0000419> .
+
+<http://www.wikidata.org/entity/Q3511024> ns1:P10192 <https://homosaurus.org/v3/homoit0000578> .
+
+<http://www.wikidata.org/entity/Q351403> ns1:P10192 <https://homosaurus.org/v3/homoit0000143> .
+
+<http://www.wikidata.org/entity/Q3517986> ns1:P10192 <https://homosaurus.org/v3/homoit0000444> .
+
+<http://www.wikidata.org/entity/Q3519050> ns1:P10192 <https://homosaurus.org/v3/homoit0000404> .
+
+<http://www.wikidata.org/entity/Q3536652> ns1:P10192 <https://homosaurus.org/v3/homoit0001981> .
+
+<http://www.wikidata.org/entity/Q35535> ns1:P10192 <https://homosaurus.org/v3/homoit0001119> .
+
+<http://www.wikidata.org/entity/Q3569775> ns1:P10192 <https://homosaurus.org/v3/homoit0001516> .
+
+<http://www.wikidata.org/entity/Q3603531> ns1:P10192 <https://homosaurus.org/v3/homoit0000601> .
+
+<http://www.wikidata.org/entity/Q3612401> ns1:P10192 <https://homosaurus.org/v3/homoit0000038> .
+
+<http://www.wikidata.org/entity/Q36224> ns1:P10192 <https://homosaurus.org/v3/homoit0001135> .
+
+<http://www.wikidata.org/entity/Q3640197> ns1:P10192 <https://homosaurus.org/v3/homoit0000422> .
+
+<http://www.wikidata.org/entity/Q3644190> ns1:P10192 <https://homosaurus.org/v3/homoit0000636> .
+
+<http://www.wikidata.org/entity/Q365589> ns1:P10192 <https://homosaurus.org/v3/homoit0002833> .
+
+<http://www.wikidata.org/entity/Q36633> ns1:P10192 <https://homosaurus.org/v3/homoit0001136> .
+
+<http://www.wikidata.org/entity/Q366868> ns1:P10192 <https://homosaurus.org/v3/homoit0000301> .
+
+<http://www.wikidata.org/entity/Q3733713> ns1:P10192 <https://homosaurus.org/v3/homoit0000628> .
+
+<http://www.wikidata.org/entity/Q3743188> ns1:P10192 <https://homosaurus.org/v3/homoit0001533> .
+
+<http://www.wikidata.org/entity/Q376032> ns1:P10192 <https://homosaurus.org/v3/homoit0001472>,
+        <https://homosaurus.org/v3/homoit0001667>,
+        <https://homosaurus.org/v3/homoit0001669> .
+
+<http://www.wikidata.org/entity/Q37748> ns1:P10192 <https://homosaurus.org/v3/homoit0000266> .
+
+<http://www.wikidata.org/entity/Q384873> ns1:P10192 <https://homosaurus.org/v3/homoit0000704> .
+
+<http://www.wikidata.org/entity/Q3851652> ns1:P10192 <https://homosaurus.org/v3/homoit0001620> .
+
+<http://www.wikidata.org/entity/Q3866624> ns1:P10192 <https://homosaurus.org/v3/homoit0000596> .
+
+<http://www.wikidata.org/entity/Q388768> ns1:P10192 <https://homosaurus.org/v3/homoit0000041> .
+
+<http://www.wikidata.org/entity/Q391156> ns1:P10192 <https://homosaurus.org/v3/homoit0000115> .
+
+<http://www.wikidata.org/entity/Q392963> ns1:P10192 <https://homosaurus.org/v3/homoit0000022> .
+
+<http://www.wikidata.org/entity/Q40246> ns1:P10192 <https://homosaurus.org/v3/homoit0000559> .
+
+<http://www.wikidata.org/entity/Q40446> ns1:P10192 <https://homosaurus.org/v3/homoit0001052> .
+
+<http://www.wikidata.org/entity/Q41075> ns1:P10192 <https://homosaurus.org/v3/homoit0000274> .
+
+<http://www.wikidata.org/entity/Q4135211> ns1:P10192 <https://homosaurus.org/v3/homoit0001922> .
+
+<http://www.wikidata.org/entity/Q4135220> ns1:P10192 <https://homosaurus.org/v3/homoit0000581> .
+
+<http://www.wikidata.org/entity/Q4154060> ns1:P10192 <https://homosaurus.org/v3/homoit0000383> .
+
+<http://www.wikidata.org/entity/Q42165> ns1:P10192 <https://homosaurus.org/v3/homoit0000232> .
+
+<http://www.wikidata.org/entity/Q421966> ns1:P10192 <https://homosaurus.org/v3/homoit0001051> .
+
+<http://www.wikidata.org/entity/Q4249929> ns1:P10192 <https://homosaurus.org/v3/homoit0000693> .
+
+<http://www.wikidata.org/entity/Q425084> ns1:P10192 <https://homosaurus.org/v3/homoit0001527> .
+
+<http://www.wikidata.org/entity/Q427173> ns1:P10192 <https://homosaurus.org/v3/homoit0000218> .
+
+<http://www.wikidata.org/entity/Q42907814> ns1:P10192 <https://homosaurus.org/v3/homoit0000327> .
+
+<http://www.wikidata.org/entity/Q431604> ns1:P10192 <https://homosaurus.org/v3/homoit0000316>,
+        <https://homosaurus.org/v3/homoit0000318> .
+
+<http://www.wikidata.org/entity/Q43200> ns1:P10192 <https://homosaurus.org/v3/homoit0000204> .
+
+<http://www.wikidata.org/entity/Q43405> ns1:P10192 <https://homosaurus.org/v3/homoit0000412> .
+
+<http://www.wikidata.org/entity/Q4373046> ns1:P10192 <https://homosaurus.org/v3/homoit0001126> .
+
+<http://www.wikidata.org/entity/Q43812> ns1:P10192 <https://homosaurus.org/v3/homoit0001092> .
+
+<http://www.wikidata.org/entity/Q442358> ns1:P10192 <https://homosaurus.org/v3/homoit0000242> .
+
+<http://www.wikidata.org/entity/Q4540608> ns1:P10192 <https://homosaurus.org/v3/homoit0001093> .
+
+<http://www.wikidata.org/entity/Q459409> ns1:P10192 <https://homosaurus.org/v3/homoit0000109> .
+
+<http://www.wikidata.org/entity/Q4612907> ns1:P10192 <https://homosaurus.org/v3/homoit0001026> .
+
+<http://www.wikidata.org/entity/Q4620674> ns1:P10192 <https://homosaurus.org/v3/homoit0000585> .
+
+<http://www.wikidata.org/entity/Q4651855> ns1:P10192 <https://homosaurus.org/v3/homoit0000033> .
+
+<http://www.wikidata.org/entity/Q465467> ns1:P10192 <https://homosaurus.org/v3/homoit0001303> .
+
+<http://www.wikidata.org/entity/Q467> ns1:P10192 <https://homosaurus.org/v3/homoit0000435>,
+        <https://homosaurus.org/v3/homoit0001509> .
+
+<http://www.wikidata.org/entity/Q4688879> ns1:P10192 <https://homosaurus.org/v3/homoit0001828> .
+
+<http://www.wikidata.org/entity/Q4700377> ns1:P10192 <https://homosaurus.org/v3/homoit0000035> .
+
+<http://www.wikidata.org/entity/Q476112> ns1:P10192 <https://homosaurus.org/v3/homoit0001339> .
+
+<http://www.wikidata.org/entity/Q4779465> ns1:P10192 <https://homosaurus.org/v3/homoit0000064> .
+
+<http://www.wikidata.org/entity/Q4810748> ns1:P10192 <https://homosaurus.org/v3/homoit0002039> .
+
+<http://www.wikidata.org/entity/Q48264> ns1:P10192 <https://homosaurus.org/v3/homoit0000571> .
+
+<http://www.wikidata.org/entity/Q48270> ns1:P10192 <https://homosaurus.org/v3/homoit0001920> .
+
+<http://www.wikidata.org/entity/Q48277> ns1:P10192 <https://homosaurus.org/v3/homoit0000560> .
+
+<http://www.wikidata.org/entity/Q48279> ns1:P10192 <https://homosaurus.org/v3/homoit0001368> .
+
+<http://www.wikidata.org/entity/Q4849481> ns1:P10192 <https://homosaurus.org/v3/homoit0000091> .
+
+<http://www.wikidata.org/entity/Q486680> ns1:P10192 <https://homosaurus.org/v3/homoit0001469> .
+
+<http://www.wikidata.org/entity/Q48796147> ns1:P10192 <https://homosaurus.org/v3/homoit0001035> .
+
+<http://www.wikidata.org/entity/Q48803880> ns1:P10192 <https://homosaurus.org/v3/homoit0000304> .
+
+<http://www.wikidata.org/entity/Q488111> ns1:P10192 <https://homosaurus.org/v3/homoit0001127> .
+
+<http://www.wikidata.org/entity/Q491> ns1:P10192 <https://homosaurus.org/v3/homoit0000455> .
+
+<http://www.wikidata.org/entity/Q4918888> ns1:P10192 <https://homosaurus.org/v3/homoit0000206> .
+
+<http://www.wikidata.org/entity/Q492926> ns1:P10192 <https://homosaurus.org/v3/homoit0001045> .
+
+<http://www.wikidata.org/entity/Q494348> ns1:P10192 <https://homosaurus.org/v3/homoit0000324> .
+
+<http://www.wikidata.org/entity/Q49773> ns1:P10192 <https://homosaurus.org/v3/homoit0001322> .
+
+<http://www.wikidata.org/entity/Q497903> ns1:P10192 <https://homosaurus.org/v3/homoit0000294> .
+
+<http://www.wikidata.org/entity/Q49809> ns1:P10192 <https://homosaurus.org/v3/homoit0000619> .
+
+<http://www.wikidata.org/entity/Q5097980> ns1:P10192 <https://homosaurus.org/v3/homoit0001756> .
+
+<http://www.wikidata.org/entity/Q510866> ns1:P10192 <https://homosaurus.org/v3/homoit0001281> .
+
+<http://www.wikidata.org/entity/Q5110203> ns1:P10192 <https://homosaurus.org/v3/homoit0001290> .
+
+<http://www.wikidata.org/entity/Q51167626> ns1:P10192 <https://homosaurus.org/v3/homoit0000488> .
+
+<http://www.wikidata.org/entity/Q512313> ns1:P10192 <https://homosaurus.org/v3/homoit0000044> .
+
+<http://www.wikidata.org/entity/Q512398> ns1:P10192 <https://homosaurus.org/v3/homoit0000046> .
+
+<http://www.wikidata.org/entity/Q5134463> ns1:P10192 <https://homosaurus.org/v3/homoit0001844> .
+
+<http://www.wikidata.org/entity/Q51389> ns1:P10192 <https://homosaurus.org/v3/homoit0001831> .
+
+<http://www.wikidata.org/entity/Q51393> ns1:P10192 <https://homosaurus.org/v3/homoit0000297>,
+        <https://homosaurus.org/v3/homoit0000485>,
+        <https://homosaurus.org/v3/homoit0000733> .
+
+<http://www.wikidata.org/entity/Q51399> ns1:P10192 <https://homosaurus.org/v3/homoit0000954> .
+
+<http://www.wikidata.org/entity/Q51401> ns1:P10192 <https://homosaurus.org/v3/homoit0001232> .
+
+<http://www.wikidata.org/entity/Q51402> ns1:P10192 <https://homosaurus.org/v3/homoit0001341> .
+
+<http://www.wikidata.org/entity/Q51406> ns1:P10192 <https://homosaurus.org/v3/homoit0000522> .
+
+<http://www.wikidata.org/entity/Q51411> ns1:P10192 <https://homosaurus.org/v3/homoit0000642> .
+
+<http://www.wikidata.org/entity/Q5153528> ns1:P10192 <https://homosaurus.org/v3/homoit0000675> .
+
+<http://www.wikidata.org/entity/Q517807> ns1:P10192 <https://homosaurus.org/v3/homoit0000460> .
+
+<http://www.wikidata.org/entity/Q5186753> ns1:P10192 <https://homosaurus.org/v3/homoit0001902> .
+
+<http://www.wikidata.org/entity/Q52746927> ns1:P10192 <https://homosaurus.org/v3/homoit0001644> .
+
+<http://www.wikidata.org/entity/Q52815> ns1:P10192 <https://homosaurus.org/v3/homoit0000014> .
+
+<http://www.wikidata.org/entity/Q5284677> ns1:P10192 <https://homosaurus.org/v3/homoit0001255> .
+
+<http://www.wikidata.org/entity/Q5302765> ns1:P10192 <https://homosaurus.org/v3/homoit0000365> .
+
+<http://www.wikidata.org/entity/Q5308931> ns1:P10192 <https://homosaurus.org/v3/homoit0000379> .
+
+<http://www.wikidata.org/entity/Q5318684> ns1:P10192 <https://homosaurus.org/v3/homoit0000385> .
+
+<http://www.wikidata.org/entity/Q5429359> ns1:P10192 <https://homosaurus.org/v3/homoit0000417> .
+
+<http://www.wikidata.org/entity/Q543> ns1:P10192 <https://homosaurus.org/v3/homoit0000245> .
+
+<http://www.wikidata.org/entity/Q549628> ns1:P10192 <https://homosaurus.org/v3/homoit0001316> .
+
+<http://www.wikidata.org/entity/Q550675> ns1:P10192 <https://homosaurus.org/v3/homoit0000658> .
+
+<http://www.wikidata.org/entity/Q55183543> ns1:P10192 <https://homosaurus.org/v3/homoit0001002> .
+
+<http://www.wikidata.org/entity/Q5528623> ns1:P10192 <https://homosaurus.org/v3/homoit0000512> .
+
+<http://www.wikidata.org/entity/Q5528642> ns1:P10192 <https://homosaurus.org/v3/homoit0000534> .
+
+<http://www.wikidata.org/entity/Q5530970> ns1:P10192 <https://homosaurus.org/v3/homoit0000563> .
+
+<http://www.wikidata.org/entity/Q55605519> ns1:P10192 <https://homosaurus.org/v3/homoit0000157> .
+
+<http://www.wikidata.org/entity/Q558075> ns1:P10192 <https://homosaurus.org/v3/homoit0001305> .
+
+<http://www.wikidata.org/entity/Q56282687> ns1:P10192 <https://homosaurus.org/v3/homoit0001229> .
+
+<http://www.wikidata.org/entity/Q56286618> ns1:P10192 <https://homosaurus.org/v3/homoit0001560> .
+
+<http://www.wikidata.org/entity/Q56315990> ns1:P10192 <https://homosaurus.org/v3/homoit0000077> .
+
+<http://www.wikidata.org/entity/Q56388896> ns1:P10192 <https://homosaurus.org/v3/homoit0000234> .
+
+<http://www.wikidata.org/entity/Q57116> ns1:P10192 <https://homosaurus.org/v3/homoit0001408> .
+
+<http://www.wikidata.org/entity/Q57157839> ns1:P10192 <https://homosaurus.org/v3/homoit0001838> .
+
+<http://www.wikidata.org/entity/Q574577> ns1:P10192 <https://homosaurus.org/v3/homoit0000250> .
+
+<http://www.wikidata.org/entity/Q575220> ns1:P10192 <https://homosaurus.org/v3/homoit0000054> .
+
+<http://www.wikidata.org/entity/Q57529599> ns1:P10192 <https://homosaurus.org/v3/homoit0000663> .
+
+<http://www.wikidata.org/entity/Q5770369> ns1:P10192 <https://homosaurus.org/v3/homoit0000644> .
+
+<http://www.wikidata.org/entity/Q58> ns1:P10192 <https://homosaurus.org/v3/homoit0001099> .
+
+<http://www.wikidata.org/entity/Q5850078> ns1:P10192 <https://homosaurus.org/v3/homoit0000408> .
+
+<http://www.wikidata.org/entity/Q5873> ns1:P10192 <https://homosaurus.org/v3/homoit0000459>,
+        <https://homosaurus.org/v3/homoit0000662>,
+        <https://homosaurus.org/v3/homoit0001267> .
+
+<http://www.wikidata.org/entity/Q5880> ns1:P10192 <https://homosaurus.org/v3/homoit0001488> .
+
+<http://www.wikidata.org/entity/Q5887> ns1:P10192 <https://homosaurus.org/v3/homoit0001062>,
+        <https://homosaurus.org/v3/homoit0001288> .
+
+<http://www.wikidata.org/entity/Q5891541> ns1:P10192 <https://homosaurus.org/v3/homoit0000645> .
+
+<http://www.wikidata.org/entity/Q58929> ns1:P10192 <https://homosaurus.org/v3/homoit0000241> .
+
+<http://www.wikidata.org/entity/Q589656> ns1:P10192 <https://homosaurus.org/v3/homoit0001297> .
+
+<http://www.wikidata.org/entity/Q592> ns1:P10192 <https://homosaurus.org/v3/homoit0000648> .
+
+<http://www.wikidata.org/entity/Q59677> ns1:P10192 <https://homosaurus.org/v3/homoit0001467> .
+
+<http://www.wikidata.org/entity/Q59677089> ns1:P10192 <https://homosaurus.org/v3/homoit0000661> .
+
+<http://www.wikidata.org/entity/Q598443> ns1:P10192 <https://homosaurus.org/v3/homoit0001282> .
+
+<http://www.wikidata.org/entity/Q599853> ns1:P10192 <https://homosaurus.org/v3/homoit0002165>,
+        <https://homosaurus.org/v3/homoit0002167> .
+
+<http://www.wikidata.org/entity/Q605088> ns1:P10192 <https://homosaurus.org/v3/homoit0000620> .
+
+<http://www.wikidata.org/entity/Q60783137> ns1:P10192 <https://homosaurus.org/v3/homoit0000678> .
+
+<http://www.wikidata.org/entity/Q610757> ns1:P10192 <https://homosaurus.org/v3/homoit0000649> .
+
+<http://www.wikidata.org/entity/Q612825> ns1:P10192 <https://homosaurus.org/v3/homoit0000329> .
+
+<http://www.wikidata.org/entity/Q61696039> ns1:P10192 <https://homosaurus.org/v3/homoit0000216> .
+
+<http://www.wikidata.org/entity/Q61710650> ns1:P10192 <https://homosaurus.org/v3/homoit0001030> .
+
+<http://www.wikidata.org/entity/Q61745175> ns1:P10192 <https://homosaurus.org/v3/homoit0000841>,
+        <https://homosaurus.org/v3/homoit0001591> .
+
+<http://www.wikidata.org/entity/Q618804> ns1:P10192 <https://homosaurus.org/v3/homoit0000105> .
+
+<http://www.wikidata.org/entity/Q61958677> ns1:P10192 <https://homosaurus.org/v3/homoit0001504> .
+
+<http://www.wikidata.org/entity/Q62018250> ns1:P10192 <https://homosaurus.org/v3/homoit0000868> .
+
+<http://www.wikidata.org/entity/Q625145> ns1:P10192 <https://homosaurus.org/v3/homoit0000606> .
+
+<http://www.wikidata.org/entity/Q626268> ns1:P10192 <https://homosaurus.org/v3/homoit0000325> .
+
+<http://www.wikidata.org/entity/Q626503> ns1:P10192 <https://homosaurus.org/v3/homoit0001641> .
+
+<http://www.wikidata.org/entity/Q638532> ns1:P10192 <https://homosaurus.org/v3/homoit0000254> .
+
+<http://www.wikidata.org/entity/Q640990> ns1:P10192 <https://homosaurus.org/v3/homoit0001110> .
+
+<http://www.wikidata.org/entity/Q6434033> ns1:P10192 <https://homosaurus.org/v3/homoit0000694> .
+
+<http://www.wikidata.org/entity/Q64737936> ns1:P10192 <https://homosaurus.org/v3/homoit0001531> .
+
+<http://www.wikidata.org/entity/Q64737957> ns1:P10192 <https://homosaurus.org/v3/homoit0001016> .
+
+<http://www.wikidata.org/entity/Q65079487> ns1:P10192 <https://homosaurus.org/v3/homoit0001532> .
+
+<http://www.wikidata.org/entity/Q65088268> ns1:P10192 <https://homosaurus.org/v3/homoit0000575> .
+
+<http://www.wikidata.org/entity/Q6517455> ns1:P10192 <https://homosaurus.org/v3/homoit0001443> .
+
+<http://www.wikidata.org/entity/Q65212675> ns1:P10192 <https://homosaurus.org/v3/homoit0000235> .
+
+<http://www.wikidata.org/entity/Q653347> ns1:P10192 <https://homosaurus.org/v3/homoit0000341> .
+
+<http://www.wikidata.org/entity/Q6538491> ns1:P10192 <https://homosaurus.org/v3/homoit0000966> .
+
+<http://www.wikidata.org/entity/Q6545811> ns1:P10192 <https://homosaurus.org/v3/homoit0000679> .
+
+<http://www.wikidata.org/entity/Q658022> ns1:P10192 <https://homosaurus.org/v3/homoit0001210>,
+        <https://homosaurus.org/v3/homoit0001219> .
+
+<http://www.wikidata.org/entity/Q660882> ns1:P10192 <https://homosaurus.org/v3/homoit0000065>,
+        <https://homosaurus.org/v3/homoit0000632>,
+        <https://homosaurus.org/v3/homoit0000684> .
+
+<http://www.wikidata.org/entity/Q6623> ns1:P10192 <https://homosaurus.org/v3/homoit0001491> .
+
+<http://www.wikidata.org/entity/Q66288471> ns1:P10192 <https://homosaurus.org/v3/homoit0001434> .
+
+<http://www.wikidata.org/entity/Q663016> ns1:P10192 <https://homosaurus.org/v3/homoit0001275> .
+
+<http://www.wikidata.org/entity/Q6636> ns1:P10192 <https://homosaurus.org/v3/homoit0000647> .
+
+<http://www.wikidata.org/entity/Q66363400> ns1:P10192 <https://homosaurus.org/v3/homoit0001059> .
+
+<http://www.wikidata.org/entity/Q66363552> ns1:P10192 <https://homosaurus.org/v3/homoit0000492> .
+
+<http://www.wikidata.org/entity/Q6649> ns1:P10192 <https://homosaurus.org/v3/homoit0000799> .
+
+<http://www.wikidata.org/entity/Q665819> ns1:P10192 <https://homosaurus.org/v3/homoit0000087> .
+
+<http://www.wikidata.org/entity/Q666791> ns1:P10192 <https://homosaurus.org/v3/homoit0000711> .
+
+<http://www.wikidata.org/entity/Q673281> ns1:P10192 <https://homosaurus.org/v3/homoit0001285> .
+
+<http://www.wikidata.org/entity/Q6738558> ns1:P10192 <https://homosaurus.org/v3/homoit0000980> .
+
+<http://www.wikidata.org/entity/Q674818> ns1:P10192 <https://homosaurus.org/v3/homoit0001098> .
+
+<http://www.wikidata.org/entity/Q69503165> ns1:P10192 <https://homosaurus.org/v3/homoit0001141> .
+
+<http://www.wikidata.org/entity/Q696617> ns1:P10192 <https://homosaurus.org/v3/homoit0000311> .
+
+<http://www.wikidata.org/entity/Q69990794> ns1:P10192 <https://homosaurus.org/v3/homoit0000574>,
+        <https://homosaurus.org/v3/homoit0000582>,
+        <https://homosaurus.org/v3/homoit0001048> .
+
+<http://www.wikidata.org/entity/Q7016484> ns1:P10192 <https://homosaurus.org/v3/homoit0001661> .
+
+<http://www.wikidata.org/entity/Q7123024> ns1:P10192 <https://homosaurus.org/v3/homoit0001067> .
+
+<http://www.wikidata.org/entity/Q7140972> ns1:P10192 <https://homosaurus.org/v3/homoit0002289> .
+
+<http://www.wikidata.org/entity/Q7239230> ns1:P10192 <https://homosaurus.org/v3/homoit0001130> .
+
+<http://www.wikidata.org/entity/Q724351> ns1:P10192 <https://homosaurus.org/v3/homoit0000004> .
+
+<http://www.wikidata.org/entity/Q7246302> ns1:P10192 <https://homosaurus.org/v3/homoit0001133> .
+
+<http://www.wikidata.org/entity/Q7252> ns1:P10192 <https://homosaurus.org/v3/homoit0000437> .
+
+<http://www.wikidata.org/entity/Q725345> ns1:P10192 <https://homosaurus.org/v3/homoit0000686> .
+
+<http://www.wikidata.org/entity/Q7257264> ns1:P10192 <https://homosaurus.org/v3/homoit0001138> .
+
+<http://www.wikidata.org/entity/Q72941682> ns1:P10192 <https://homosaurus.org/v3/homoit0001356> .
+
+<http://www.wikidata.org/entity/Q7301162> ns1:P10192 <https://homosaurus.org/v3/homoit0002196> .
+
+<http://www.wikidata.org/entity/Q7307> ns1:P10192 <https://homosaurus.org/v3/homoit0000691> .
+
+<http://www.wikidata.org/entity/Q73134907> ns1:P10192 <https://homosaurus.org/v3/homoit0000617> .
+
+<http://www.wikidata.org/entity/Q7390> ns1:P10192 <https://homosaurus.org/v3/homoit0001495> .
+
+<http://www.wikidata.org/entity/Q7409219> ns1:P10192 <https://homosaurus.org/v3/homoit0001254> .
+
+<http://www.wikidata.org/entity/Q7439314> ns1:P10192 <https://homosaurus.org/v3/homoit0001847> .
+
+<http://www.wikidata.org/entity/Q7440120> ns1:P10192 <https://homosaurus.org/v3/homoit0001258> .
+
+<http://www.wikidata.org/entity/Q7458471> ns1:P10192 <https://homosaurus.org/v3/homoit0002289> .
+
+<http://www.wikidata.org/entity/Q7458776> ns1:P10192 <https://homosaurus.org/v3/homoit0001292> .
+
+<http://www.wikidata.org/entity/Q7458793> ns1:P10192 <https://homosaurus.org/v3/homoit0001296> .
+
+<http://www.wikidata.org/entity/Q746411> ns1:P10192 <https://homosaurus.org/v3/homoit0000687> .
+
+<http://www.wikidata.org/entity/Q747592> ns1:P10192 <https://homosaurus.org/v3/homoit0000117> .
+
+<http://www.wikidata.org/entity/Q751722> ns1:P10192 <https://homosaurus.org/v3/homoit0001293> .
+
+<http://www.wikidata.org/entity/Q7560> ns1:P10192 <https://homosaurus.org/v3/homoit0001021> .
+
+<http://www.wikidata.org/entity/Q7565> ns1:P10192 <https://homosaurus.org/v3/homoit0000423> .
+
+<http://www.wikidata.org/entity/Q7569> ns1:P10192 <https://homosaurus.org/v3/homoit0000255> .
+
+<http://www.wikidata.org/entity/Q757329> ns1:P10192 <https://homosaurus.org/v3/homoit0000446>,
+        <https://homosaurus.org/v3/homoit0000988> .
+
+<http://www.wikidata.org/entity/Q7675376> ns1:P10192 <https://homosaurus.org/v3/homoit0000603> .
+
+<http://www.wikidata.org/entity/Q7677449> ns1:P10192 <https://homosaurus.org/v3/homoit0000898> .
+
+<http://www.wikidata.org/entity/Q7708739> ns1:P10192 <https://homosaurus.org/v3/homoit0001235> .
+
+<http://www.wikidata.org/entity/Q773944> ns1:P10192 <https://homosaurus.org/v3/homoit0002156> .
+
+<http://www.wikidata.org/entity/Q7748> ns1:P10192 <https://homosaurus.org/v3/homoit0000702> .
+
+<http://www.wikidata.org/entity/Q7783619> ns1:P10192 <https://homosaurus.org/v3/homoit0001695> .
+
+<http://www.wikidata.org/entity/Q779753> ns1:P10192 <https://homosaurus.org/v3/homoit0000447> .
+
+<http://www.wikidata.org/entity/Q78211986> ns1:P10192 <https://homosaurus.org/v3/homoit0000700> .
+
+<http://www.wikidata.org/entity/Q782623> ns1:P10192 <https://homosaurus.org/v3/homoit0000083> .
+
+<http://www.wikidata.org/entity/Q7833678> ns1:P10192 <https://homosaurus.org/v3/homoit0001379> .
+
+<http://www.wikidata.org/entity/Q7841680> ns1:P10192 <https://homosaurus.org/v3/homoit0001473> .
+
+<http://www.wikidata.org/entity/Q7852710> ns1:P10192 <https://homosaurus.org/v3/homoit0001477> .
+
+<http://www.wikidata.org/entity/Q790640> ns1:P10192 <https://homosaurus.org/v3/homoit0000084> .
+
+<http://www.wikidata.org/entity/Q8023556> ns1:P10192 <https://homosaurus.org/v3/homoit0001505> .
+
+<http://www.wikidata.org/entity/Q8025501> ns1:P10192 <https://homosaurus.org/v3/homoit0001506> .
+
+<http://www.wikidata.org/entity/Q8030967> ns1:P10192 <https://homosaurus.org/v3/homoit0001513> .
+
+<http://www.wikidata.org/entity/Q8031215> ns1:P10192 <https://homosaurus.org/v3/homoit0000755> .
+
+<http://www.wikidata.org/entity/Q8053770> ns1:P10192 <https://homosaurus.org/v3/homoit0001519> .
+
+<http://www.wikidata.org/entity/Q808074> ns1:P10192 <https://homosaurus.org/v3/homoit0000099> .
+
+<http://www.wikidata.org/entity/Q8124> ns1:P10192 <https://homosaurus.org/v3/homoit0001099> .
+
+<http://www.wikidata.org/entity/Q813966> ns1:P10192 <https://homosaurus.org/v3/homoit0001140> .
+
+<http://www.wikidata.org/entity/Q814356> ns1:P10192 <https://homosaurus.org/v3/homoit0000406> .
+
+<http://www.wikidata.org/entity/Q83345> ns1:P10192 <https://homosaurus.org/v3/homoit0000269> .
+
+<http://www.wikidata.org/entity/Q835137> ns1:P10192 <https://homosaurus.org/v3/homoit0000384> .
+
+<http://www.wikidata.org/entity/Q8354594> ns1:P10192 <https://homosaurus.org/v3/homoit0001626> .
+
+<http://www.wikidata.org/entity/Q837322> ns1:P10192 <https://homosaurus.org/v3/homoit0000011> .
+
+<http://www.wikidata.org/entity/Q837381> ns1:P10192 <https://homosaurus.org/v3/homoit0000696> .
+
+<http://www.wikidata.org/entity/Q8386> ns1:P10192 <https://homosaurus.org/v3/homoit0000380> .
+
+<http://www.wikidata.org/entity/Q83900> ns1:P10192 <https://homosaurus.org/v3/homoit0000119> .
+
+<http://www.wikidata.org/entity/Q8396> ns1:P10192 <https://homosaurus.org/v3/homoit0000681>,
+        <https://homosaurus.org/v3/homoit0001000>,
+        <https://homosaurus.org/v3/homoit0001500> .
+
+<http://www.wikidata.org/entity/Q8398> ns1:P10192 <https://homosaurus.org/v3/homoit0000043> .
+
+<http://www.wikidata.org/entity/Q8401> ns1:P10192 <https://homosaurus.org/v3/homoit0000212> .
+
+<http://www.wikidata.org/entity/Q8402> ns1:P10192 <https://homosaurus.org/v3/homoit0000239> .
+
+<http://www.wikidata.org/entity/Q842254> ns1:P10192 <https://homosaurus.org/v3/homoit0000655> .
+
+<http://www.wikidata.org/entity/Q8441> ns1:P10192 <https://homosaurus.org/v3/homoit0000985>,
+        <https://homosaurus.org/v3/homoit0001008> .
+
+<http://www.wikidata.org/entity/Q8445> ns1:P10192 <https://homosaurus.org/v3/homoit0000990> .
+
+<http://www.wikidata.org/entity/Q84573221> ns1:P10192 <https://homosaurus.org/v3/homoit0000730> .
+
+<http://www.wikidata.org/entity/Q845799> ns1:P10192 <https://homosaurus.org/v3/homoit0001374> .
+
+<http://www.wikidata.org/entity/Q8458> ns1:P10192 <https://homosaurus.org/v3/homoit0000652> .
+
+<http://www.wikidata.org/entity/Q8461> ns1:P10192 <https://homosaurus.org/v3/homoit0002038> .
+
+<http://www.wikidata.org/entity/Q847935> ns1:P10192 <https://homosaurus.org/v3/homoit0001050> .
+
+<http://www.wikidata.org/entity/Q848318> ns1:P10192 <https://homosaurus.org/v3/homoit0001631> .
+
+<http://www.wikidata.org/entity/Q848867> ns1:P10192 <https://homosaurus.org/v3/homoit0001015> .
+
+<http://www.wikidata.org/entity/Q849216> ns1:P10192 <https://homosaurus.org/v3/homoit0000411> .
+
+<http://www.wikidata.org/entity/Q853451> ns1:P10192 <https://homosaurus.org/v3/homoit0001009> .
+
+<http://www.wikidata.org/entity/Q855691> ns1:P10192 <https://homosaurus.org/v3/homoit0000970> .
+
+<http://www.wikidata.org/entity/Q858426> ns1:P10192 <https://homosaurus.org/v3/homoit0000001> .
+
+<http://www.wikidata.org/entity/Q85878399> ns1:P10192 <https://homosaurus.org/v3/homoit0000503> .
+
+<http://www.wikidata.org/entity/Q866081> ns1:P10192 <https://homosaurus.org/v3/homoit0000389> .
+
+<http://www.wikidata.org/entity/Q873072> ns1:P10192 <https://homosaurus.org/v3/homoit0000282> .
+
+<http://www.wikidata.org/entity/Q876391> ns1:P10192 <https://homosaurus.org/v3/homoit0000326> .
+
+<http://www.wikidata.org/entity/Q898516> ns1:P10192 <https://homosaurus.org/v3/homoit0001125> .
+
+<http://www.wikidata.org/entity/Q899836> ns1:P10192 <https://homosaurus.org/v3/homoit0000971> .
+
+<http://www.wikidata.org/entity/Q903453> ns1:P10192 <https://homosaurus.org/v3/homoit0000339> .
+
+<http://www.wikidata.org/entity/Q908826> ns1:P10192 <https://homosaurus.org/v3/homoit0001312> .
+
+<http://www.wikidata.org/entity/Q9103> ns1:P10192 <https://homosaurus.org/v3/homoit0000222> .
+
+<http://www.wikidata.org/entity/Q912344> ns1:P10192 <https://homosaurus.org/v3/homoit0000392> .
+
+<http://www.wikidata.org/entity/Q9148481> ns1:P10192 <https://homosaurus.org/v3/homoit0001528> .
+
+<http://www.wikidata.org/entity/Q91601578> ns1:P10192 <https://homosaurus.org/v3/homoit0001091> .
+
+<http://www.wikidata.org/entity/Q918319> ns1:P10192 <https://homosaurus.org/v3/homoit0000233> .
+
+<http://www.wikidata.org/entity/Q9200133> ns1:P10192 <https://homosaurus.org/v3/homoit0000421> .
+
+<http://www.wikidata.org/entity/Q921750> ns1:P10192 <https://homosaurus.org/v3/homoit0000441> .
+
+<http://www.wikidata.org/entity/Q924002> ns1:P10192 <https://homosaurus.org/v3/homoit0001630> .
+
+<http://www.wikidata.org/entity/Q9260089> ns1:P10192 <https://homosaurus.org/v3/homoit0000042> .
+
+<http://www.wikidata.org/entity/Q93200> ns1:P10192 <https://homosaurus.org/v3/homoit0001278> .
+
+<http://www.wikidata.org/entity/Q9384> ns1:P10192 <https://homosaurus.org/v3/homoit0001361> .
+
+<http://www.wikidata.org/entity/Q93954933> ns1:P10192 <https://homosaurus.org/v3/homoit0001653> .
+
+<http://www.wikidata.org/entity/Q93955709> ns1:P10192 <https://homosaurus.org/v3/homoit0001652> .
+
+<http://www.wikidata.org/entity/Q945895> ns1:P10192 <https://homosaurus.org/v3/homoit0000338> .
+
+<http://www.wikidata.org/entity/Q957751> ns1:P10192 <https://homosaurus.org/v3/homoit0001354> .
+
+<http://www.wikidata.org/entity/Q96000630> ns1:P10192 <https://homosaurus.org/v3/homoit0001518> .
+
+<http://www.wikidata.org/entity/Q96034777> ns1:P10192 <https://homosaurus.org/v3/homoit0000024> .
+
+<http://www.wikidata.org/entity/Q96123999> ns1:P10192 <https://homosaurus.org/v3/homoit0002390> .
+
+<http://www.wikidata.org/entity/Q96181717> ns1:P10192 <https://homosaurus.org/v3/homoit0001791> .
+
+<http://www.wikidata.org/entity/Q96187874> ns1:P10192 <https://homosaurus.org/v3/homoit0001794> .
+
+<http://www.wikidata.org/entity/Q96187941> ns1:P10192 <https://homosaurus.org/v3/homoit0001793> .
+
+<http://www.wikidata.org/entity/Q96188006> ns1:P10192 <https://homosaurus.org/v3/homoit0001792> .
+
+<http://www.wikidata.org/entity/Q96188028> ns1:P10192 <https://homosaurus.org/v3/homoit0001795> .
+
+<http://www.wikidata.org/entity/Q96188032> ns1:P10192 <https://homosaurus.org/v3/homoit0001985>,
+        <https://homosaurus.org/v3/homoit0001986> .
+
+<http://www.wikidata.org/entity/Q96188036> ns1:P10192 <https://homosaurus.org/v3/homoit0001988> .
+
+<http://www.wikidata.org/entity/Q966052> ns1:P10192 <https://homosaurus.org/v3/homoit0002832> .
+
+<http://www.wikidata.org/entity/Q967839> ns1:P10192 <https://homosaurus.org/v3/homoit0001097> .
+
+<http://www.wikidata.org/entity/Q9715> ns1:P10192 <https://homosaurus.org/v3/homoit0000323>,
+        <https://homosaurus.org/v3/homoit0000683> .
+
+<http://www.wikidata.org/entity/Q97368680> ns1:P10192 <https://homosaurus.org/v3/homoit0001122> .
+
+<http://www.wikidata.org/entity/Q97441379> ns1:P10192 <https://homosaurus.org/v3/homoit0001672> .
+
+<http://www.wikidata.org/entity/Q97499962> ns1:P10192 <https://homosaurus.org/v3/homoit0000114> .
+
+<http://www.wikidata.org/entity/Q97658501> ns1:P10192 <https://homosaurus.org/v3/homoit0002153> .
+
+<http://www.wikidata.org/entity/Q98040930> ns1:P10192 <https://homosaurus.org/v3/homoit0001267> .
+
+<http://www.wikidata.org/entity/Q98398736> ns1:P10192 <https://homosaurus.org/v3/homoit0000382> .
+
+<http://www.wikidata.org/entity/Q994557> ns1:P10192 <https://homosaurus.org/v3/homoit0001622> .
+
+<http://www.wikidata.org/entity/Q99596429> ns1:P10192 <https://homosaurus.org/v3/homoit0001419> .
+

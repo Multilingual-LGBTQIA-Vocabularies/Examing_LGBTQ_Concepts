@@ -1,0 +1,1391 @@
+<http://purl.obolibrary.org/obo/GSSO_009643> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "still-birth"@en .
+<http://purl.obolibrary.org/obo/GO_0001197> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "up regulation of transcription from an RNA polymerase II promoter, mating-type specific"@en .
+<http://purl.obolibrary.org/obo/GSSO_001362> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "crossdressing"@en .
+<http://purl.obolibrary.org/obo/GSSO_004742> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dyspareunia psychogenic"@en .
+<http://purl.obolibrary.org/obo/GSSO_003570> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "girl dick"@en .
+<http://purl.obolibrary.org/obo/GSSO_007675> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Black LGBTQ people"@en .
+<http://purl.obolibrary.org/obo/GSSO_002100> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "miati"@en .
+<http://purl.obolibrary.org/obo/GSSO_006547> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gun-running"@en .
+<http://purl.obolibrary.org/obo/GSSO_001945> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nonimmediate family member"@en .
+<http://purl.obolibrary.org/obo/GSSO_000198> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "alt."@en .
+<http://purl.obolibrary.org/obo/GSSO_008150> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cat-o'-nine-tails"@en .
+<http://purl.obolibrary.org/obo/GSSO_002220> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Catamite"@en .
+<http://purl.obolibrary.org/obo/NCIT_C20461> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "the Web"@en .
+<http://purl.bioontology.org/ontology/MESH/D012746> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abstinence, sexual"@en .
+<http://purl.obolibrary.org/obo/GSSO_005019> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "latex-wear"@en .
+<http://purl.obolibrary.org/obo/GSSO_000268> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "leather life style"@en .
+<http://purl.obolibrary.org/obo/GSSO_006100> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sexually induced sneezing"@en .
+<http://purl.obolibrary.org/obo/NCIT_C3009> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "unspecified endocrine disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_008876> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dead-name"@en .
+<http://purl.obolibrary.org/obo/GSSO_002488> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "E"@en .
+<http://purl.obolibrary.org/obo/GSSO_007663> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ass-play"@en .
+<http://purl.bioontology.org/ontology/MESH/D012003> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fistula-in-ano"@en .
+<http://purl.obolibrary.org/obo/GSSO_001405> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dopplebanger"@en .
+<http://purl.obolibrary.org/obo/GSSO_001265> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pædophilia"@en .
+<http://purl.obolibrary.org/obo/GSSO_009724> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "365/0 combined oral contraceptive regimen"@en .
+<http://purl.obolibrary.org/obo/GSSO_004113> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "impulse-control disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_009062> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "love-letter"@en .
+<http://purl.obolibrary.org/obo/GSSO_002328> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary gender identities"@en .
+<http://purl.obolibrary.org/obo/GSSO_000694> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Ba-sappho"@en .
+<http://purl.obolibrary.org/obo/NCIT_C16165> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "highly active anti-retroviral therapy"@en .
+<http://purl.obolibrary.org/obo/GSSO_011936> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hair-stylist"@en .
+<http://purl.obolibrary.org/obo/GSSO_004418> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abortion spontaneous NOS"@en .
+<http://purl.obolibrary.org/obo/GSSO_004044> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "groupsex"@en .
+<http://purl.obolibrary.org/obo/DOID_4054> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sarcoma, prostatic"@en .
+<http://purl.obolibrary.org/obo/GSSO_002633> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "he/she"@en .
+<http://purl.obolibrary.org/obo/GSSO_003766> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-human-identity-based subculture"@en .
+<http://purl.obolibrary.org/obo/GSSO_006488> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "homohostile"@en .
+<http://purl.obolibrary.org/obo/GSSO_010410> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Super Straight"@en .
+<http://purl.obolibrary.org/obo/GSSO_001655> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "surgical male castration"@en .
+<http://purl.obolibrary.org/obo/GSSO_004167> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "intersex-phobia"@en .
+<http://purl.obolibrary.org/obo/GSSO_002163> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Akava'ine"@en .
+<http://purl.obolibrary.org/obo/GSSO_004004> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans feminine"@en .
+<http://purl.obolibrary.org/obo/GSSO_010377> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "LGBTQ healthcare model"@en .
+<http://purl.obolibrary.org/obo/GSSO_006860> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abstinence only sex education"@en .
+<http://purl.obolibrary.org/obo/GSSO_009812> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "acceptance, social"@en .
+<http://purl.obolibrary.org/obo/GSSO_010082> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "active-passive split"@en .
+<http://purl.obolibrary.org/obo/GSSO_003553> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "terfdom"@en .
+<http://purl.obolibrary.org/obo/GSSO_001869> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Donjuanism"@en .
+<http://purl.obolibrary.org/obo/GSSO_006057> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "San Poil"@en .
+<http://purl.obolibrary.org/obo/GSSO_002307> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "khanīth"@en .
+<http://purl.obolibrary.org/obo/GSSO_002152> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "wiⁿktaⁿ'"@en .
+<http://purl.obolibrary.org/obo/GSSO_003348> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "intra-uterine contraceptive device"@en .
+<http://purl.obolibrary.org/obo/GSSO_007170> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-blind"@en .
+<http://purl.obolibrary.org/obo/GSSO_009889> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "4:20"@en .
+<http://purl.obolibrary.org/obo/GSSO_011328> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "blood test racism"@en .
+<http://purl.obolibrary.org/obo/GSSO_012778> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "personal dwelling status"@en .
+<http://purl.obolibrary.org/obo/GSSO_000361> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "girl mode"@en .
+<http://purl.obolibrary.org/obo/GSSO_007587> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "safe, sane & consensual"@en .
+<http://purl.obolibrary.org/obo/GSSO_002328> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary"@en .
+<http://purl.obolibrary.org/obo/GSSO_004106> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "breath play"@en .
+<http://purl.obolibrary.org/obo/GSSO_010410> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "superstraight"@en .
+<http://purl.obolibrary.org/obo/GSSO_002843> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cis-sexism"@en .
+<http://purl.obolibrary.org/obo/GSSO_008436> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pseudo-transsexual"@en .
+<http://purl.obolibrary.org/obo/GSSO_001039> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "African-American"@en .
+<http://purl.obolibrary.org/obo/GSSO_000376> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gay, bisexual, and other men who have sex with men"@en .
+<http://purl.obolibrary.org/obo/GSSO_000375> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gay & bisexual men"@en .
+<http://purl.obolibrary.org/obo/GSSO_007474> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bambi sexual"@en .
+<http://purl.obolibrary.org/obo/NCIT_C21007> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dis/ability"@en .
+<http://purl.obolibrary.org/obo/GSSO_011899> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "\"Stop LGBT aggression\""@en .
+<http://purl.obolibrary.org/obo/CHEBI_4903> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "17alpha-ethynylestradiol"@en .
+<http://purl.obolibrary.org/obo/GO_0000807> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "chromosome Z"@en .
+<http://purl.obolibrary.org/obo/GSSO_005984> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Deg Hitan"@en .
+<http://purl.obolibrary.org/obo/GSSO_000766> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "penile-vaginal intercourse"@en .
+<http://purl.obolibrary.org/obo/GSSO_002320> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "māhūwahine"@en .
+<http://purl.obolibrary.org/obo/GSSO_008754> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "neo-colonialism"@en .
+<http://purl.obolibrary.org/obo/GSSO_002384> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gay, lesbian and bisexual studies"@en .
+<http://purl.obolibrary.org/obo/GSSO_004781> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "manual-genital stimulation"@en .
+<http://purl.obolibrary.org/obo/GSSO_010352> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary parent"@en .
+<http://purl.obolibrary.org/obo/GSSO_007223> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "penname"@en .
+<http://purl.obolibrary.org/obo/GSSO_010902> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hair dressing"@en .
+<http://purl.obolibrary.org/obo/GSSO_001537> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46,XY gonadal dysgenesis, partial or complete, with or without adrenal failure"@en .
+<http://purl.obolibrary.org/obo/GSSO_006447> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gaybashing"@en .
+<http://purl.obolibrary.org/obo/GSSO_009306> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Stepford wife requirement"@en .
+<http://purl.obolibrary.org/obo/GSSO_000359> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "eggmode"@en .
+<http://purl.obolibrary.org/obo/GSSO_002081> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "kokwina"@en .
+<http://purl.bioontology.org/ontology/MESH/D052286> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-mammalian viviparity"@en .
+<http://purl.obolibrary.org/obo/GSSO_004431> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Madonna-whore complex"@en .
+<http://purl.obolibrary.org/obo/GSSO_006618> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-probability sample"@en .
+<http://purl.obolibrary.org/obo/GSSO_008823> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "head-canon"@en .
+<http://purl.obolibrary.org/obo/GSSO_009933> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ancient Rome"@en .
+<http://purl.obolibrary.org/obo/GSSO_003891> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_011449> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "transgender-cisgender relationship"@en .
+<http://purl.obolibrary.org/obo/GSSO_009410> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "antivaccination movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_009829> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "access to information, right of"@en .
+<http://purl.obolibrary.org/obo/GSSO_006996> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Smith–Magenis syndrome"@en .
+<http://purl.obolibrary.org/obo/NCIT_C16269> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ageing"@en .
+<http://purl.obolibrary.org/obo/GSSO_003754> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pre-operative transgender person"@en .
+<http://purl.obolibrary.org/obo/NCIT_C2895> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ovarian neoplasm benign"@en .
+<http://purl.obolibrary.org/obo/GSSO_008141> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "mêlée weapon"@en .
+<http://purl.obolibrary.org/obo/GSSO_000374> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gay & bisexual men"@en .
+<http://semanticscience.org/resource/SIO_000304> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "e-mail"@en .
+<http://purl.obolibrary.org/obo/GAZ_00000590> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Oceans and Seas"@en .
+<http://purl.obolibrary.org/obo/GSSO_002084> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Kᵘxa't"@en .
+<http://purl.obolibrary.org/obo/GSSO_009591> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pro-adjective"@en .
+<http://purl.obolibrary.org/obo/GSSO_000664> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "style manual"@en .
+<http://purl.obolibrary.org/obo/GSSO_008878> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bio-guy"@en .
+<http://purl.obolibrary.org/obo/GSSO_006291> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gonadotropin-releasing hormone antagonist"@en .
+<http://purl.obolibrary.org/obo/NCIT_C83190> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "paediatrician"@en .
+<http://purl.obolibrary.org/obo/GSSO_007633> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "internet LGBTQ culture"@en .
+<http://purl.obolibrary.org/obo/GSSO_006967> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender related disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_010904> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hair style"@en .
+<http://purl.obolibrary.org/obo/GSSO_004516> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "woman who has sex with women and men"@en .
+<http://purl.obolibrary.org/obo/GSSO_001587> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46, XY disorder of sex development"@en .
+<http://purl.obolibrary.org/obo/GSSO_007194> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-natal disability"@en .
+<http://purl.obolibrary.org/obo/GSSO_005009> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "menswear"@en .
+<http://purl.obolibrary.org/obo/NCIT_C61009> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "blood-type"@en .
+<http://purl.obolibrary.org/obo/GSSO_002188> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Bacha bāzī"@en .
+<http://purl.obolibrary.org/obo/GSSO_009881> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "12-o-clock"@en .
+<http://purl.obolibrary.org/obo/GSSO_005478> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "socio-economic status"@en .
+<http://purl.obolibrary.org/obo/GSSO_004561> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Scientific Humanitarian Committee"@en .
+<http://purl.obolibrary.org/obo/GSSO_004948> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "straight pride parade"@en .
+<http://purl.obolibrary.org/obo/GSSO_002872> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "anti-sexualism"@en .
+<http://purl.obolibrary.org/obo/GSSO_009169> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pseudo-science"@en .
+<http://purl.obolibrary.org/obo/GSSO_005282> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "aidsphobia"@en .
+<http://purl.obolibrary.org/obo/GSSO_001766> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "69-er"@en .
+<http://purl.obolibrary.org/obo/GSSO_003396> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "grayromantic"@en .
+<http://purl.obolibrary.org/obo/GSSO_000896> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ethical nonmonogamy"@en .
+<http://purl.obolibrary.org/obo/GSSO_010104> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "third person pronoun"@en .
+<http://purl.obolibrary.org/obo/GSSO_002490> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Eir"@en .
+<http://purl.obolibrary.org/obo/GSSO_007558> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "eye liner"@en .
+<http://purl.obolibrary.org/obo/GSSO_004815> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "thought of self harm"@en .
+<http://purl.obolibrary.org/obo/GSSO_003122> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sex-on-premises venue"@en .
+<http://purl.obolibrary.org/obo/GSSO_002283> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ultra-nationalism"@en .
+<http://purl.obolibrary.org/obo/GSSO_001376> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lesbian and gay film festival"@en .
+<http://purl.obolibrary.org/obo/GSSO_005582> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sibling/sibling incest"@en .
+<http://purl.obolibrary.org/obo/GSSO_010647> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-gestational parent"@en .
+<http://purl.obolibrary.org/obo/GSSO_007041> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "69 XXY"@en .
+<http://purl.obolibrary.org/obo/GSSO_002828> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "anti-GLBT bias"@en .
+<http://purl.obolibrary.org/obo/GSSO_001869> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Don-Juanism"@en .
+<http://purl.obolibrary.org/obo/GSSO_008979> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "color-blind casting"@en .
+<http://purl.obolibrary.org/obo/GSSO_002144> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "tōhkēt"@en .
+<http://purl.obolibrary.org/obo/GSSO_007721> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "whakawāhine"@en .
+<http://purl.obolibrary.org/obo/GSSO_012764> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "homo-negativity"@en .
+<http://purl.obolibrary.org/obo/GSSO_007824> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Christianity, early"@en .
+<http://purl.obolibrary.org/obo/GSSO_005989> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Grosventre"@en .
+<http://purl.obolibrary.org/obo/GSSO_011743> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-viral fatigue syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_002306> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lady-boy"@en .
+<http://purl.obolibrary.org/obo/GSSO_001743> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "\"bird-wing\" phalloplasty"@en .
+<http://purl.obolibrary.org/obo/GSSO_010230> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "self injurious behavior"@en .
+<http://purl.obolibrary.org/obo/GSSO_004757> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "high risk sexual behavior"@en .
+<http://purl.obolibrary.org/obo/GSSO_010902> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hair-dressing"@en .
+<http://purl.obolibrary.org/obo/GSSO_008341> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "LGBTQ co-parents"@en .
+<http://purl.obolibrary.org/obo/GSSO_006945> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "AIDS related complex"@en .
+<http://purl.obolibrary.org/obo/CHEBI_35789> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "oxosteroid"@en .
+<http://purl.obolibrary.org/obo/GSSO_000524> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "human immunodeficiency virus 2 infection"@en .
+<http://purl.obolibrary.org/obo/GSSO_000128> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender non-conforming"@en .
+<http://purl.obolibrary.org/obo/GSSO_004629> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Haeberle-Hirschfeld-Archive of Sexology"@en .
+<http://purl.bioontology.org/ontology/MESH/D000076145> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Greece, Ancient"@en .
+<http://purl.obolibrary.org/obo/GSSO_006598> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "self inflicted injury"@en .
+<http://purl.obolibrary.org/obo/GSSO_001261> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "water sports"@en .
+<http://purl.obolibrary.org/obo/GSSO_002040> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "angutⁿguaq"@en .
+<http://semanticscience.org/resource/SIO_000304> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "E-mail"@en .
+<http://purl.obolibrary.org/obo/GSSO_004152> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "f**k"@en .
+<http://purl.obolibrary.org/obo/GSSO_009380> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "healthcare quality"@en .
+<http://purl.obolibrary.org/obo/GSSO_010620> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "2021 Slate of Hate"@en .
+<http://purl.obolibrary.org/obo/GSSO_003437> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "front-hole"@en .
+<http://purl.obolibrary.org/obo/GSSO_004514> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender non-conforming adolescent"@en .
+<http://purl.obolibrary.org/obo/GSSO_009855> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "HIV-unknown"@en .
+<http://purl.obolibrary.org/obo/GSSO_008439> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "boygirl"@en .
+<http://purl.obolibrary.org/obo/CHEBI_53243> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "polyvinylchloride"@en .
+<http://purl.obolibrary.org/obo/GSSO_012756> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Yoga-philosophy"@en .
+<http://purl.obolibrary.org/obo/GSSO_003984> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abuse, sexual, in war"@en .
+<http://purl.obolibrary.org/obo/GSSO_010962> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "duchy of Alamannia"@en .
+<http://purl.obolibrary.org/obo/GSSO_010410> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Super Sexuality"@en .
+<http://purl.obolibrary.org/obo/GSSO_009467> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cock block"@en .
+<http://purl.obolibrary.org/obo/GSSO_004351> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cockring"@en .
+<http://purl.obolibrary.org/obo/NCIT_C20461> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "WorldWideWeb"@en .
+<http://purl.obolibrary.org/obo/GSSO_001394> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hundred-footer"@en .
+<http://purl.obolibrary.org/obo/GSSO_002491> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Eirs"@en .
+<http://purl.obolibrary.org/obo/GSSO_002375> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "girls studies"@en .
+<http://purl.obolibrary.org/obo/GSSO_003556> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "genderbending"@en .
+<http://purl.obolibrary.org/obo/GSSO_011963> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "jotería identity"@en .
+<http://purl.obolibrary.org/obo/GSSO_005687> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "first degree murder"@en .
+<http://purl.obolibrary.org/obo/GSSO_002093> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Ma’kalí"@en .
+<http://purl.obolibrary.org/obo/GSSO_002119> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sx'ints"@en .
+<http://purl.obolibrary.org/obo/GSSO_000711> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gray-asexuality"@en .
+<http://purl.obolibrary.org/obo/GAZ_00000448> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "geographical location"@en .
+<http://purl.obolibrary.org/obo/DOID_1094> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "attention deficit/hyperactivity disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_012337> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "white transgender person"@en .
+<http://semanticscience.org/resource/SIO_000302> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "webpage"@en .
+<http://purl.obolibrary.org/obo/GSSO_002119> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sxints"@en .
+<http://purl.obolibrary.org/obo/GSSO_012843> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bio trans"@en .
+<http://purl.bioontology.org/ontology/MESH/D000076144> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ancient Egypt"@en .
+<http://purl.obolibrary.org/obo/GSSO_001539> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46,XY gonadal dysgenesis, partial or complete, with 9p24.3 deletion"@en .
+<http://purl.obolibrary.org/obo/GSSO_007554> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "face make-up"@en .
+<http://purl.obolibrary.org/obo/GSSO_008211> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "liberal protestantism"@en .
+<http://purl.obolibrary.org/obo/GSSO_004946> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cross-dreaming"@en .
+<http://purl.obolibrary.org/obo/GSSO_001729> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "radial forearm free-flap phalloplasty"@en .
+<http://purl.obolibrary.org/obo/GSSO_003821> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "queer baiting"@en .
+<http://purl.obolibrary.org/obo/GSSO_001521> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "47, XXY syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_000872> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nonmonogamy"@en .
+<http://purl.obolibrary.org/obo/GSSO_012905> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-modernism"@en .
+<http://purl.obolibrary.org/obo/GSSO_004645> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "estradiol oral"@en .
+<http://purl.obolibrary.org/obo/GSSO_009410> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "anti-vaccine movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_001349> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sexual ageplay"@en .
+<http://purl.obolibrary.org/obo/GSSO_007629> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Stan culture"@en .
+<http://purl.obolibrary.org/obo/GSSO_012653> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "step-parent"@en .
+<http://purl.obolibrary.org/obo/GSSO_003394> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dead-naming"@en .
+<http://purl.obolibrary.org/obo/GSSO_000629> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "multi-volume work"@en .
+<http://purl.obolibrary.org/obo/GO_0000805> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "chromosome X"@en .
+<http://purl.obolibrary.org/obo/GSSO_004116> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lifelong generalized anorgasmia"@en .
+<http://purl.obolibrary.org/obo/GSSO_011105> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "identity first language"@en .
+<http://purl.obolibrary.org/obo/GSSO_002313> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "zanána"@en .
+<http://purl.obolibrary.org/obo/GSSO_008428> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "PREMARIN"@en .
+<http://purl.obolibrary.org/obo/GSSO_007360> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "archæology"@en .
+<http://purl.obolibrary.org/obo/GSSO_011444> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "heterosexual-bisexual relationship"@en .
+<http://purl.obolibrary.org/obo/GSSO_002031> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bade"@en .
+<http://purl.obolibrary.org/obo/DOID_1094> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "attention deficit-hyperactivity disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_004082> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "muff-diver"@en .
+<http://purl.obolibrary.org/obo/GSSO_004617> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Kinsey Institute for Research in Sex, Gender and Reproduction"@en .
+<http://semanticscience.org/resource/SIO_000158> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "series of books"@en .
+<http://purl.obolibrary.org/obo/GO_0048646> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "formation of an anatomical structure involved in morphogenesis"@en .
+<http://purl.obolibrary.org/obo/GSSO_006355> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "infection parasitic"@en .
+<http://purl.obolibrary.org/obo/GSSO_003124> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gay steambath"@en .
+<http://purl.obolibrary.org/obo/GSSO_004657> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender neutral title"@en .
+<http://purl.obolibrary.org/obo/GSSO_008447> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "MtF"@en .
+<http://purl.obolibrary.org/obo/GSSO_007352> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "auto-monosexualism"@en .
+<http://purl.obolibrary.org/obo/GSSO_000885> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "human nonmonogamy"@en .
+<http://purl.obolibrary.org/obo/GSSO_000656> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "disorder menstrual"@en .
+<http://purl.obolibrary.org/obo/GSSO_007557> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cheek make-up"@en .
+<http://purl.obolibrary.org/obo/GSSO_002836> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "antigay bias"@en .
+<http://purl.obolibrary.org/obo/GSSO_008008> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "noble LGBTQ people"@en .
+<http://purl.obolibrary.org/obo/GSSO_004044> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "group-sex"@en .
+<http://purl.obolibrary.org/obo/GSSO_000523> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "human immunodeficiency virus 1 infection"@en .
+<http://purl.bioontology.org/ontology/MESH/D019991> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "data base"@en .
+<http://purl.obolibrary.org/obo/GSSO_006331> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "adult lesbian"@en .
+<http://purl.obolibrary.org/obo/GSSO_008344> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "comicbook"@en .
+<http://purl.obolibrary.org/obo/GSSO_005472> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bookshop"@en .
+<http://purl.obolibrary.org/obo/GSSO_003557> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender fuck"@en .
+<http://purl.obolibrary.org/obo/GSSO_008608> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hard-core pornography"@en .
+<http://purl.obolibrary.org/obo/GSSO_003570> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "girl-dick"@en .
+<http://purl.obolibrary.org/obo/GAZ_00000906> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Cote d'Ivoire"@en .
+<http://purl.obolibrary.org/obo/GSSO_003676> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pan-sexual"@en .
+<http://purl.obolibrary.org/obo/ENVO_00000063> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "waterbody"@en .
+<http://purl.obolibrary.org/obo/GSSO_003763> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "counter-culture"@en .
+<http://purl.obolibrary.org/obo/GSSO_007882> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "neotantric movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_002025> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "two-spirit person"@en .
+<http://purl.obolibrary.org/obo/GSSO_003962> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fistfucking"@en .
+<http://purl.obolibrary.org/obo/GSSO_006409> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nonmonogamous marital relationships"@en .
+<http://purl.obolibrary.org/obo/GSSO_008342> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "co-parenthood"@en .
+<http://purl.obolibrary.org/obo/GSSO_003893> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "health-care"@en .
+<http://purl.obolibrary.org/obo/GSSO_003396> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gray-aromantic"@en .
+<http://purl.obolibrary.org/obo/GSSO_001593> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pan-sexual"@en .
+<http://semanticscience.org/resource/SIO_001170> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "slide show"@en .
+<http://purl.obolibrary.org/obo/GSSO_012842> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "MariCoin"@en .
+<http://purl.obolibrary.org/obo/GSSO_007166> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "neuro-intersexuality"@en .
+<http://purl.obolibrary.org/obo/GSSO_010233> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "socio-cultural anthropology"@en .
+<http://purl.obolibrary.org/obo/GSSO_012476> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-equilateral polygamous triadic relationship"@en .
+<http://purl.obolibrary.org/obo/GSSO_007042> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "69 XYY"@en .
+<http://purl.obolibrary.org/obo/GSSO_000188> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ARPAnet"@en .
+<http://purl.obolibrary.org/obo/GSSO_006073> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "graysexual"@en .
+<http://purl.obolibrary.org/obo/GSSO_008492> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fat acceptance movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_004075> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bio-queen"@en .
+<http://purl.obolibrary.org/obo/GSSO_000824> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "love–hate relationship"@en .
+<http://purl.obolibrary.org/obo/GSSO_009564> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46,XX/47,XXY"@en .
+<http://purl.obolibrary.org/obo/GSSO_001726> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "zero-depth vaginoplasty"@en .
+<http://purl.obolibrary.org/obo/GSSO_011026> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans-denialism"@en .
+<http://purl.obolibrary.org/obo/GSSO_001869> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "don juanism"@en .
+<http://purl.obolibrary.org/obo/GSSO_004116> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "acquired generalized anorgasmia"@en .
+<http://purl.obolibrary.org/obo/GSSO_000058> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "adult transgender suicidality"@en .
+<http://purl.obolibrary.org/obo/GSSO_007606> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "full time"@en .
+<http://purl.obolibrary.org/obo/GSSO_001728> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "free-flap phalloplasty"@en .
+<http://purl.obolibrary.org/obo/GSSO_001399> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bulldyking"@en .
+<http://purl.obolibrary.org/obo/GAZ_00003772> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Antilles, Greater"@en .
+<http://purl.obolibrary.org/obo/GSSO_007930> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "maknyah"@en .
+<http://purl.obolibrary.org/obo/GSSO_000061> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sequence of gametogenesis"@en .
+<http://purl.obolibrary.org/obo/GSSO_009418> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender assigned at birth"@en .
+<http://purl.obolibrary.org/obo/NCIT_C3009> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "disorder endocrine"@en .
+<http://purl.obolibrary.org/obo/GSSO_002862> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "transhate"@en .
+<http://purl.obolibrary.org/obo/GSSO_000096> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "transgender and non-binary"@en .
+<http://purl.obolibrary.org/obo/GSSO_005282> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "AIDS phobia"@en .
+<http://purl.obolibrary.org/obo/GSSO_002139> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "tüdayapⁱ"@en .
+<http://purl.obolibrary.org/obo/GSSO_007831> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Hallowe'en"@en .
+<http://purl.obolibrary.org/obo/GSSO_001346> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "roleplay"@en .
+<http://purl.obolibrary.org/obo/GSSO_009227> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "rapid onset gender dysphoria"@en .
+<http://purl.obolibrary.org/obo/GSSO_010030> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "neopaganism"@en .
+<http://purl.obolibrary.org/obo/GSSO_004005> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans masculine"@en .
+<http://purl.obolibrary.org/obo/GSSO_008825> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Mpreg"@en .
+<http://purl.obolibrary.org/obo/GSSO_001586> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46,XX DSD"@en .
+<http://purl.obolibrary.org/obo/GSSO_006603> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bio-terrorism"@en .
+<http://purl.obolibrary.org/obo/GSSO_006962> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "free-martin"@en .
+<http://purl.obolibrary.org/obo/GSSO_007170> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-blindness"@en .
+<http://purl.obolibrary.org/obo/GSSO_010306> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "night-blogging"@en .
+<http://purl.obolibrary.org/obo/GSSO_002094> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "mī'yuuta"@en .
+<http://purl.obolibrary.org/obo/GSSO_003217> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sociopolitical power"@en .
+<http://purl.obolibrary.org/obo/DOID_2377> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sclerosis multiple"@en .
+<http://purl.obolibrary.org/obo/GSSO_006526> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gas-lighting"@en .
+<http://purl.obolibrary.org/obo/GSSO_002663> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "himorher"@en .
+<http://purl.obolibrary.org/obo/GSSO_001934> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "prolonged erection"@en .
+<http://purl.obolibrary.org/obo/GSSO_007116> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary menstruation"@en .
+<http://purl.obolibrary.org/obo/CHEBI_36836> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "3beta-hydroxy steroid"@en .
+<http://purl.obolibrary.org/obo/GSSO_006476> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abuse, sexual, by religious leaders"@en .
+<http://purl.obolibrary.org/obo/GSSO_005094> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "under wire bra"@en .
+<http://purl.obolibrary.org/obo/GSSO_001399> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bull-dyke"@en .
+<http://purl.obolibrary.org/obo/GSSO_009985> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Christianity, early and medieval"@en .
+<http://purl.obolibrary.org/obo/GSSO_002253> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "multiethnic feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_009565> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46,XY/47,XXY"@en .
+<http://purl.obolibrary.org/obo/CHEBI_36044> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "anti-viral drug"@en .
+<http://purl.obolibrary.org/obo/CHEBI_53225> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "poly(alkylene) macromolecule"@en .
+<http://purl.obolibrary.org/obo/GSSO_010821> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "progesterone, micronized"@en .
+<http://purl.obolibrary.org/obo/GSSO_009506> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "man-cave"@en .
+<http://purl.obolibrary.org/obo/GSSO_007662> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "'aylonit"@en .
+<http://purl.obolibrary.org/obo/GSSO_001585> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "progestin induced virilization"@en .
+<http://purl.obolibrary.org/obo/GSSO_012500> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "name non-conforming"@en .
+<http://purl.obolibrary.org/obo/GSSO_006021> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Tubatulabal"@en .
+<http://purl.obolibrary.org/obo/GAZ_00000587> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Africa, Sub-saharan"@en .
+<http://purl.obolibrary.org/obo/GSSO_006079> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "\"AIDS orphan\" tourism"@en .
+<http://purl.obolibrary.org/obo/GSSO_012368> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Mormon gay"@en .
+<http://purl.obolibrary.org/obo/GSSO_000516> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "human immunodeficiency virus infection"@en .
+<http://purl.obolibrary.org/obo/GSSO_000513> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "AIDS/HIV"@en .
+<http://purl.org/sig/ont/fma/fma45654> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "internal müllerian genitalia"@en .
+<http://purl.obolibrary.org/obo/GSSO_010031> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "paganism, queer"@en .
+<http://purl.obolibrary.org/obo/GSSO_003078> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "violence against non-binary people"@en .
+<http://purl.obolibrary.org/obo/GSSO_004744> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary-phobia"@en .
+<http://purl.obolibrary.org/obo/GSSO_004077> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "rice-queen"@en .
+<http://purl.obolibrary.org/obo/GSSO_007414> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "woman identified woman"@en .
+<http://purl.obolibrary.org/obo/GSSO_004068> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "limp wristed"@en .
+<http://purl.obolibrary.org/obo/GSSO_004876> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lactation suppressed"@en .
+<http://purl.obolibrary.org/obo/GSSO_007663> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ass play"@en .
+<http://purl.obolibrary.org/obo/GSSO_006824> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "birthrate"@en .
+<http://purl.obolibrary.org/obo/GSSO_003893> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "healthcare"@en .
+<http://purl.obolibrary.org/obo/GSSO_012653> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "step father"@en .
+<https://portal.issn.org/resource/issn/1541-0889> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Journal of Gay and Lesbian Issues in Education"@en .
+<http://purl.obolibrary.org/obo/GSSO_012614> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "arsenokoites"@en .
+<http://purl.obolibrary.org/obo/GSSO_003935> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cyber-feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_001169> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "HIV-seropositive person"@en .
+<http://purl.obolibrary.org/obo/GSSO_001364> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "femmes and butches"@en .
+<http://purl.obolibrary.org/obo/GSSO_004845> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "breast disorder male"@en .
+<http://purl.obolibrary.org/obo/GSSO_012529> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "meet-cute"@en .
+<http://purl.obolibrary.org/obo/GSSO_001350> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "animal roleplay"@en .
+<http://purl.obolibrary.org/obo/GSSO_010544> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-modernity"@en .
+<http://purl.obolibrary.org/obo/GSSO_012467> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nonmonogamous relationship"@en .
+<http://purl.obolibrary.org/obo/GSSO_005524> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "discharge vaginal"@en .
+<http://purl.obolibrary.org/obo/GSSO_010075> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "theistic Satanism"@en .
+<http://purl.obolibrary.org/obo/GSSO_008341> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "LGBT co-parents"@en .
+<http://purl.obolibrary.org/obo/CHEBI_77006> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "17beta-estradiol 3-benzoate"@en .
+<http://purl.obolibrary.org/obo/GSSO_001152> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sexual-minority women"@en .
+<http://purl.obolibrary.org/obo/GSSO_001879> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-paraphilic compulsive sexual behavior"@en .
+<http://semanticscience.org/resource/SIO_000985> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "protein coding gene"@en .
+<http://purl.obolibrary.org/obo/GSSO_006685> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fertilization in vitro"@en .
+<http://purl.obolibrary.org/obo/GSSO_004116> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "acquired situational anorgasmia"@en .
+<http://purl.obolibrary.org/obo/GSSO_002189> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bakla"@en .
+<http://purl.obolibrary.org/obo/GSSO_004773> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "mixed-sex play"@en .
+<http://purl.obolibrary.org/obo/GSSO_011199> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Thanksgiving crossdressing"@en .
+<http://purl.obolibrary.org/obo/GSSO_002492> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Emself"@en .
+<http://purl.obolibrary.org/obo/GSSO_001618> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "excision of ovotestis"@en .
+<http://purl.obolibrary.org/obo/GSSO_001956> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Queer Spawn"@en .
+<http://purl.obolibrary.org/obo/GSSO_007496> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "kink-shaming"@en .
+<http://purl.obolibrary.org/obo/GSSO_001833> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "transgender gay person"@en .
+<http://purl.obolibrary.org/obo/GSSO_011759> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cross dressing community"@en .
+<http://purl.obolibrary.org/obo/GSSO_002103> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nádleehí"@en .
+<http://purl.obolibrary.org/obo/GSSO_007688> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "yin-yang ren"@en .
+<http://purl.obolibrary.org/obo/GSSO_007223> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pen-name"@en .
+<http://purl.obolibrary.org/obo/CHEBI_47909> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "3-oxo-Delta(4) steroid"@en .
+<http://purl.obolibrary.org/obo/GSSO_007124> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pre-menstrual tension syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_002338> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "poly-gender identity"@en .
+<http://purl.obolibrary.org/obo/GSSO_003167> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "law and sex"@en .
+<http://purl.obolibrary.org/obo/GSSO_000131> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-queer"@en .
+<http://purl.obolibrary.org/obo/CHEBI_77727> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "delta-lactam"@en .
+<http://purl.obolibrary.org/obo/GSSO_001176> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "rimjob"@en .
+<http://purl.obolibrary.org/obo/GSSO_009395> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "proto-feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_003791> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "testo junkie"@en .
+<http://purl.obolibrary.org/obo/GSSO_010508> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Trump era transition cohort"@en .
+<http://purl.obolibrary.org/obo/GSSO_003000> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sexual child abuse"@en .
+<http://purl.obolibrary.org/obo/GSSO_003710> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "molly-house"@en .
+<http://purl.obolibrary.org/obo/GSSO_000395> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "person with non-binary gender identity"@en .
+<http://purl.obolibrary.org/obo/GSSO_010019> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Hellenic Ethnic Religion"@en .
+<http://purl.obolibrary.org/obo/GSSO_012470> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "competitive romantic relationship"@en .
+<http://purl.bioontology.org/ontology/MESH/D013734> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "androgen-insensitivity syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_011380> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "wintersport"@en .
+<http://purl.obolibrary.org/obo/GSSO_005868> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "homo-sexualist"@en .
+<http://purl.obolibrary.org/obo/GSSO_007631> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "LGBTQ deaf subculture"@en .
+<http://purl.obolibrary.org/obo/GSSO_011460> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cross dressing ball"@en .
+<http://purl.obolibrary.org/obo/GSSO_000341> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "tranny-chaser"@en .
+<http://purl.obolibrary.org/obo/GSSO_007289> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "LGBTQ American Indian culture"@en .
+<http://purl.obolibrary.org/obo/GSSO_011731> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "infection tuberculosis"@en .
+<http://purl.obolibrary.org/obo/GSSO_011942> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "type-2 5α-reductase deficiency"@en .
+<http://purl.obolibrary.org/obo/GSSO_000171> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46,XX true hermaphrodite"@en .
+<http://purl.obolibrary.org/obo/GSSO_009437> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pronoun non-conforming"@en .
+<http://purl.obolibrary.org/obo/GSSO_009306> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "\"Stepford Wife\" requirement"@en .
+<http://purl.obolibrary.org/obo/GSSO_001298> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dual role transvestism"@en .
+<http://purl.obolibrary.org/obo/GSSO_000283> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary culture"@en .
+<http://purl.obolibrary.org/obo/GSSO_002433> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "she-male"@en .
+<http://purl.obolibrary.org/obo/GSSO_004240> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nontransgender"@en .
+<http://purl.obolibrary.org/obo/GSSO_004026> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "homo-erotism"@en .
+<http://purl.obolibrary.org/obo/GSSO_007098> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Edwards' syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_002786> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Ebonics"@en .
+<http://purl.obolibrary.org/obo/GSSO_001849> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hyper sexuality"@en .
+<http://purl.obolibrary.org/obo/GSSO_002294> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-variant"@en .
+<http://purl.obolibrary.org/obo/GSSO_006073> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gray-sexual"@en .
+<http://purl.org/sig/ont/fma/fma293325> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gestational age unknown"@en .
+<http://purl.obolibrary.org/obo/GSSO_002296> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "all-gender loving"@en .
+<http://purl.obolibrary.org/obo/GSSO_001346> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "role-playing"@en .
+<http://purl.obolibrary.org/obo/GSSO_012653> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "step mother"@en .
+<http://purl.obolibrary.org/obo/GSSO_002339> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-fluid identity"@en .
+<http://purl.obolibrary.org/obo/GSSO_002045> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Athúth"@en .
+<http://purl.obolibrary.org/obo/GSSO_009254> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary boy"@en .
+<http://purl.obolibrary.org/obo/GSSO_005099> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fetish wear"@en .
+<http://purl.obolibrary.org/obo/GAZ_00000555> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Africa, North"@en .
+<http://purl.obolibrary.org/obo/GSSO_008153> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "eco-feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_009759> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abortion, preemptive"@en .
+<http://purl.obolibrary.org/obo/GSSO_009041> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "story-telling"@en .
+<http://purl.obolibrary.org/obo/GSSO_011473> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lesbian Latina"@en .
+<http://purl.obolibrary.org/obo/GSSO_001812> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Mongolism"@en .
+<http://purl.obolibrary.org/obo/GSSO_006360> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "health related quality of life"@en .
+<http://purl.obolibrary.org/obo/GSSO_010585> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "breast conserving surgery"@en .
+<http://purl.obolibrary.org/obo/GSSO_002036> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ira' muxe"@en .
+<http://purl.obolibrary.org/obo/GSSO_002844> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "discrimination against non-binary people"@en .
+<http://purl.obolibrary.org/obo/GSSO_002633> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "HeShe"@en .
+<http://purl.obolibrary.org/obo/GSSO_009760> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abortion-on-demand"@en .
+<http://purl.obolibrary.org/obo/GSSO_002305> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hijrā"@en .
+<http://purl.obolibrary.org/obo/GSSO_008022> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Buddhist lesbian"@en .
+<http://purl.obolibrary.org/obo/GSSO_004272> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gloryhole"@en .
+<http://purl.obolibrary.org/obo/GSSO_000402> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender non-conforming person"@en .
+<http://purl.obolibrary.org/obo/GSSO_009812> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "acceptability, social"@en .
+<http://purl.obolibrary.org/obo/GSSO_002036> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "muxé"@en .
+<http://purl.obolibrary.org/obo/GSSO_010323> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "antigender movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_008877> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bio-girl"@en .
+<http://purl.obolibrary.org/obo/GSSO_006629> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "makeout"@en .
+<http://purl.obolibrary.org/obo/GSSO_010796> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "thyroid stimulating hormone suppression therapy"@en .
+<http://purl.obolibrary.org/obo/GSSO_006179> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "6 months HRT hair"@en .
+<http://purl.obolibrary.org/obo/CHEBI_16799> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "16alpha-hydroxy steroid"@en .
+<http://purl.obolibrary.org/obo/GSSO_008340> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "co-parent"@en .
+<http://purl.obolibrary.org/obo/UBERON_0002537> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ovo-testes"@en .
+<http://purl.obolibrary.org/obo/GSSO_003573> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gray romantic person"@en .
+<http://purl.obolibrary.org/obo/GSSO_011743> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post viral fatigue syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_009883> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "24-7"@en .
+<http://purl.bioontology.org/ontology/MESH/D004268> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "DNA binding protein"@en .
+<http://purl.obolibrary.org/obo/GSSO_008446> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "FtM"@en .
+<http://purl.obolibrary.org/obo/GSSO_003321> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post coital contraception"@en .
+<http://purl.obolibrary.org/obo/NCIT_C16165> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "highly-active antiretroviral therapy"@en .
+<http://purl.obolibrary.org/obo/GSSO_005071> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ear ring"@en .
+<http://purl.obolibrary.org/obo/GSSO_002296> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "all-gender-loving"@en .
+<http://purl.obolibrary.org/obo/GSSO_003098> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "anti-semitism"@en .
+<http://purl.bioontology.org/ontology/MESH/D006899> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "mixed-function oxygenase"@en .
+<http://purl.obolibrary.org/obo/GAZ_00004940> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Caucasus, South"@en .
+<http://purl.obolibrary.org/obo/GSSO_005974> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "tubasa'"@en .
+<http://purl.obolibrary.org/obo/GSSO_002934> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "drug-use discrimination"@en .
+<http://purl.obolibrary.org/obo/GSSO_001346> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "role-play"@en .
+<http://purl.obolibrary.org/obo/GSSO_008343> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "LGBTQ co-parenthood"@en .
+<http://purl.obolibrary.org/obo/GSSO_006825> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "crude birthrate"@en .
+<http://purl.obolibrary.org/obo/GSSO_003836> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "safe-space"@en .
+<http://purl.obolibrary.org/obo/GSSO_002321> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Palao'ana"@en .
+<http://purl.obolibrary.org/obo/GSSO_009578> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "92 XXXX"@en .
+<http://semanticscience.org/resource/SIO_000155> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "weblog"@en .
+<http://purl.obolibrary.org/obo/GSSO_000358> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "guy-mode"@en .
+<http://purl.obolibrary.org/obo/GSSO_000129> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "genderqueer, gender nonconforming and gender nonbinary"@en .
+<http://purl.obolibrary.org/obo/GSSO_000712> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "demi-sexuality"@en .
+<http://purl.obolibrary.org/obo/GSSO_006209> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trickle up linguistics"@en .
+<http://purl.obolibrary.org/obo/GSSO_002867> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "internalized trans-phobia"@en .
+<http://purl.obolibrary.org/obo/GSSO_012578> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "antidiscrimination measure"@en .
+<http://purl.obolibrary.org/obo/GSSO_009871> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Bahá'í Faith"@en .
+<http://purl.obolibrary.org/obo/GSSO_003744> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "posttransition transgender person"@en .
+<http://purl.obolibrary.org/obo/GSSO_003546> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gay–straight alliance"@en .
+<http://purl.obolibrary.org/obo/CHEBI_85278> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "17beta-hydroxyandrostan-3-one"@en .
+<http://purl.obolibrary.org/obo/GSSO_004066> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fudgepacker"@en .
+<http://purl.obolibrary.org/obo/GSSO_007098> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Edwards' syndrome, unspecified"@en .
+<http://purl.org/sig/ont/fma/fma0328412> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Tanner Stage"@en .
+<http://purl.obolibrary.org/obo/GSSO_007824> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Christianity, early and medieval"@en .
+<http://purl.obolibrary.org/obo/GSSO_004808> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "allo-eroticism"@en .
+<http://purl.obolibrary.org/obo/GSSO_009277> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "exotic other"@en .
+<http://purl.obolibrary.org/obo/GSSO_012763> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "internalized bi-negativity"@en .
+<http://purl.obolibrary.org/obo/GSSO_001442> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "A.C.-D.C."@en .
+<http://purl.obolibrary.org/obo/GSSO_003098> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Antisemitism"@en .
+<http://purl.obolibrary.org/obo/GSSO_009302> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Blacklivesmatter movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_001972> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "step-sibling"@en .
+<http://purl.obolibrary.org/obo/GSSO_011200> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Mardi Gras crossdressing"@en .
+<http://purl.obolibrary.org/obo/GSSO_009253> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary woman"@en .
+<http://purl.obolibrary.org/obo/GSSO_010903> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hair-styling"@en .
+<http://purl.obolibrary.org/obo/GSSO_009792> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "rights, abuse of"@en .
+<http://purl.obolibrary.org/obo/GSSO_009267> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "face-sitting"@en .
+<http://purl.obolibrary.org/obo/GSSO_012500> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "name non-conformity"@en .
+<http://purl.obolibrary.org/obo/GSSO_001261> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "water-sports"@en .
+<http://purl.obolibrary.org/obo/GAZ_00000587> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Sub-saharan Africa"@en .
+<http://purl.obolibrary.org/obo/GSSO_005851> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "health care professional"@en .
+<http://purl.obolibrary.org/obo/GSSO_001275> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bleeding menstrual heavy"@en .
+<http://purl.obolibrary.org/obo/NCIT_C95502> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "feeling tense"@en .
+<http://purl.obolibrary.org/obo/GSSO_010410> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Super Bi"@en .
+<http://purl.obolibrary.org/obo/GSSO_012852> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "mile high club"@en .
+<http://purl.obolibrary.org/obo/GSSO_002152> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "wiⁿktaⁿ"@en .
+<http://purl.obolibrary.org/obo/GSSO_000189> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "USENET"@en .
+<http://purl.obolibrary.org/obo/GSSO_009708> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary gender confirmation surgery"@en .
+<http://purl.obolibrary.org/obo/GSSO_001196> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "womyn-born womyn"@en .
+<http://purl.obolibrary.org/obo/GSSO_011976> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "butch-FTM border wars"@en .
+<http://purl.obolibrary.org/obo/GSSO_012653> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "step-father"@en .
+<http://purl.obolibrary.org/obo/GSSO_006994> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Cri du chat syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_003706> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "masc 4 masc"@en .
+<http://purl.obolibrary.org/obo/GSSO_008740> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "DRAB"@en .
+<http://purl.obolibrary.org/obo/GSSO_001398> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bi-curious"@en .
+<http://purl.obolibrary.org/obo/GSSO_001160> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ki-ki"@en .
+<http://purl.obolibrary.org/obo/GSSO_009771> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abortion-rights movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_002983> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-normative"@en .
+<http://purl.obolibrary.org/obo/GSSO_004845> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "breast disorder female"@en .
+<http://purl.obolibrary.org/obo/GSSO_010901> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "haircare"@en .
+<http://purl.obolibrary.org/obo/GSSO_002320> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "mahu wahine"@en .
+<http://purl.obolibrary.org/obo/GO_0001198> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "downregulation of RNA polymerase II transcription, mating-type specific"@en .
+<http://purl.obolibrary.org/obo/GSSO_003095> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "neuro-divergent person"@en .
+<http://purl.obolibrary.org/obo/NCIT_C17886> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "meta analysis"@en .
+<http://purl.obolibrary.org/obo/GAZ_01000048> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Caribbean region"@en .
+<http://purl.obolibrary.org/obo/GSSO_003123> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "MSM sex-on-premises venue"@en .
+<http://purl.obolibrary.org/obo/GSSO_005624> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bondage wear"@en .
+<http://purl.obolibrary.org/obo/GSSO_008817> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fanart"@en .
+<http://purl.obolibrary.org/obo/GSSO_012767> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans-negativity"@en .
+<http://purl.obolibrary.org/obo/GSSO_011820> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cyber-terrorism"@en .
+<http://purl.obolibrary.org/obo/GSSO_002062> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hova"@en .
+<http://purl.obolibrary.org/obo/GSSO_009036> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "anti-essentialism"@en .
+<http://purl.obolibrary.org/obo/GSSO_001151> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sexual-minority men"@en .
+<http://purl.bioontology.org/ontology/MESH/D000076144> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Egypt, Ancient"@en .
+<http://purl.obolibrary.org/obo/GSSO_010306> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nightblogging"@en .
+<http://purl.obolibrary.org/obo/GSSO_012027> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "asexual non-binary person"@en .
+<http://purl.obolibrary.org/obo/GSSO_003394> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dead naming"@en .
+<http://purl.obolibrary.org/obo/GSSO_010364> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sea lioning"@en .
+<http://purl.obolibrary.org/obo/GSSO_001465> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "transgender and gender non-conforming adolescents"@en .
+<http://purl.obolibrary.org/obo/GSSO_005363> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cause of death unknown"@en .
+<http://purl.obolibrary.org/obo/GSSO_003100> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Anti-Judaism"@en .
+<http://purl.obolibrary.org/obo/NCIT_C94607> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "body-image"@en .
+<http://purl.obolibrary.org/obo/GSSO_000149> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary slang"@en .
+<http://purl.obolibrary.org/obo/NCIT_C94631> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "anti-retroviral therapy"@en .
+<http://purl.obolibrary.org/obo/GSSO_009169> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pseudo-scientific"@en .
+<http://purl.obolibrary.org/obo/GO_0007281> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "germ-cell development"@en .
+<http://purl.obolibrary.org/obo/GSSO_007555> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "eye make-up"@en .
+<http://purl.bioontology.org/ontology/MESH/D020641> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "single nucleotide polymorphism"@en .
+<http://purl.obolibrary.org/obo/GSSO_009189> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "thumbsucking"@en .
+<http://purl.obolibrary.org/obo/NCIT_C61009> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bloodtype"@en .
+<http://purl.obolibrary.org/obo/GSSO_005748> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "transgender Black person"@en .
+<http://purl.obolibrary.org/obo/GSSO_001379> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nonheterosexuality"@en .
+<http://purl.obolibrary.org/obo/GSSO_007861> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Jogappa"@en .
+<http://purl.obolibrary.org/obo/GSSO_012505> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-conformity"@en .
+<http://purl.obolibrary.org/obo/GSSO_008948> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "A.C.A.B."@en .
+<http://purl.obolibrary.org/obo/CHEBI_1722> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "3beta-hydroxy-Delta(5)-steroid"@en .
+<http://purl.obolibrary.org/obo/GSSO_002334> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender neutral identity"@en .
+<http://purl.obolibrary.org/obo/GSSO_006869> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "didelphys uterus"@en .
+<http://purl.obolibrary.org/obo/GSSO_005010> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "womenswear"@en .
+<http://purl.obolibrary.org/obo/GSSO_003556> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-bending"@en .
+<http://purl.obolibrary.org/obo/GSSO_001743> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Stanford bipedicled infra-umbilical skin flap phalloplasty"@en .
+<http://purl.obolibrary.org/obo/GSSO_003761> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Other"@en .
+<http://purl.obolibrary.org/obo/GSSO_001263> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fetishistic crossdressing"@en .
+<http://purl.obolibrary.org/obo/GSSO_002978> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "First-World privilege"@en .
+<http://purl.obolibrary.org/obo/GSSO_000132> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary"@en .
+<http://purl.obolibrary.org/obo/GSSO_008101> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "butch femme relationship"@en .
+<http://purl.obolibrary.org/obo/NCIT_C21007> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "(dis)ability"@en .
+<http://purl.obolibrary.org/obo/GSSO_011119> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bilateral mastectomy extended simple"@en .
+<http://purl.obolibrary.org/obo/GSSO_003891> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans-feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_003964> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "domdrop"@en .
+<http://purl.obolibrary.org/obo/GSSO_001442> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "AC/DC"@en .
+<http://purl.obolibrary.org/obo/GSSO_006994> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Cri-du-chat syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_003557> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-fuck"@en .
+<http://purl.obolibrary.org/obo/DOID_535> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "disorder sleep"@en .
+<http://purl.obolibrary.org/obo/NCIT_C42734> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-drug contraceptive"@en .
+<http://purl.obolibrary.org/obo/GSSO_001352> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "edge play"@en .
+<http://purl.org/sig/ont/fma/fma45642> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "external genitalia, wolffian"@en .
+<http://purl.obolibrary.org/obo/GSSO_001354> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "blood play"@en .
+<http://purl.obolibrary.org/obo/GSSO_007398> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "two spirit gender identity"@en .
+<https://portal.issn.org/resource/issn/1559-8519> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "The Journal of Sex Research"@en .
+<http://purl.obolibrary.org/obo/GSSO_000128> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender non-conformity"@en .
+<http://purl.obolibrary.org/obo/GSSO_002313> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "zanānā"@en .
+<http://purl.obolibrary.org/obo/GSSO_009279> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-colonial theory"@en .
+<http://purl.obolibrary.org/obo/GSSO_012505> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "social non-conformity"@en .
+<http://purl.obolibrary.org/obo/GSSO_002576> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "himer"@en .
+<http://purl.obolibrary.org/obo/GSSO_012521> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "female with 46, XY karyotype"@en .
+<http://purl.obolibrary.org/obo/GSSO_001658> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "salpingo-oophorectomy"@en .
+<http://purl.obolibrary.org/obo/GSSO_002633> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "he/shes"@en .
+<http://purl.obolibrary.org/obo/GSSO_000812> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "oral genital stimulation"@en .
+<http://purl.obolibrary.org/obo/GSSO_005116> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "human Y chromosome"@en .
+<http://purl.obolibrary.org/obo/GSSO_004834> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "atrophy testicular"@en .
+<http://purl.obolibrary.org/obo/GSSO_009910> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender affirming intimacy"@en .
+<http://purl.obolibrary.org/obo/GSSO_004743> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dyspareunia - non-psychogenic"@en .
+<http://purl.obolibrary.org/obo/GSSO_010334> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "vaka sa lewa lewa"@en .
+<http://purl.obolibrary.org/obo/GSSO_010505> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary cohort"@en .
+<http://purl.obolibrary.org/obo/GSSO_008609> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "soft-core pornography"@en .
+<http://purl.obolibrary.org/obo/GSSO_007874> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Sydney Gay & Lesbian Mardi Gras"@en .
+<http://purl.bioontology.org/ontology/MESH/D003075> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "coetus"@en .
+<http://purl.obolibrary.org/obo/GSSO_004240> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cis-gender"@en .
+<http://purl.obolibrary.org/obo/GSSO_004043> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "daisy-chainer"@en .
+<http://purl.obolibrary.org/obo/GSSO_010120> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "aesthetic movement"@en .
+<http://purl.org/sig/ont/fma/fma45655> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "accessory sex organs, wolffian"@en .
+<http://purl.obolibrary.org/obo/GSSO_006997> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Williams–Beuren syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_003881> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "co-operation"@en .
+<http://purl.obolibrary.org/obo/GSSO_005443> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "G spot"@en .
+<http://purl.obolibrary.org/obo/GSSO_002163> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "akava'ine"@en .
+<http://purl.obolibrary.org/obo/GSSO_009884> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "24-hour girl"@en .
+<http://purl.obolibrary.org/obo/GSSO_001271> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "menstruation abnormal"@en .
+<http://purl.obolibrary.org/obo/GSSO_000128> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-nonconforming"@en .
+<http://purl.bioontology.org/ontology/MESH/D000068116> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-dysphoric"@en .
+<http://purl.obolibrary.org/obo/GSSO_002339> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender fluid"@en .
+<http://purl.obolibrary.org/obo/GSSO_006352> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "unspecified malaria"@en .
+<http://purl.obolibrary.org/obo/GSSO_009031> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "neo-liberalism"@en .
+<http://purl.obolibrary.org/obo/GSSO_004538> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "intersex non-binary person"@en .
+<http://purl.obolibrary.org/obo/GSSO_002043> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "aranu'tiq"@en .
+<http://purl.obolibrary.org/obo/GSSO_003895> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "transgender health-care"@en .
+<http://purl.obolibrary.org/obo/GSSO_004378> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "history of crossdressing"@en .
+<http://purl.obolibrary.org/obo/GSSO_007496> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "kink shaming"@en .
+<http://purl.obolibrary.org/obo/GSSO_007268> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "interACT Advocates for Intersex Youth"@en .
+<http://purl.obolibrary.org/obo/GSSO_012100> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cat-fight"@en .
+<http://purl.obolibrary.org/obo/GSSO_008429> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "emmenin"@en .
+<http://purl.obolibrary.org/obo/GSSO_006429> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cyber-sex addiction"@en .
+<http://purl.obolibrary.org/obo/GSSO_005784> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "INVCEL"@en .
+<http://purl.obolibrary.org/obo/GSSO_002302> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fa'afafine"@en .
+<http://purl.obolibrary.org/obo/PATO_0002203> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "right-handedness"@en .
+<http://purl.obolibrary.org/obo/GSSO_003560> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender neutral language"@en .
+<http://purl.obolibrary.org/obo/GSSO_012100> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cat fight"@en .
+<http://purl.obolibrary.org/obo/GSSO_008876> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dead name"@en .
+<http://purl.obolibrary.org/obo/GSSO_002188> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Bacha bazi"@en .
+<http://purl.obolibrary.org/obo/GSSO_003821> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "queer-baiting"@en .
+<http://purl.obolibrary.org/obo/GSSO_011883> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "parent of a gender-nonconforming child"@en .
+<http://purl.obolibrary.org/obo/CHEBI_16330> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "17beta-hydroxy-5alpha-androstan-3-one"@en .
+<http://purl.obolibrary.org/obo/NCIT_C177654> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "healthcare center"@en .
+<http://purl.obolibrary.org/obo/GSSO_007400> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "shehe"@en .
+<http://purl.obolibrary.org/obo/GSSO_002027> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ake'skassi"@en .
+<http://identifiers.org/ncbigene/6736> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sex-determining region Y"@en .
+<http://purl.obolibrary.org/obo/GSSO_000521> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "A.I.D.S."@en .
+<http://purl.obolibrary.org/obo/GSSO_004513> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-nonconforming youth"@en .
+<http://purl.obolibrary.org/obo/GSSO_001849> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hyper-sexuality"@en .
+<http://purl.obolibrary.org/obo/GSSO_002081> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "qoqoymo"@en .
+<http://purl.obolibrary.org/obo/GSSO_001362> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cross dress"@en .
+<http://purl.obolibrary.org/obo/GSSO_011945> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "40 percent"@en .
+<http://purl.bioontology.org/ontology/MESH/D008091> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "belles lettres"@en .
+<http://purl.obolibrary.org/obo/GSSO_006271> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "5-alpha reductase inhibitor"@en .
+<http://purl.obolibrary.org/obo/GSSO_000389> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-transgender person"@en .
+<http://purl.obolibrary.org/obo/GSSO_010081> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "'A' gay"@en .
+<http://purl.obolibrary.org/obo/GSSO_009961> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Direct Entry Midwife"@en .
+<http://purl.obolibrary.org/obo/GSSO_004027> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "auto-erotism"@en .
+<http://purl.obolibrary.org/obo/GSSO_000842> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "extra-marital affair"@en .
+<http://purl.obolibrary.org/obo/GSSO_008153> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ecological feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_010206> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Celtic Neopaganism"@en .
+<http://purl.obolibrary.org/obo/GSSO_003098> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "anti-Semitism"@en .
+<http://purl.obolibrary.org/obo/GSSO_002320> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "mahu"@en .
+<http://purl.obolibrary.org/obo/GSSO_001268> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans-sexualism"@en .
+<http://purl.obolibrary.org/obo/GSSO_004965> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Amy-John"@en .
+<http://purl.obolibrary.org/obo/GO_0001198> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "down-regulation of RNA polymerase II transcription, mating-type specific"@en .
+<http://purl.obolibrary.org/obo/GSSO_009494> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lap-dancing"@en .
+<http://purl.obolibrary.org/obo/GSSO_011882> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-nonconforming child"@en .
+<http://purl.obolibrary.org/obo/GSSO_009267> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "face sitting"@en .
+<http://purl.obolibrary.org/obo/GSSO_004875> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "uterine inflammatory disease"@en .
+<http://purl.obolibrary.org/obo/GSSO_008470> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "news-letter"@en .
+<http://purl.obolibrary.org/obo/CHEBI_4903> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ethinyl estradiol"@en .
+<http://purl.obolibrary.org/obo/GSSO_002108> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nuwuducka"@en .
+<http://purl.obolibrary.org/obo/NCIT_C124436> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "birth assigned sex"@en .
+<http://purl.obolibrary.org/obo/GSSO_000358> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "boy-mode"@en .
+<http://purl.obolibrary.org/obo/GSSO_003945> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-inclusive diversity"@en .
+<http://purl.obolibrary.org/obo/GSSO_008028> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "LGBTQ working class culture"@en .
+<http://purl.obolibrary.org/obo/GSSO_005464> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gay-lesbian interaction"@en .
+<http://purl.obolibrary.org/obo/GSSO_000705> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "homo-sexuality"@en .
+<http://purl.obolibrary.org/obo/GSSO_012859> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pinback button"@en .
+<http://purl.obolibrary.org/obo/GSSO_003353> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "progestogen only injectable contraceptive"@en .
+<http://purl.obolibrary.org/obo/GSSO_005328> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "orgasm abnormal"@en .
+<http://purl.obolibrary.org/obo/GSSO_012325> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "African-American drag queen"@en .
+<http://purl.obolibrary.org/obo/GSSO_008459> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fiancee"@en .
+<http://purl.obolibrary.org/obo/GSSO_009953> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Nuremberg Defense"@en .
+<http://purl.obolibrary.org/obo/GSSO_003554> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-critical feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_009487> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "unassigned at birth"@en .
+<http://purl.obolibrary.org/obo/GSSO_010257> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-graduate student"@en .
+<http://purl.obolibrary.org/obo/GSSO_002291> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Neo-Nazism"@en .
+<http://purl.obolibrary.org/obo/GO_0048856> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "development of an anatomical structure"@en .
+<http://purl.obolibrary.org/obo/GSSO_011941> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "type-1 5α-reductase deficiency"@en .
+<http://purl.obolibrary.org/obo/GSSO_002125> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "tawkxwa'nsixʷ"@en .
+<http://purl.obolibrary.org/obo/GSSO_005465> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-genderism"@en .
+<http://purl.obolibrary.org/obo/GSSO_002759> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-standard dialect"@en .
+<http://purl.obolibrary.org/obo/GSSO_009813> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "acceptance, parental"@en .
+<http://purl.obolibrary.org/obo/GSSO_000161> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trannie"@en .
+<http://purl.obolibrary.org/obo/GSSO_004178> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gallus"@en .
+<http://purl.obolibrary.org/obo/GSSO_002328> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary gender identity"@en .
+<http://purl.obolibrary.org/obo/GSSO_002574> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hiser"@en .
+<http://purl.obolibrary.org/obo/GSSO_004178> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "galli"@en .
+<http://purl.obolibrary.org/obo/GSSO_011928> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-neutral movement"@en .
+<http://purl.obolibrary.org/obo/DOID_0060040> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "unspecified pervasive developmental disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_004431> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "virgin-madonna-whore complex"@en .
+<http://purl.obolibrary.org/obo/GSSO_002593> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Ir"@en .
+<http://purl.obolibrary.org/obo/GSSO_000361> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "girl-mode"@en .
+<http://purl.obolibrary.org/obo/GSSO_000513> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Aids-associated retrovirus"@en .
+<http://purl.obolibrary.org/obo/GSSO_004004> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "feminine of center"@en .
+<http://purl.obolibrary.org/obo/GSSO_006863> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "burn out"@en .
+<http://purl.obolibrary.org/obo/GSSO_002336> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bi-gender identity"@en .
+<http://purl.bioontology.org/ontology/MESH/D000076145> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ancient Greece"@en .
+<http://purl.obolibrary.org/obo/GSSO_009276> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "demonic other"@en .
+<http://purl.obolibrary.org/obo/GSSO_006090> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-ejaculation sickness"@en .
+<http://purl.obolibrary.org/obo/GSSO_012768> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "internalized trans-negativity"@en .
+<http://purl.obolibrary.org/obo/GSSO_002380> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lesbian and gay studies"@en .
+<http://purl.obolibrary.org/obo/GSSO_002337> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "tri-gender identity"@en .
+<http://purl.obolibrary.org/obo/GSSO_008221> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Catholic lesbian"@en .
+<http://purl.obolibrary.org/obo/GSSO_008954> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "shonen ai"@en .
+<http://purl.obolibrary.org/obo/GSSO_007601> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "XtX"@en .
+<http://purl.bioontology.org/ontology/MESH/D017697> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pre-menopause"@en .
+<http://purl.obolibrary.org/obo/GSSO_010444> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Non-Binary Awareness Week"@en .
+<http://purl.obolibrary.org/obo/GSSO_004414> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abortion, induced"@en .
+<http://purl.obolibrary.org/obo/GSSO_002093> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Ma'Kali"@en .
+<http://purl.obolibrary.org/obo/GSSO_010929> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fund-raising"@en .
+<http://purl.obolibrary.org/obo/GSSO_006325> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lesbian, gay, bisexual, and transgender health"@en .
+<http://purl.obolibrary.org/obo/GSSO_000693> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "SAPPHO"@en .
+<http://purl.obolibrary.org/obo/GSSO_009719> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "24:4 combined oral contraceptive regimen"@en .
+<http://purl.obolibrary.org/obo/GSSO_000389> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-transgender individual"@en .
+<http://purl.obolibrary.org/obo/GSSO_012843> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bio-trans"@en .
+<http://purl.obolibrary.org/obo/GSSO_002157> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "yaawa:"@en .
+<http://purl.obolibrary.org/obo/GSSO_002132> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "tubasa waip:"@en .
+<http://purl.obolibrary.org/obo/GSSO_002862> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans-hate"@en .
+<http://purl.obolibrary.org/obo/GSSO_006455> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cyber bullying"@en .
+<http://purl.obolibrary.org/obo/GSSO_010929> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fund raising"@en .
+<http://purl.obolibrary.org/obo/GSSO_003895> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans health care"@en .
+<http://purl.obolibrary.org/obo/GSSO_001398> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bi-curiousity"@en .
+<http://purl.obolibrary.org/obo/GSSO_004005> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "masculine of center"@en .
+<http://purl.obolibrary.org/obo/GSSO_000128> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender non conforming"@en .
+<http://purl.obolibrary.org/obo/GSSO_010046> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Santeria"@en .
+<http://purl.obolibrary.org/obo/GSSO_012791> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-affirming medical intervention"@en .
+<http://purl.obolibrary.org/obo/GSSO_003761> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Othering"@en .
+<http://purl.obolibrary.org/obo/GSSO_009725> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "45X/47XXX"@en .
+<http://purl.obolibrary.org/obo/GSSO_003676> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pan-sexualism"@en .
+<http://purl.obolibrary.org/obo/GSSO_001367> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pain menstrual"@en .
+<http://purl.obolibrary.org/obo/GSSO_001432> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Sapphist"@en .
+<http://purl.obolibrary.org/obo/GSSO_011779> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "neoreactionary movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_005104> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "buttplug"@en .
+<http://purl.obolibrary.org/obo/GSSO_006918> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sleepwalking disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_011963> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Joteria identity"@en .
+<http://purl.obolibrary.org/obo/GSSO_002253> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "multiracial feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_004026> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "homo-eroticism"@en .
+<http://purl.obolibrary.org/obo/GSSO_007280> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary community"@en .
+<http://purl.obolibrary.org/obo/GSSO_002953> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "religio-centrism"@en .
+<http://purl.obolibrary.org/obo/GSSO_009582> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "diploid triploid mosaicism"@en .
+<http://purl.obolibrary.org/obo/GSSO_005977> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Luiseno"@en .
+<http://purl.obolibrary.org/obo/GSSO_012149> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "karmamudra"@en .
+<http://purl.obolibrary.org/obo/GSSO_007411> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "children of GLBTQ parents"@en .
+<http://purl.obolibrary.org/obo/GSSO_003749> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pretransition transgender person"@en .
+<http://purl.bioontology.org/ontology/MESH/D004505> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-professional education"@en .
+<http://purl.obolibrary.org/obo/GSSO_001471> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary adolescent"@en .
+<http://purl.obolibrary.org/obo/GSSO_007632> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "slut-shaming"@en .
+<http://purl.obolibrary.org/obo/GSSO_004967> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Bowling Green massacre"@en .
+<http://purl.obolibrary.org/obo/GSSO_010444> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Non-binary Awareness Week"@en .
+<http://purl.obolibrary.org/obo/GSSO_010508> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Trump-Era transition cohort"@en .
+<http://purl.obolibrary.org/obo/GSSO_009189> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fingersucking"@en .
+<http://purl.bioontology.org/ontology/MESH/D013476> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "superfoetation"@en .
+<http://purl.obolibrary.org/obo/GSSO_000513> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "AIDS associated retrovirus"@en .
+<http://purl.bioontology.org/ontology/MESH/D011528> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "infection protozoal"@en .
+<http://purl.obolibrary.org/obo/GSSO_004184> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "transgender and queer people of color"@en .
+<http://purl.obolibrary.org/obo/UBERON_0003889> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Fallopian tube"@en .
+<http://purl.obolibrary.org/obo/CHEBI_35343> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "17beta-hydroxy steroid"@en .
+<http://purl.obolibrary.org/obo/GSSO_012542> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nonhierarchical polyamory"@en .
+<http://purl.obolibrary.org/obo/GSSO_009586> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary lesbian"@en .
+<http://purl.bioontology.org/ontology/NCBITAXON/6448> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "slugs and snails"@en .
+<http://purl.obolibrary.org/obo/GSSO_008407> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cisplain"@en .
+<http://purl.obolibrary.org/obo/GSSO_012588> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "multi-discrimination"@en .
+<http://purl.obolibrary.org/obo/GSSO_012336> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "white gay person"@en .
+<http://purl.obolibrary.org/obo/GSSO_008072> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Muslim lesbian"@en .
+<http://purl.obolibrary.org/obo/GSSO_003030> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "psychological child abuse"@en .
+<http://purl.obolibrary.org/obo/GSSO_002206> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pup-play"@en .
+<http://purl.obolibrary.org/obo/GSSO_002295> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "same-gender-loving"@en .
+<http://purl.obolibrary.org/obo/GSSO_010715> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lip corner lift"@en .
+<http://purl.obolibrary.org/obo/GAZ_00003948> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Antilles, Lesser"@en .
+<http://purl.obolibrary.org/obo/GSSO_005094> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "under-wire bra"@en .
+<http://purl.obolibrary.org/obo/GSSO_006389> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "#MeToo movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_005835> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "GLBTQ persons"@en .
+<http://purl.obolibrary.org/obo/GSSO_002657> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Eself"@en .
+<http://purl.obolibrary.org/obo/GSSO_001573> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "unspecified disorder of penis"@en .
+<http://purl.obolibrary.org/obo/GSSO_007666> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "anti-feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_003821> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "queer bait"@en .
+<http://purl.obolibrary.org/obo/GSSO_006895> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-traumatic stress disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_004500> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Snowflake Generation"@en .
+<http://purl.obolibrary.org/obo/GSSO_009948> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Asia, Western"@en .
+<http://purl.org/sig/ont/fma/fma45655> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "accessory sex organs, male"@en .
+<http://purl.obolibrary.org/obo/GSSO_000131> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender queer"@en .
+<http://purl.obolibrary.org/obo/GSSO_003112> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "autism infantile"@en .
+<http://purl.obolibrary.org/obo/GSSO_002337> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "tri-gender"@en .
+<http://purl.obolibrary.org/obo/GO_0001198> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "down regulation of RNA polymerase II transcription, mating-type specific"@en .
+<http://purl.obolibrary.org/obo/GSSO_002303> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fakaleiti"@en .
+<http://purl.obolibrary.org/obo/GSSO_001608> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-affirming surgery"@en .
+<http://purl.obolibrary.org/obo/GSSO_001328> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "menstruation irregular"@en .
+<http://purl.obolibrary.org/obo/GSSO_001530> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46 XX gonadal dysgenesis"@en .
+<http://purl.obolibrary.org/obo/GSSO_000720> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "oligo-ovulation"@en .
+<http://semanticscience.org/resource/SIO_000296> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "web site"@en .
+<http://purl.obolibrary.org/obo/GSSO_001399> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bull-diking"@en .
+<http://purl.obolibrary.org/obo/NCIT_C156660> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "disorder urogenital"@en .
+<http://purl.obolibrary.org/obo/GSSO_008823> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "head canon"@en .
+<http://purl.obolibrary.org/obo/GSSO_012765> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "internalized homo-negativity"@en .
+<http://purl.obolibrary.org/obo/DOID_10932> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "obsessive–compulsive personality disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_006356> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Plasmodium infection"@en .
+<http://purl.obolibrary.org/obo/GSSO_003396> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "grayaromantic"@en .
+<http://purl.obolibrary.org/obo/GSSO_004827> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-ischemic priapism"@en .
+<http://purl.obolibrary.org/obo/GSSO_008451> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "secondary trans-sexualism"@en .
+<http://purl.obolibrary.org/obo/GSSO_007690> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "self insemination"@en .
+<http://purl.obolibrary.org/obo/GSSO_004745> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender phobia"@en .
+<http://purl.obolibrary.org/obo/GSSO_001444> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans-sexual"@en .
+<http://purl.obolibrary.org/obo/GSSO_003505> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "transgender-rights organization"@en .
+<http://purl.obolibrary.org/obo/GSSO_007038> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "92 XXXX"@en .
+<http://purl.obolibrary.org/obo/GAZ_00002463> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Asia, Central"@en .
+<http://purl.obolibrary.org/obo/GSSO_005653> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "comp het"@en .
+<http://purl.obolibrary.org/obo/GSSO_004845> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "breast disorder (female)"@en .
+<http://purl.obolibrary.org/obo/GSSO_002026> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Agokwa"@en .
+<http://purl.obolibrary.org/obo/GSSO_000410> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "demi-boy"@en .
+<http://purl.obolibrary.org/obo/GSSO_003396> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gray-romantic"@en .
+<http://purl.obolibrary.org/obo/GSSO_006799> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "L-day"@en .
+<http://purl.obolibrary.org/obo/GSSO_002086> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "kwidó"@en .
+<http://purl.obolibrary.org/obo/GSSO_001265> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "paedophilia"@en .
+<http://purl.obolibrary.org/obo/GSSO_011309> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cis-heteronormativity"@en .
+<http://purl.obolibrary.org/obo/DOID_10933> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "obsessive compulsive disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_009510> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "assigned non-binary at birth"@en .
+<http://purl.obolibrary.org/obo/ENVO_00000002> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "man-made feature"@en .
+<http://purl.obolibrary.org/obo/GSSO_007169> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-neutral"@en .
+<http://purl.obolibrary.org/obo/GSSO_007123> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pre-menstrual syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_008450> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "primary trans-sexualism"@en .
+<http://purl.obolibrary.org/obo/GO_0000804> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "chromosome W"@en .
+<http://purl.obolibrary.org/obo/GSSO_012629> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "HIV-serostatus"@en .
+<http://purl.obolibrary.org/obo/GSSO_004075> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bioqueen"@en .
+<http://purl.obolibrary.org/obo/GSSO_009733> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "reverse-cowgirl"@en .
+<http://purl.obolibrary.org/obo/GSSO_006901> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "schizo-affective disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_003860> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fourth wave feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_004414> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abortion induced"@en .
+<http://www.ncbi.nlm.nih.gov/nuccore/NM_003140> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sex-determining region Y, mRNA"@en .
+<http://purl.obolibrary.org/obo/GSSO_009444> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans-punk music"@en .
+<http://purl.obolibrary.org/obo/GSSO_009067> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "theatrical make-up"@en .
+<http://purl.obolibrary.org/obo/GAZ_00003756> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Viet Nam"@en .
+<http://purl.obolibrary.org/obo/GSSO_004116> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lifelong situational anorgasmia"@en .
+<http://purl.obolibrary.org/obo/GSSO_000132> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender non-binary"@en .
+<http://purl.obolibrary.org/obo/GSSO_002056> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "elxa"@en .
+<http://purl.obolibrary.org/obo/GSSO_007104> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "introversion and extraversion"@en .
+<http://purl.obolibrary.org/obo/GSSO_007816> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gay Asian man"@en .
+<http://purl.obolibrary.org/obo/GSSO_006326> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gay young man"@en .
+<http://purl.obolibrary.org/obo/GSSO_011369> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Chlamydia trachomatis infectious disease"@en .
+<http://purl.obolibrary.org/obo/CHEBI_51721> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "alpha,beta-unsaturated ketone"@en .
+<http://purl.obolibrary.org/obo/GSSO_003463> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gay for pay"@en .
+<http://purl.obolibrary.org/obo/NCIT_C2895> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ovarian benign neoplasm"@en .
+<http://purl.obolibrary.org/obo/GSSO_012651> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "squatter's rights movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_000115> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sex determination system"@en .
+<http://purl.obolibrary.org/obo/GSSO_006073> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gray-asexual"@en .
+<http://purl.obolibrary.org/obo/GSSO_002446> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender neutral pronoun"@en .
+<http://purl.obolibrary.org/obo/GSSO_006009> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Í-wa-musp"@en .
+<http://purl.obolibrary.org/obo/GSSO_005555> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "urination involuntary"@en .
+<http://purl.obolibrary.org/obo/GAZ_00000910> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Bissau Guinean"@en .
+<http://purl.obolibrary.org/obo/GO_0001197> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "up-regulation of transcription from an RNA polymerase II promoter, mating-type specific"@en .
+<http://purl.obolibrary.org/obo/GSSO_000771> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "blow job"@en .
+<http://purl.obolibrary.org/obo/GSSO_009959> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nurse-midwife"@en .
+<http://purl.obolibrary.org/obo/GSSO_002124> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "tainna wa'ippe"@en .
+<http://purl.obolibrary.org/obo/GSSO_008954> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "shonen-ai"@en .
+<http://purl.obolibrary.org/obo/GSSO_011690> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "'defund the police'"@en .
+<http://purl.obolibrary.org/obo/GSSO_007245> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "double-standard"@en .
+<http://purl.obolibrary.org/obo/GSSO_001396> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lesbian \"bed death\""@en .
+<http://purl.obolibrary.org/obo/GSSO_009997> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-being"@en .
+<http://purl.obolibrary.org/obo/GSSO_004043> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "daisy-chain"@en .
+<http://purl.obolibrary.org/obo/GSSO_011690> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "defund the police movement"@en .
+<http://purl.bioontology.org/ontology/MESH/D047648> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "peri-menopause"@en .
+<http://purl.obolibrary.org/obo/GSSO_001719> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "penile-inversion vaginoplasty"@en .
+<http://purl.obolibrary.org/obo/GSSO_008453> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "symptomatic trans-sexualism"@en .
+<http://purl.obolibrary.org/obo/NCBITaxon_7459> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "honeybee"@en .
+<http://purl.obolibrary.org/obo/GSSO_004418> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abortion spontaneous"@en .
+<http://purl.obolibrary.org/obo/PATO_0002202> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "left-handedness"@en .
+<http://purl.obolibrary.org/obo/GSSO_012061> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sex cord–gonadal stromal tumor"@en .
+<http://purl.obolibrary.org/obo/GSSO_012370> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Mormon lesbian"@en .
+<http://purl.obolibrary.org/obo/GSSO_008407> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cis-splain"@en .
+<http://purl.obolibrary.org/obo/GSSO_007594> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Don't Ask, Don't Tell"@en .
+<http://purl.obolibrary.org/obo/GSSO_009723> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "84/7 combined oral contraceptive regimen"@en .
+<http://purl.obolibrary.org/obo/GSSO_011945> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "41 percent"@en .
+<http://purl.bioontology.org/ontology/MESH/D001724> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "birthweight"@en .
+<http://purl.obolibrary.org/obo/GSSO_000835> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pre-marital coitus"@en .
+<http://purl.obolibrary.org/obo/GSSO_005424> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hand-kiss"@en .
+<http://purl.obolibrary.org/obo/GSSO_005078> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "coffee house"@en .
+<http://purl.obolibrary.org/obo/GSSO_010510> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Tipping Point transition cohort"@en .
+<http://purl.obolibrary.org/obo/GSSO_011759> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "crossdressing community"@en .
+<http://purl.obolibrary.org/obo/GSSO_010612> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "crypto-currency"@en .
+<http://purl.obolibrary.org/obo/GSSO_011690> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "defund the police"@en .
+<http://purl.obolibrary.org/obo/GSSO_009895> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "polydrug use"@en .
+<http://purl.obolibrary.org/obo/GSSO_000521> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "AIDS/HIV"@en .
+<http://purl.obolibrary.org/obo/GSSO_009889> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "four-twenty"@en .
+<http://purl.obolibrary.org/obo/GSSO_000779> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hand job"@en .
+<http://purl.obolibrary.org/obo/GSSO_003233> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "boypussy"@en .
+<http://purl.obolibrary.org/obo/GSSO_007811> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Asian American lesbian"@en .
+<http://purl.obolibrary.org/obo/GSSO_008614> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "facial cumshot"@en .
+<http://purl.obolibrary.org/obo/GSSO_005083> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "postmortem sexual-assault forensic evidence kit"@en .
+<http://purl.obolibrary.org/obo/GSSO_003585> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "same sex online dating application"@en .
+<http://purl.obolibrary.org/obo/GSSO_001337> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "self bondage"@en .
+<http://purl.obolibrary.org/obo/GSSO_003859> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "third wave feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_010013> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Germanic Neopaganism"@en .
+<http://purl.obolibrary.org/obo/NCIT_C17720> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gynaecologist"@en .
+<http://purl.obolibrary.org/obo/DOID_10933> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "obsessive–compulsive disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_005558> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "incontinence urinary"@en .
+<http://purl.obolibrary.org/obo/GSSO_007395> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender swapping"@en .
+<http://purl.obolibrary.org/obo/GSSO_012767> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans negativity"@en .
+<http://purl.obolibrary.org/obo/GSSO_011472> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bi-lesbian"@en .
+<http://purl.obolibrary.org/obo/GSSO_007400> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "she/he"@en .
+<http://purl.org/sig/ont/fma/fma45642> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "external wolffian genitalia"@en .
+<http://purl.obolibrary.org/obo/GSSO_002100> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Miati"@en .
+<http://purl.obolibrary.org/obo/GSSO_001301> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bondage & discipline"@en .
+<http://purl.obolibrary.org/obo/GSSO_011271> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "agi"@en .
+<http://purl.obolibrary.org/obo/GSSO_000395> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary person"@en .
+<http://purl.obolibrary.org/obo/GSSO_005688> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "second degree murder"@en .
+<http://purl.obolibrary.org/obo/GSSO_002295> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "same-gender loving"@en .
+<http://purl.obolibrary.org/obo/GSSO_009847> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "shaft only phalloplasty"@en .
+<http://purl.obolibrary.org/obo/GSSO_006310> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cisgender-transgender marriage"@en .
+<http://purl.obolibrary.org/obo/GSSO_006257> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "healthcare facility"@en .
+<http://purl.obolibrary.org/obo/NCIT_C17047> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "quality-of-life"@en .
+<http://purl.obolibrary.org/obo/GSSO_008445> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-disturbed"@en .
+<http://purl.obolibrary.org/obo/GSSO_002493> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Ey"@en .
+<http://purl.obolibrary.org/obo/GSSO_010905> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "scalp hair style"@en .
+<http://purl.obolibrary.org/obo/GSSO_001521> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "47 XXY syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_009952> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pregnancy, abdominal"@en .
+<http://purl.obolibrary.org/obo/GSSO_005652> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pray away the gay"@en .
+<http://purl.obolibrary.org/obo/GSSO_011370> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Chlamydia trachomatis sexually transmitted disease"@en .
+<http://purl.obolibrary.org/obo/GSSO_008825> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "MPREG"@en .
+<http://purl.obolibrary.org/obo/GSSO_011310> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "masculo-normativity"@en .
+<http://purl.obolibrary.org/obo/GSSO_012653> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "step-mother"@en .
+<http://purl.obolibrary.org/obo/GSSO_001587> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46, XY intersex condition"@en .
+<http://purl.obolibrary.org/obo/GSSO_009718> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "21:7 combined oral contraceptive regimen"@en .
+<http://purl.obolibrary.org/obo/GSSO_006615> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-random sampling"@en .
+<http://purl.obolibrary.org/obo/GSSO_007039> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "92 XXYY"@en .
+<http://purl.obolibrary.org/obo/GSSO_008836> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "noncon"@en .
+<http://purl.obolibrary.org/obo/GSSO_010544> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-modern society"@en .
+<http://purl.obolibrary.org/obo/GSSO_006170> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pregnancy and rape"@en .
+<http://purl.obolibrary.org/obo/GSSO_004467> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "The Dr. Madeline Davis LGBTQ Archive of Western New York"@en .
+<http://purl.obolibrary.org/obo/GSSO_011942> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "5α-reductase deficiency type 2"@en .
+<http://purl.obolibrary.org/obo/GSSO_004875> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "unspecified inflammatory disease of uterus"@en .
+<http://purl.obolibrary.org/obo/GSSO_006842> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "menage a trois"@en .
+<http://purl.bioontology.org/ontology/MESH/D003604> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Czecho-Slovakia"@en .
+<http://purl.obolibrary.org/obo/GSSO_000130> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans person"@en .
+<http://purl.obolibrary.org/obo/GSSO_008434> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-aschematic"@en .
+<http://purl.obolibrary.org/obo/GSSO_004846> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "atrophy breast"@en .
+<http://purl.obolibrary.org/obo/GSSO_007815> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lesbian Asian"@en .
+<http://purl.obolibrary.org/obo/GSSO_011138> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "connective tissue benign neoplasm"@en .
+<http://purl.obolibrary.org/obo/GSSO_002037> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "agí"@en .
+<http://purl.obolibrary.org/obo/CHEBI_63533> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gonadotrophin-releasing hormone agonist"@en .
+<http://purl.obolibrary.org/obo/GSSO_009960> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Certified Professional Midwife"@en .
+<http://purl.obolibrary.org/obo/GSSO_004200> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "KaiKai"@en .
+<http://purl.obolibrary.org/obo/GSSO_008490> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bath house"@en .
+<http://purl.obolibrary.org/obo/GSSO_002323> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Rae-Rae"@en .
+<http://purl.obolibrary.org/obo/GSSO_010030> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Neo-paganism"@en .
+<http://purl.obolibrary.org/obo/GSSO_004057> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fruitfly"@en .
+<http://purl.obolibrary.org/obo/GSSO_012750> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "mind/body exercise"@en .
+<http://purl.obolibrary.org/obo/GSSO_003331> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-partum contraception"@en .
+<http://purl.obolibrary.org/obo/GSSO_012335> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "white bisexual person"@en .
+<http://purl.obolibrary.org/obo/GSSO_000198> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "alt"@en .
+<http://purl.obolibrary.org/obo/GSSO_002084> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "kᵘxa't"@en .
+<http://purl.obolibrary.org/obo/GSSO_008806> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "boys' love"@en .
+<http://purl.obolibrary.org/obo/GSSO_000129> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "genderqueer, gender non-conforming, and gender nonbinary"@en .
+<http://purl.obolibrary.org/obo/GSSO_001522> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "48, XXXY syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_004466> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Lesbian & Gay Archives of New Zealand"@en .
+<http://purl.obolibrary.org/obo/GSSO_010570> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "\"Weird Twitter\" subculture"@en .
+<http://purl.obolibrary.org/obo/GSSO_008272> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "queer Indigenous person"@en .
+<http://purl.obolibrary.org/obo/GSSO_007103> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "introversion and extraversion"@en .
+<http://purl.obolibrary.org/obo/GSSO_006409> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "marital nonmonogamy"@en .
+<http://purl.obolibrary.org/obo/GSSO_006539> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sexual child slavery"@en .
+<http://purl.obolibrary.org/obo/GSSO_002379> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lesbian, gay, bisexual, and transgender studies"@en .
+<http://purl.obolibrary.org/obo/GSSO_002489> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Em"@en .
+<http://purl.obolibrary.org/obo/GSSO_007824> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "early Christianity"@en .
+<http://purl.obolibrary.org/obo/GSSO_000691> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "electronic mailing list"@en .
+<http://purl.obolibrary.org/obo/GSSO_009451> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hip-hop music"@en .
+<http://purl.obolibrary.org/obo/GSSO_002328> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non binary"@en .
+<http://purl.obolibrary.org/obo/GSSO_000401> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "transgender and gender-nonconforming individuals"@en .
+<http://purl.obolibrary.org/obo/GSSO_000992> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary event"@en .
+<http://purl.obolibrary.org/obo/GSSO_003895> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-affirming healthcare"@en .
+<http://purl.org/sig/ont/fma/fma45655> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "internal wolffian genitalia"@en .
+<http://purl.obolibrary.org/obo/GSSO_000018> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "auto-castration"@en .
+<http://purl.obolibrary.org/obo/GSSO_000731> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "diadic interaction"@en .
+<http://purl.obolibrary.org/obo/GSSO_009210> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "necro-cannibalism"@en .
+<http://purl.obolibrary.org/obo/GSSO_004959> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Treponema pallidum infection"@en .
+<http://purl.obolibrary.org/obo/GSSO_004836> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hypogonadism female"@en .
+<http://purl.obolibrary.org/obo/GSSO_009253> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary girl"@en .
+<http://purl.obolibrary.org/obo/GSSO_011923> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Two Spirit slang"@en .
+<http://purl.obolibrary.org/obo/GSSO_002323> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Rae-rae"@en .
+<http://purl.obolibrary.org/obo/GSSO_009964> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Certified Nurse-Midwife"@en .
+<http://purl.obolibrary.org/obo/GSSO_010096> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "copy-number variation"@en .
+<http://purl.obolibrary.org/obo/GSSO_001395> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "baby-dyke"@en .
+<http://purl.obolibrary.org/obo/GSSO_003697> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "life-style"@en .
+<http://purl.obolibrary.org/obo/GSSO_006079> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "\"AIDS orphan tourism\""@en .
+<http://purl.obolibrary.org/obo/GSSO_004182> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "downlow"@en .
+<http://purl.obolibrary.org/obo/GSSO_000027> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-disturbed child"@en .
+<http://purl.obolibrary.org/obo/GSSO_006598> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "self inflicted wound"@en .
+<http://purl.obolibrary.org/obo/GSSO_000402> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-nonconforming person"@en .
+<http://purl.obolibrary.org/obo/UBERON_0002537> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ovo-testis"@en .
+<http://purl.obolibrary.org/obo/GSSO_000833> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "extra-marital sex"@en .
+<http://purl.obolibrary.org/obo/GSSO_008887> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "FePhe"@en .
+<http://purl.obolibrary.org/obo/GSSO_001766> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "69er"@en .
+<http://purl.obolibrary.org/obo/GSSO_008079> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "night club"@en .
+<http://purl.obolibrary.org/obo/GSSO_001972> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "step sibling"@en .
+<http://purl.obolibrary.org/obo/GSSO_001658> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "salpingoophorectomy"@en .
+<http://purl.obolibrary.org/obo/GSSO_001890> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "E.D."@en .
+<http://purl.obolibrary.org/obo/GSSO_005077> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cafe"@en .
+<http://purl.obolibrary.org/obo/GSSO_010383> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "health care advertising"@en .
+<http://purl.obolibrary.org/obo/GSSO_010266> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cyber space"@en .
+<http://purl.obolibrary.org/obo/GSSO_009730> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "doggy-style"@en .
+<http://purl.obolibrary.org/obo/GAZ_00000587> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Subsaharan Africa"@en .
+<http://purl.obolibrary.org/obo/GSSO_002129> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "tonocim"@en .
+<http://purl.obolibrary.org/obo/GSSO_009580> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "90 XX"@en .
+<http://purl.obolibrary.org/obo/GSSO_007264> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Gender Education & Advocacy"@en .
+<http://purl.obolibrary.org/obo/GSSO_010376> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "healthcare model"@en .
+<http://purl.obolibrary.org/obo/GSSO_002336> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bi-gender"@en .
+<http://purl.obolibrary.org/obo/GSSO_007398> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "two-spirit gender identity"@en .
+<http://purl.obolibrary.org/obo/GSSO_001993> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-marital partner"@en .
+<http://purl.obolibrary.org/obo/GSSO_006132> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pregnancy unintended"@en .
+<http://purl.obolibrary.org/obo/GSSO_001176> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "oral anal stimulation"@en .
+<http://purl.obolibrary.org/obo/GSSO_001354> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "blood sports"@en .
+<http://purl.obolibrary.org/obo/NCIT_C3435> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "neoplasm uterine"@en .
+<http://purl.obolibrary.org/obo/GSSO_009421> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans butch"@en .
+<http://purl.obolibrary.org/obo/GSSO_010081> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "a-gay"@en .
+<http://purl.obolibrary.org/obo/GSSO_004109> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary youth"@en .
+<http://purl.obolibrary.org/obo/GSSO_005000> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "head-gear"@en .
+<http://purl.obolibrary.org/obo/CHEBI_77006> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "17β-estradiol-3-benzoate"@en .
+<http://purl.obolibrary.org/obo/GSSO_003950> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans-visibility"@en .
+<http://purl.obolibrary.org/obo/GSSO_003796> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pink-washing"@en .
+<http://purl.obolibrary.org/obo/GSSO_011936> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hair stylist"@en .
+<http://purl.obolibrary.org/obo/GSSO_006109> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Nxivm"@en .
+<http://purl.obolibrary.org/obo/GSSO_005732> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lesbian Latine"@en .
+<http://purl.obolibrary.org/obo/GSSO_001727> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pedicled-flap phalloplasty"@en .
+<http://purl.obolibrary.org/obo/GSSO_010083> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "proto-science"@en .
+<http://purl.obolibrary.org/obo/GSSO_011197> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "holiday crossdressing"@en .
+<http://purl.obolibrary.org/obo/GSSO_001549> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Mullerian agenesis"@en .
+<http://purl.obolibrary.org/obo/GSSO_000813> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cunt-lapper"@en .
+<http://purl.obolibrary.org/obo/GSSO_002323> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "RaeRae"@en .
+<http://purl.obolibrary.org/obo/GSSO_011941> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "type 1 5α-reductase deficiency"@en .
+<http://purl.obolibrary.org/obo/GSSO_003442> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "galpal"@en .
+<http://purl.obolibrary.org/obo/GSSO_001586> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46, XX intersex condition"@en .
+<http://purl.obolibrary.org/obo/GSSO_002633> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "heshes"@en .
+<http://purl.obolibrary.org/obo/GSSO_004152> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "f*ck"@en .
+<http://purl.obolibrary.org/obo/GSSO_001710> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "colo-vaginoplasty"@en .
+<http://semanticscience.org/resource/SIO_000289> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "mathematical set"@en .
+<http://purl.obolibrary.org/obo/GSSO_010685> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "laser-assisted voice adjustment"@en .
+<http://purl.obolibrary.org/obo/GSSO_012736> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "massage and bodywork therapy"@en .
+<http://purl.obolibrary.org/obo/GSSO_005469> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "all gender restroom"@en .
+<http://purl.obolibrary.org/obo/GSSO_005555> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "micturition involuntary"@en .
+<http://purl.obolibrary.org/obo/GSSO_011966> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dān měi"@en .
+<http://purl.obolibrary.org/obo/GSSO_002487> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "LambdaMOO \"Spivak\" pronoun"@en .
+<http://purl.obolibrary.org/obo/GSSO_009646> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "birth multiple"@en .
+<http://purl.obolibrary.org/obo/GSSO_010961> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "duchy of Alsace"@en .
+<http://purl.obolibrary.org/obo/GSSO_009254> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary man"@en .
+<http://purl.obolibrary.org/obo/GSSO_002152> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "winktan"@en .
+<http://purl.obolibrary.org/obo/GSSO_006972> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "47 XYY syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_004047> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "neo-drag"@en .
+<http://purl.obolibrary.org/obo/GSSO_011329> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "\"scratch a TERF and a fascist bleeds\""@en .
+<http://purl.obolibrary.org/obo/GSSO_010003> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "goddess movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_006891> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "substance use disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_009189> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "thumb-sucking"@en .
+<http://purl.obolibrary.org/obo/GSSO_001480> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender dysphoric patient"@en .
+<http://purl.obolibrary.org/obo/GSSO_008916> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "newhalf"@en .
+<http://purl.obolibrary.org/obo/GSSO_012418> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "antidiscrimination legislation"@en .
+<http://purl.obolibrary.org/obo/GSSO_012126> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "religious sexual ritual"@en .
+<http://purl.obolibrary.org/obo/GSSO_009851> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "HIV-positive"@en .
+<http://purl.obolibrary.org/obo/GSSO_003857> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "first wave feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_007291> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "LGBTQ Native Hawiian culture"@en .
+<http://purl.obolibrary.org/obo/GSSO_011198> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Halloween crossdressing"@en .
+<http://purl.obolibrary.org/obo/GSSO_004645> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "estradiol sublingual"@en .
+<http://purl.obolibrary.org/obo/GSSO_010343> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "visibly gender-variant"@en .
+<http://purl.obolibrary.org/obo/GSSO_001402> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "CisHet"@en .
+<http://purl.obolibrary.org/obo/GSSO_009871> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Baha'i Faith"@en .
+<http://purl.obolibrary.org/obo/GSSO_010216> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Asatru"@en .
+<http://purl.obolibrary.org/obo/GSSO_002106> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Ńdé?isdzan"@en .
+<http://purl.obolibrary.org/obo/GSSO_004070> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pillow-biter"@en .
+<http://purl.obolibrary.org/obo/GSSO_011722> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "genital neoplasm, female"@en .
+<http://purl.obolibrary.org/obo/GSSO_005584> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "parent/child incest"@en .
+<http://purl.obolibrary.org/obo/GSSO_001243> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "aberration, sexual"@en .
+<http://purl.obolibrary.org/obo/GSSO_006994> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Cri-du-Chat syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_008434> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-schematic"@en .
+<http://purl.obolibrary.org/obo/GSSO_003348> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "intra-uterine device"@en .
+<http://purl.obolibrary.org/obo/GSSO_001531> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46 XY gonadal dysgenesis"@en .
+<http://purl.obolibrary.org/obo/GSSO_007813> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Asian gay person"@en .
+<http://purl.obolibrary.org/obo/GO_0048135> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "müllerian germline cyst formation"@en .
+<http://purl.obolibrary.org/obo/GSSO_010270> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "wheel chair"@en .
+<http://purl.obolibrary.org/obo/GSSO_011027> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary denialism"@en .
+<http://purl.obolibrary.org/obo/GAZ_00001103> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Tanzania, United Republic of"@en .
+<http://purl.obolibrary.org/obo/GSSO_003813> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "subdrop"@en .
+<http://purl.obolibrary.org/obo/GSSO_010282> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "prisoner of war camp"@en .
+<http://purl.obolibrary.org/obo/GSSO_001395> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "babydyke"@en .
+<http://purl.obolibrary.org/obo/GSSO_009871> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Bahai Faith"@en .
+<http://purl.obolibrary.org/obo/GSSO_006999> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Potocki–Lupski syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_004615> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nonprofit organization"@en .
+<http://purl.obolibrary.org/obo/GSSO_003885> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "straight-acting"@en .
+<http://purl.obolibrary.org/obo/NCIT_C3343> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "neoplasm prostate"@en .
+<http://purl.obolibrary.org/obo/GSSO_003796> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pink washing"@en .
+<http://purl.obolibrary.org/obo/GSSO_003895> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans health-care"@en .
+<http://purl.obolibrary.org/obo/GSSO_011941> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "5α-reductase deficiency type 1"@en .
+<http://purl.bioontology.org/ontology/MESH/D001724> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "birth-weight"@en .
+<http://purl.obolibrary.org/obo/GSSO_002578> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hisers"@en .
+<http://purl.obolibrary.org/obo/GSSO_008164> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "double bit axe"@en .
+<http://purl.obolibrary.org/obo/GSSO_002872> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "anti-sexuality"@en .
+<http://purl.obolibrary.org/obo/GSSO_002254> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "postmodern feminism"@en .
+<http://purl.obolibrary.org/obo/GSSO_001302> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dominance-and-submission"@en .
+<http://purl.obolibrary.org/obo/GSSO_009333> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "September 11 attacks"@en .
+<http://purl.obolibrary.org/obo/GSSO_001333> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cross dresser"@en .
+<http://purl.obolibrary.org/obo/GSSO_008300> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "single-parent family"@en .
+<http://purl.obolibrary.org/obo/GSSO_001975> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "has same-sex partner"@en .
+<http://purl.obolibrary.org/obo/GSSO_006905> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "binge eating disorder"@en .
+<https://portal.issn.org/resource/issn/1053-8720> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Journal of Gay and Lesbian Social Services"@en .
+<http://purl.obolibrary.org/obo/GSSO_009788> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dwarfism, pituitary"@en .
+<http://purl.obolibrary.org/obo/GSSO_002139> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "tudayapi"@en .
+<http://purl.obolibrary.org/obo/GO_0000806> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "chromosome Y"@en .
+<http://purl.obolibrary.org/obo/GSSO_006052> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Hoobuk"@en .
+<http://purl.obolibrary.org/obo/GSSO_001802> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "man who has sex with women and men"@en .
+<http://purl.obolibrary.org/obo/GSSO_012521> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "female with 46 XY karyotype"@en .
+<http://purl.obolibrary.org/obo/GSSO_002844> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "discrimination against non-binary gender people"@en .
+<http://purl.obolibrary.org/obo/GSSO_003789> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "HIV post exposure prophylaxis"@en .
+<http://purl.obolibrary.org/obo/GSSO_003888> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "tea room"@en .
+<http://purl.obolibrary.org/obo/GSSO_009724> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "365:0 combined oral contraceptive regimen"@en .
+<http://purl.obolibrary.org/obo/GSSO_007167> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "neurointersexual body discrepancy"@en .
+<http://purl.obolibrary.org/obo/GSSO_005431> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "1st base"@en .
+<http://purl.obolibrary.org/obo/GSSO_008913> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "white-passing"@en .
+<http://purl.obolibrary.org/obo/GSSO_002854> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "LGBTQ phobia"@en .
+<http://purl.obolibrary.org/obo/GSSO_007224> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "screen-name"@en .
+<http://purl.obolibrary.org/obo/GSSO_011997> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lāzi"@en .
+<http://purl.obolibrary.org/obo/GSSO_003040> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abuse, emotional"@en .
+<http://purl.obolibrary.org/obo/GSSO_009834> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "B-chromosome"@en .
+<http://purl.obolibrary.org/obo/GSSO_012491> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nontransgender gender modality"@en .
+<http://purl.obolibrary.org/obo/CHEBI_13601> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "3-oxo-5alpha-steroid"@en .
+<http://purl.obolibrary.org/obo/GSSO_011821> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "special interest terrorism"@en .
+<http://purl.bioontology.org/ontology/MESH/D014481> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "U.S."@en .
+<http://purl.obolibrary.org/obo/GSSO_011962> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "BlaQueer"@en .
+<http://purl.obolibrary.org/obo/GSSO_012772> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "meta-synthesis"@en .
+<http://purl.obolibrary.org/obo/GSSO_009465> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "victim-blaming"@en .
+<http://purl.obolibrary.org/obo/GSSO_007968> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lesbian and gay dance party"@en .
+<http://purl.obolibrary.org/obo/GSSO_002108> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nuwūdūka"@en .
+<http://purl.obolibrary.org/obo/GSSO_001402> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cis-het"@en .
+<http://purl.obolibrary.org/obo/CHEBI_51958> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "polycyclic organic compound"@en .
+<http://purl.obolibrary.org/obo/GSSO_005974> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "tübasa"@en .
+<http://purl.obolibrary.org/obo/GSSO_004051> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "chickenhawk"@en .
+<http://purl.obolibrary.org/obo/GSSO_005829> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sex-invert"@en .
+<http://purl.obolibrary.org/obo/GSSO_000585> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "LGBTIQ"@en .
+<http://purl.obolibrary.org/obo/GSSO_009133> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "object sexual fetishism"@en .
+<http://purl.obolibrary.org/obo/GSSO_002188> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bacha bazi"@en .
+<http://purl.obolibrary.org/obo/GSSO_002325> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Waria"@en .
+<http://purl.obolibrary.org/obo/GSSO_012492> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "noncisgender gender modality"@en .
+<http://purl.obolibrary.org/obo/GSSO_000358> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "boy mode"@en .
+<http://purl.obolibrary.org/obo/GSSO_009977> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "birth-control sabotage"@en .
+<http://purl.obolibrary.org/obo/GSSO_002117> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "st'amia"@en .
+<http://purl.obolibrary.org/obo/GSSO_010509> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "shelter in place transition cohort"@en .
+<http://purl.obolibrary.org/obo/GSSO_006179> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "six-months HRT hair"@en .
+<http://purl.obolibrary.org/obo/GSSO_009437> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pronoun non-conformity"@en .
+<http://purl.obolibrary.org/obo/GSSO_003124> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bath house"@en .
+<http://purl.obolibrary.org/obo/GSSO_000244> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sub-culture"@en .
+<http://purl.obolibrary.org/obo/GSSO_001399> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bulldyke"@en .
+<http://purl.obolibrary.org/obo/GSSO_009888> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "411"@en .
+<http://purl.obolibrary.org/obo/GSSO_009777> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abruption, placental"@en .
+<http://purl.obolibrary.org/obo/GSSO_002854> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "queer-phobia"@en .
+<http://purl.obolibrary.org/obo/GSSO_007414> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "woman-identified woman"@en .
+<http://purl.bioontology.org/ontology/MESH/D064867> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Ancient Mesopotamia"@en .
+<http://purl.obolibrary.org/obo/GSSO_002116> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Sipiniq"@en .
+<http://purl.obolibrary.org/obo/GSSO_001362> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cross dressing"@en .
+<http://purl.obolibrary.org/obo/GSSO_005671> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Hall–Carpenter Archives"@en .
+<http://purl.obolibrary.org/obo/GSSO_006877> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "substance related and addictive disorders"@en .
+<http://purl.obolibrary.org/obo/GSSO_007550> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fissure anal"@en .
+<http://purl.obolibrary.org/obo/GSSO_003761> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Otherness"@en .
+<http://purl.obolibrary.org/obo/GSSO_001347> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sexual roleplay"@en .
+<http://purl.obolibrary.org/obo/GSSO_005441> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Rape, Abuse and Incest National Network"@en .
+<http://purl.obolibrary.org/obo/GSSO_012505> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-conforming"@en .
+<http://purl.obolibrary.org/obo/GSSO_011942> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "type 2 5α-reductase deficiency"@en .
+<http://purl.obolibrary.org/obo/GSSO_012105> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-coital death"@en .
+<http://purl.org/sig/ont/fma/fma45649> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "external genitalia, müllerian"@en .
+<http://semanticscience.org/resource/SIO_000304> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "electronic mail"@en .
+<http://purl.obolibrary.org/obo/GSSO_010508> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Trump-era transition cohort"@en .
+<http://purl.obolibrary.org/obo/GSSO_011443> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gay male-bisexual relationship"@en .
+<http://purl.obolibrary.org/obo/GSSO_000381> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Lesbian"@en .
+<http://purl.obolibrary.org/obo/GSSO_005020> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "rubber wear"@en .
+<http://purl.obolibrary.org/obo/GSSO_009912> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "mixed-methods research"@en .
+<http://purl.obolibrary.org/obo/GSSO_000162> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "slang, sexual"@en .
+<http://purl.obolibrary.org/obo/GSSO_004727> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "one-penis policy"@en .
+<http://purl.obolibrary.org/obo/GSSO_011985> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "aikane"@en .
+<http://purl.obolibrary.org/obo/GSSO_001531> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46, XY gonadal dysgenesis"@en .
+<http://purl.obolibrary.org/obo/GSSO_005766> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "half and half"@en .
+<http://purl.obolibrary.org/obo/GSSO_002336> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bi-gendered"@en .
+<http://purl.obolibrary.org/obo/GSSO_003941> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "women and nonbinary spaces"@en .
+<http://purl.obolibrary.org/obo/GSSO_009688> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-theism"@en .
+<http://purl.obolibrary.org/obo/GSSO_008436> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pseudo-transsexualism"@en .
+<http://purl.obolibrary.org/obo/GSSO_009719> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "24/4 combined oral contraceptive regimen"@en .
+<http://purl.obolibrary.org/obo/GSSO_012678> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-gestational surrogacy"@en .
+<http://purl.obolibrary.org/obo/GSSO_004431> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "madonna syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_001616> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "health care disparity"@en .
+<http://purl.obolibrary.org/obo/GSSO_006918> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sleep-walking disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_003040> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abuse -- psychological"@en .
+<http://purl.obolibrary.org/obo/GSSO_003669> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lavender scare"@en .
+<http://purl.obolibrary.org/obo/GSSO_009514> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "assigned third-gender at birth"@en .
+<http://purl.obolibrary.org/obo/GSSO_001399> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bull-dike"@en .
+<http://purl.obolibrary.org/obo/GSSO_006968> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Denys–Drash syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_000231> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sexual and gender minorities"@en .
+<http://purl.obolibrary.org/obo/CHEBI_34745> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "estradiol 17beta-cyclopentylpropionate"@en .
+<http://purl.obolibrary.org/obo/GSSO_007037> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "69 XXX"@en .
+<http://purl.obolibrary.org/obo/GSSO_012906> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "poststructuralism"@en .
+<http://purl.obolibrary.org/obo/GSSO_008163> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "single bit axe"@en .
+<http://purl.obolibrary.org/obo/GSSO_012616> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "malakia"@en .
+<http://purl.obolibrary.org/obo/GSSO_002844> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "discrimination against non-binary individual"@en .
+<http://purl.obolibrary.org/obo/GSSO_009718> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "21/7 combined oral contraceptive regimen"@en .
+<http://purl.obolibrary.org/obo/GSSO_010906> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "facial hair style"@en .
+<http://purl.obolibrary.org/obo/GSSO_009302> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Black lives matter movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_002238> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gay-rights movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_000406> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender fluid person"@en .
+<http://purl.obolibrary.org/obo/GSSO_002578> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "his'er's"@en .
+<http://purl.obolibrary.org/obo/GSSO_001160> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "KiKi"@en .
+<http://purl.obolibrary.org/obo/GSSO_001176> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ass to mouth"@en .
+<http://purl.obolibrary.org/obo/GSSO_002339> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender fluid identity"@en .
+<http://purl.obolibrary.org/obo/GSSO_002063> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hoxuxunó"@en .
+<http://purl.obolibrary.org/obo/GSSO_011820> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cyber terrorism"@en .
+<http://purl.obolibrary.org/obo/GSSO_007553> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "make-up"@en .
+<http://purl.obolibrary.org/obo/GSSO_008488> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Asian-American"@en .
+<http://purl.obolibrary.org/obo/GSSO_008459> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fiance"@en .
+<http://purl.obolibrary.org/obo/DOID_8632> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Kaposi's sarcoma, unspecified"@en .
+<http://purl.obolibrary.org/obo/GSSO_007170> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "genderblind"@en .
+<http://purl.obolibrary.org/obo/GSSO_009825> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "accessibility, health services"@en .
+<http://purl.obolibrary.org/obo/GSSO_007631> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "LGBTQ deaf culture"@en .
+<http://purl.obolibrary.org/obo/GSSO_008613> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cumshot"@en .
+<http://purl.obolibrary.org/obo/GSSO_002376> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "boys studies"@en .
+<http://purl.obolibrary.org/obo/GSSO_007398> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Two-spirit gender identity"@en .
+<http://purl.obolibrary.org/obo/GSSO_003097> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "antiblackness"@en .
+<http://purl.obolibrary.org/obo/GSSO_004860> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "atrophic testicle"@en .
+<http://purl.obolibrary.org/obo/GSSO_010351> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "A model of gender which aims to assist in portraying the wide variety and diversity of gender identities and expressions."@en .
+<http://purl.obolibrary.org/obo/GSSO_012522> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "other male with 46, XX karyotype"@en .
+<http://purl.obolibrary.org/obo/GSSO_006975> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "49, XXXXX syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_005150> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Lesbian, Gay, & Bisexual Identity Scale"@en .
+<http://purl.obolibrary.org/obo/GSSO_003869> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sexu-society"@en .
+<http://purl.obolibrary.org/obo/GSSO_002446> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary pronoun"@en .
+<http://purl.obolibrary.org/obo/GAZ_00004525> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "the Philippines"@en .
+<http://viaf.org/viaf/125948024> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ACT-UP"@en .
+<http://purl.obolibrary.org/obo/GSSO_009170> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pseudo-medicine"@en .
+<http://purl.obolibrary.org/obo/GSSO_003875> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sock puppet"@en .
+<http://purl.obolibrary.org/obo/GSSO_003899> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "childcare"@en .
+<http://purl.obolibrary.org/obo/GSSO_006191> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "shiv shakthi"@en .
+<http://purl.obolibrary.org/obo/GSSO_007559> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "eye shadow"@en .
+<http://purl.obolibrary.org/obo/GSSO_008850> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "naive camp"@en .
+<http://purl.obolibrary.org/obo/GSSO_002817> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "self hatred"@en .
+<http://purl.obolibrary.org/obo/GSSO_008385> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "molecular and cellular biology"@en .
+<http://purl.obolibrary.org/obo/GSSO_007723> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Maori"@en .
+<http://purl.obolibrary.org/obo/GSSO_006877> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "substance related disorder"@en .
+<http://purl.obolibrary.org/obo/GSSO_010378> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "transgender healthcare model"@en .
+<http://purl.obolibrary.org/obo/GSSO_005740> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bisexual Black person"@en .
+<http://purl.obolibrary.org/obo/GAZ_00003897> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Moldova, Republic of"@en .
+<http://purl.obolibrary.org/obo/GSSO_008517> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nightlife"@en .
+<http://purl.obolibrary.org/obo/GSSO_000771> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cock-sucker"@en .
+<http://purl.obolibrary.org/obo/GSSO_001956> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "queer spawn"@en .
+<http://purl.obolibrary.org/obo/GSSO_002339> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-fluid"@en .
+<http://purl.obolibrary.org/obo/GSSO_002338> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "poly-gender"@en .
+<http://purl.obolibrary.org/obo/GSSO_007587> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "safe, sane and consensual"@en .
+<http://purl.obolibrary.org/obo/GSSO_002854> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "LGBTQphobia"@en .
+<http://purl.obolibrary.org/obo/GSSO_007862> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Tida Wena"@en .
+<http://purl.obolibrary.org/obo/GSSO_009168> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pseudo-scholarship"@en .
+<http://purl.obolibrary.org/obo/GSSO_007587> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "safe, sane, & consensual"@en .
+<http://purl.obolibrary.org/obo/GSSO_006034> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Düba's"@en .
+<http://purl.obolibrary.org/obo/GSSO_009769> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abortion-rights activist"@en .
+<http://purl.obolibrary.org/obo/GSSO_001039> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "African-Americans"@en .
+<http://purl.obolibrary.org/obo/GSSO_000395> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary individual"@en .
+<http://purl.obolibrary.org/obo/GSSO_005974> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "túbasa"@en .
+<http://purl.obolibrary.org/obo/GSSO_009852> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "HIV-negative"@en .
+<http://purl.obolibrary.org/obo/GSSO_003668> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Heterosexual-Homosexual Rating Scale"@en .
+<http://purl.obolibrary.org/obo/GSSO_011996> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lālā"@en .
+<http://purl.obolibrary.org/obo/GSSO_010190> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "antiurbanism"@en .
+<http://purl.obolibrary.org/obo/GSSO_005346> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "neuro-sexism"@en .
+<http://purl.obolibrary.org/obo/GSSO_000188> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Advanced Research Projects Agency Network"@en .
+<http://purl.obolibrary.org/obo/GSSO_003952> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Undetectable Equals Untransmittable"@en .
+<http://purl.obolibrary.org/obo/GSSO_006395> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "consciousness-raising"@en .
+<http://purl.obolibrary.org/obo/GSSO_000443> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "anti-social behavior"@en .
+<http://purl.bioontology.org/ontology/MESH/D009633> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-verbal communication"@en .
+<http://purl.obolibrary.org/obo/GSSO_009723> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "84:7 combined oral contraceptive regimen"@en .
+<http://purl.obolibrary.org/obo/GSSO_005586> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "adult/child incest"@en .
+<http://purl.obolibrary.org/obo/GSSO_009953> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Eichmann Defense"@en .
+<http://purl.obolibrary.org/obo/DOID_8670> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "eating and feeding disorders"@en .
+<http://purl.obolibrary.org/obo/GSSO_003718> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "safeword"@en .
+<http://purl.obolibrary.org/obo/GSSO_002323> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "rae rae"@en .
+<http://purl.obolibrary.org/obo/GSSO_007490> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "on-line sex"@en .
+<http://purl.obolibrary.org/obo/GSSO_006615> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-probability sampling"@en .
+<http://purl.obolibrary.org/obo/GSSO_001434> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "f*ggot"@en .
+<http://purl.obolibrary.org/obo/GSSO_004272> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "glory-hole"@en .
+<http://purl.obolibrary.org/obo/GSSO_010343> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "visibly gender-variant person"@en .
+<http://purl.obolibrary.org/obo/GSSO_007226> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "username"@en .
+<http://purl.obolibrary.org/obo/GSSO_001394> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "100 footer"@en .
+<http://purl.obolibrary.org/obo/GSSO_002201> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "coitus à unda"@en .
+<http://purl.obolibrary.org/obo/GSSO_004865> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "infection urinary tract"@en .
+<http://purl.obolibrary.org/obo/GSSO_006179> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "6-months HRT hair"@en .
+<http://purl.obolibrary.org/obo/GSSO_001523> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "48, XXYY syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_003739> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Nancy"@en .
+<http://purl.obolibrary.org/obo/GSSO_008061> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Christian lesbian"@en .
+<http://purl.obolibrary.org/obo/GSSO_010229> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "self destructive behavior"@en .
+<http://purl.obolibrary.org/obo/GSSO_002886> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "species-ism"@en .
+<http://purl.obolibrary.org/obo/GSSO_005282> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "AIDS-phobia"@en .
+<http://purl.obolibrary.org/obo/GSSO_005115> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "human X chromosome"@en .
+<http://purl.obolibrary.org/obo/GSSO_003282> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "cis-heteronormative"@en .
+<http://purl.obolibrary.org/obo/GSSO_002633> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "heshe"@en .
+<http://purl.obolibrary.org/obo/GSSO_000516> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Kaposi's sarcoma and opportunistic infections"@en .
+<http://purl.obolibrary.org/obo/GSSO_003001> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abuse, sexual"@en .
+<http://purl.obolibrary.org/obo/GSSO_002166> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Ashtime"@en .
+<http://purl.obolibrary.org/obo/GSSO_004174> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "t 4 t"@en .
+<http://purl.obolibrary.org/obo/GSSO_003858> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "second wave feminism"@en .
+<http://purl.bioontology.org/ontology/MESH/D018436> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Ancient World"@en .
+<http://purl.obolibrary.org/obo/GSSO_004513> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender non-conforming youth"@en .
+<http://purl.obolibrary.org/obo/GSSO_001502> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "pseudo-hermaphroditism"@en .
+<http://purl.obolibrary.org/obo/GSSO_001333> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "crossdresser"@en .
+<http://purl.obolibrary.org/obo/GSSO_004425> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Œdipus complex"@en .
+<http://purl.obolibrary.org/obo/DOID_0060071> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "premalignant neoplasm"@en .
+<http://purl.obolibrary.org/obo/GSSO_003321> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-coital contraception"@en .
+<http://purl.obolibrary.org/obo/GSSO_004836> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hypogonadism male"@en .
+<http://purl.obolibrary.org/obo/GSSO_012898> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "male-female wage gap"@en .
+<http://purl.obolibrary.org/obo/GSSO_010102> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "first person pronoun"@en .
+<http://purl.obolibrary.org/obo/GSSO_004182> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "down-low"@en .
+<http://purl.obolibrary.org/obo/GSSO_007945> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gay white man"@en .
+<http://purl.obolibrary.org/obo/GSSO_010076> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "alcoholic beverage (distilled)"@en .
+<http://purl.obolibrary.org/obo/GSSO_006667> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Pap smear"@en .
+<http://purl.obolibrary.org/obo/GSSO_005282> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "HIV-phobia"@en .
+<http://purl.obolibrary.org/obo/GSSO_003447> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "drinking bars"@en .
+<http://purl.obolibrary.org/obo/GSSO_003895> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "transgender healthcare"@en .
+<http://purl.obolibrary.org/obo/GSSO_010410> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "super-straight"@en .
+<http://purl.obolibrary.org/obo/GSSO_010081> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "A-gay"@en .
+<http://purl.obolibrary.org/obo/GSSO_004431> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Madonna/whore complex"@en .
+<http://purl.obolibrary.org/obo/GSSO_001247> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "paraphilic disorder, unspecified"@en .
+<http://purl.obolibrary.org/obo/GSSO_000766> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "penile–vaginal intercourse"@en .
+<http://purl.obolibrary.org/obo/GSSO_007713> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ballgag"@en .
+<http://purl.obolibrary.org/obo/GSSO_010224> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Q-Anon"@en .
+<http://purl.obolibrary.org/obo/GSSO_011690> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "'defund the police' movement"@en .
+<http://purl.obolibrary.org/obo/GSSO_009579> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "92 XXYY"@en .
+<http://purl.obolibrary.org/obo/GSSO_010103> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "second person pronoun"@en .
+<http://purl.obolibrary.org/obo/GSSO_002091> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lo'ya"@en .
+<http://purl.obolibrary.org/obo/GSSO_007662> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ay'lonit"@en .
+<http://purl.obolibrary.org/obo/GSSO_003273> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-colonial gaze"@en .
+<http://purl.obolibrary.org/obo/GSSO_004808> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "allo-erotism"@en .
+<http://purl.obolibrary.org/obo/GSSO_001967> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "step child"@en .
+<http://purl.obolibrary.org/obo/GSSO_003040> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "abuse, psychological"@en .
+<http://purl.bioontology.org/ontology/MESH/D017698> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-menopause"@en .
+<http://purl.obolibrary.org/obo/GSSO_004718> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fuck buddy"@en .
+<http://purl.obolibrary.org/obo/GSSO_002852> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans-misogyny"@en .
+<http://purl.obolibrary.org/obo/GSSO_005424> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hand-kissing"@en .
+<http://purl.obolibrary.org/obo/GSSO_002559> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Es"@en .
+<http://purl.obolibrary.org/obo/GSSO_003165> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "antidiscrimination law"@en .
+<http://purl.obolibrary.org/obo/GSSO_003546> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender & sexualities alliance"@en .
+<http://purl.obolibrary.org/obo/GSSO_011770> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "paleo-libertarianism"@en .
+<http://purl.obolibrary.org/obo/GSSO_010364> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sea-lioning"@en .
+<http://purl.bioontology.org/ontology/MESH/D017698> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post menopause"@en .
+<http://purl.obolibrary.org/obo/GSSO_012521> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46, XY female"@en .
+<http://purl.obolibrary.org/obo/GSSO_007468> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Cantonese Groin"@en .
+<http://purl.obolibrary.org/obo/GSSO_012653> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "step parent"@en .
+<http://purl.obolibrary.org/obo/GSSO_007695> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "xian"@en .
+<http://purl.obolibrary.org/obo/GSSO_002077> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "kanâ'ts"@en .
+<http://purl.obolibrary.org/obo/GSSO_009826> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "information, access to"@en .
+<http://purl.obolibrary.org/obo/GSSO_011368> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Chlamydia trachomatis infection"@en .
+<http://purl.obolibrary.org/obo/GSSO_011935> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hair dresser"@en .
+<http://purl.obolibrary.org/obo/GSSO_007170> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "genderblindness"@en .
+<http://purl.obolibrary.org/obo/GSSO_007556> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lip make-up"@en .
+<http://purl.obolibrary.org/obo/GSSO_007402> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "girl-boy"@en .
+<http://purl.obolibrary.org/obo/GSSO_010013> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Germanic neo-paganism"@en .
+<http://purl.obolibrary.org/obo/GSSO_011379> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "watersport"@en .
+<http://purl.obolibrary.org/obo/GSSO_006327> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bisexual young man"@en .
+<http://purl.obolibrary.org/obo/GSSO_002079> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "keknatsa'nxwixʷ"@en .
+<http://purl.obolibrary.org/obo/GSSO_012804> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ass to mouth"@en .
+<http://purl.obolibrary.org/obo/GSSO_001346> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "roleplaying"@en .
+<http://purl.obolibrary.org/obo/GSSO_010903> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hair styling"@en .
+<http://purl.obolibrary.org/obo/GSSO_010601> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary passing"@en .
+<http://purl.obolibrary.org/obo/GSSO_004629> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Magnus Hirschfeld Archive of Sexology"@en .
+<http://purl.obolibrary.org/obo/GSSO_012854> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "T shirt"@en .
+<http://purl.obolibrary.org/obo/GSSO_006034> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dū:ba's"@en .
+<http://purl.obolibrary.org/obo/GSSO_000411> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "demi-girl"@en .
+<http://purl.obolibrary.org/obo/GSSO_000128> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "gender-disturbed"@en .
+<http://purl.obolibrary.org/obo/GSSO_006271> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "5 alpha-reductase inhibitor"@en .
+<http://purl.obolibrary.org/obo/GSSO_011935> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hair-dresser"@en .
+<http://purl.obolibrary.org/obo/GSSO_001191> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "terf"@en .
+<http://purl.obolibrary.org/obo/GSSO_009961> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "direct entry midwife"@en .
+<http://purl.obolibrary.org/obo/GSSO_011442> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "lesbian-bisexual relationship"@en .
+<http://purl.obolibrary.org/obo/GSSO_002872> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sex-negativism"@en .
+<http://purl.obolibrary.org/obo/GSSO_001586> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "46, XX disorder of sex development"@en .
+<http://purl.obolibrary.org/obo/NCIT_C175706> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "chromosome 18 ring"@en .
+<http://purl.obolibrary.org/obo/GSSO_006933> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "shell-shock"@en .
+<http://purl.obolibrary.org/obo/GSSO_004736> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post coital pain"@en .
+<http://purl.obolibrary.org/obo/GSSO_000248> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "GLBTQ culture"@en .
+<http://purl.obolibrary.org/obo/GSSO_004428> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "God complex"@en .
+<http://purl.obolibrary.org/obo/GSSO_000405> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bi-gender person"@en .
+<http://purl.obolibrary.org/obo/GSSO_005384> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Gay and Lesbian Alliance Against Defamation"@en .
+<http://purl.obolibrary.org/obo/GSSO_006618> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-random sample"@en .
+<http://purl.obolibrary.org/obo/GSSO_012762> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "bi-negativity"@en .
+<http://purl.obolibrary.org/obo/GSSO_007600> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Queer of Color Critique"@en .
+<http://purl.obolibrary.org/obo/GSSO_003098> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Anti-Semitism"@en .
+<http://purl.obolibrary.org/obo/GSSO_004200> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "kai-kai"@en .
+<http://purl.obolibrary.org/obo/GSSO_009889> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "4/20"@en .
+<http://purl.obolibrary.org/obo/GSSO_003430> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "fanfiction"@en .
+<http://purl.org/sig/ont/fma/fma45649> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "external müllerian genitalia"@en .
+<http://purl.obolibrary.org/obo/GSSO_006968> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Denys Drash syndrome"@en .
+<http://purl.obolibrary.org/obo/GSSO_009421> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "trans-butch"@en .
+<http://purl.obolibrary.org/obo/GSSO_003954> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary erasure"@en .
+<http://purl.obolibrary.org/obo/GSSO_002650> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "\"anti-Carlton\" pronoun"@en .
+<http://purl.obolibrary.org/obo/GSSO_007632> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "slutshaming"@en .
+<http://purl.obolibrary.org/obo/GSSO_004845> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "breast disorder (male)"@en .
+<http://purl.obolibrary.org/obo/GSSO_009284> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "post-colonial literature"@en .
+<http://purl.obolibrary.org/obo/GSSO_007097> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "X trisomy"@en .
+<http://purl.obolibrary.org/obo/GSSO_000372> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "female to male transgender person"@en .
+<http://purl.obolibrary.org/obo/GSSO_007224> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "screenname"@en .
+<http://purl.obolibrary.org/obo/GSSO_008660> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "jock-strap"@en .
+<http://purl.obolibrary.org/obo/GSSO_001295> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sado-masochism"@en .
+<http://purl.obolibrary.org/obo/GSSO_009812> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "approval, social"@en .
+<http://purl.obolibrary.org/obo/GSSO_004027> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "auto-eroticism"@en .
+<http://purl.obolibrary.org/obo/GSSO_005267> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "nonmalignant neoplasm"@en .
+<http://purl.obolibrary.org/obo/GSSO_000395> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "non-binary people"@en .
+<http://purl.obolibrary.org/obo/GSSO_001601> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "PoC"@en .
+<http://purl.obolibrary.org/obo/GO_0001197> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "upregulation of transcription from an RNA polymerase II promoter, mating-type specific"@en .
+<http://purl.obolibrary.org/obo/GSSO_011371> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Durand-Nicolas-Favre disease"@en .
+<http://purl.org/sig/ont/fma/fma83356> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "luteinizing hormone-releasing factor"@en .
+<http://purl.obolibrary.org/obo/GSSO_003748> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "peritransition transgender person"@en .
+<http://purl.obolibrary.org/obo/GSSO_004802> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "sexual non-development"@en .
+<http://purl.obolibrary.org/obo/GSSO_001348> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ageplay"@en .

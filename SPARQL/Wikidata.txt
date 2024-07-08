@@ -1,0 +1,74 @@
+In this file, you can find the queries related to Wikidata.
+
+The Wikidata SPARQL endpoint is: https://query.wikidata.org/
+
+The relations used are below:
+# Wikidata - GSSO:          http://www.wikidata.org/prop/direct/P9827
+# Wikidata - Homosaurus 2:  http://www.wikidata.org/prop/direct/P6417
+# Wikidata - Homosaurus 3:  http://www.wikidata.org/prop/direct/P10192
+# Wikidata - LCSH:          http://www.wikidata.org/prop/direct/P244
+
+
+First, the following query was used to retrieve links from Wikidata to Homosaurus v2.
+
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+   SELECT ?s ?o ?lang
+    WHERE {
+     ?s wdt:P6417 ?o. # version 2
+     BIND(LANG(?o) AS ?lang)
+    }
+
+Second, the following query was used to obtain links from Wikidata to Homosaurus v3.
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+    SELECT ?s ?o ?lang
+    WHERE {
+     ?s wdt:P10192 ?o. # version 3
+     BIND(LANG(?o) AS ?lang)
+    }
+
+Additional test: count the number of Homosaurus entities in Wikidata
+
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT (COUNT(*) AS ?count)
+SELECT ?s ?o
+WHERE {
+ ?s wdt:P6417 ?o. # version 2
+ ?s wdt:P10192 ?o. # version 3
+}
+
+
+Then the following was used for GSSO:
+
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT ?s ?o ?lang
+WHERE {
+ ?s wdt:P9827 ?o. # gsso
+ BIND(LANG(?o) AS ?lang)
+}
+
+
+Step 4: the following was used for GSSO:
+
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+    SELECT ?s ?o ?lang
+    WHERE {
+     ?s wdt:P11852 ?o. # gsso
+     BIND(LANG(?o) AS ?lang)
+    }
+
+
+
+Step 5:
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+    SELECT ?s ?o ?lang
+    WHERE {
+     ?s wdt:P244 ?o. # gsso
+     BIND(LANG(?o) AS ?lang)
+     FILTER (isLiteral(?o) && STRSTARTS(STR(?o), "sh"))
+    }

@@ -1,0 +1,56 @@
+<http://purl.obolibrary.org/obo/GSSO_000384> <http://www.w3.org/2000/01/rdf-schema#label> "mujer transgénero"@es .
+<http://purl.obolibrary.org/obo/GSSO_001499> <http://www.w3.org/2000/01/rdf-schema#label> "trastornos del desarrollo sexual"@es .
+<http://purl.obolibrary.org/obo/GSSO_011109> <http://www.w3.org/2000/01/rdf-schema#label> "El Movimiento"@es .
+<http://purl.obolibrary.org/obo/GSSO_002036> <http://www.w3.org/2000/01/rdf-schema#label> "muxe"@es .
+<https://web.archive.org/web/20200102232435/lgbthealtheducation.org/wp-content/uploads/2018/03/National-LGBT-Health-Education-Center-Glossary.SPANISH-2018.pdf> <http://www.w3.org/2000/01/rdf-schema#label> "Glosario de términos LGBT para equipos de atención a la salud"@es .
+<http://purl.obolibrary.org/obo/GSSO_002862> <http://www.w3.org/2000/01/rdf-schema#label> "transfobia"@es .
+<http://purl.obolibrary.org/obo/GSSO_002861> <http://www.w3.org/2000/01/rdf-schema#label> "homofobia"@es .
+<http://purl.obolibrary.org/obo/GSSO_000088> <http://www.w3.org/2000/01/rdf-schema#label> "expresión de género"@es .
+<http://purl.obolibrary.org/obo/GSSO_003306> <http://www.w3.org/2000/01/rdf-schema#label> "salir del clóset"@es .
+<http://purl.obolibrary.org/obo/GSSO_011315> <http://www.w3.org/2000/01/rdf-schema#label> "heteronormatividad"@es .
+<http://purl.obolibrary.org/obo/GSSO_009861> <http://www.w3.org/2000/01/rdf-schema#label> "travesticidio"@es .
+<http://purl.obolibrary.org/obo/GSSO_012581> <http://www.w3.org/2000/01/rdf-schema#label> "cirugía de pecho"@es .
+<http://purl.obolibrary.org/obo/NCIT_C155696> <http://www.w3.org/2000/01/rdf-schema#label> "asexual"@es .
+<http://purl.obolibrary.org/obo/GSSO_000381> <http://www.w3.org/2000/01/rdf-schema#label> "lesbiana"@es .
+<http://purl.obolibrary.org/obo/GSSO_012598> <http://www.w3.org/2000/01/rdf-schema#label> "Deuteronomio 22:5"@es .
+<http://purl.obolibrary.org/obo/GSSO_000128> <http://www.w3.org/2000/01/rdf-schema#label> "inconformidad de género"@es .
+<http://purl.obolibrary.org/obo/GSSO_011282> <http://www.w3.org/2000/01/rdf-schema#label> "dos espíritus"@es .
+<http://purl.obolibrary.org/obo/GSSO_001592> <http://www.w3.org/2000/01/rdf-schema#label> "heterosexual"@es .
+<http://purl.obolibrary.org/obo/GSSO_005977> <http://www.w3.org/2000/01/rdf-schema#label> "Luiseño"@es .
+<http://purl.obolibrary.org/obo/GSSO_002863> <http://www.w3.org/2000/01/rdf-schema#label> "bifobia"@es .
+<http://purl.obolibrary.org/obo/GSSO_012122> <http://www.w3.org/2000/01/rdf-schema#label> "huelga de las piernas cruzadas"@es .
+<http://purl.obolibrary.org/obo/GSSO_011925> <http://www.w3.org/2000/01/rdf-schema#label> "estigma estructural"@es .
+<http://purl.obolibrary.org/obo/GSSO_000124> <http://www.w3.org/2000/01/rdf-schema#label> "asignación masculina al nacer"@es .
+<http://purl.obolibrary.org/obo/GSSO_001745> <http://www.w3.org/2000/01/rdf-schema#label> "arromántico"@es .
+<http://purl.obolibrary.org/obo/GSSO_011924> <http://www.w3.org/2000/01/rdf-schema#label> "cuidado informado sobre el trauma"@es .
+<http://purl.bioontology.org/ontology/MESH/D000068116> <http://www.w3.org/2000/01/rdf-schema#label> "disforia de género"@es .
+<http://purl.obolibrary.org/obo/GSSO_006347> <http://www.w3.org/2000/01/rdf-schema#label> "estrés minoritario"@es .
+<http://purl.obolibrary.org/obo/GSSO_004004> <http://www.w3.org/2000/01/rdf-schema#label> "transfemenino"@es .
+<http://purl.obolibrary.org/obo/GSSO_005770> <http://www.w3.org/2000/01/rdf-schema#label> "transformista"@es .
+<http://purl.obolibrary.org/obo/GSSO_001608> <http://www.w3.org/2000/01/rdf-schema#label> "cirugía de afirmación de género"@es .
+<http://purl.obolibrary.org/obo/NCIT_C28421> <http://www.w3.org/2000/01/rdf-schema#label> "sexo"@es .
+<http://purl.obolibrary.org/obo/GSSO_001593> <http://www.w3.org/2000/01/rdf-schema#label> "pansexual"@es .
+<http://purl.obolibrary.org/obo/GSSO_001590> <http://www.w3.org/2000/01/rdf-schema#label> "bisexual"@es .
+<http://purl.obolibrary.org/obo/GSSO_000109> <http://www.w3.org/2000/01/rdf-schema#label> "intersexualidad"@es .
+<http://purl.obolibrary.org/obo/GSSO_012841> <http://www.w3.org/2000/01/rdf-schema#label> "maricón"@es .
+<http://purl.obolibrary.org/obo/NCIT_C17357> <http://www.w3.org/2000/01/rdf-schema#label> "género"@es .
+<http://purl.obolibrary.org/obo/GSSO_000131> <http://www.w3.org/2000/01/rdf-schema#label> "genderqueer"@es .
+<http://purl.bioontology.org/ontology/MESH/D005783> <http://www.w3.org/2000/01/rdf-schema#label> "identidad de género"@es .
+<http://purl.obolibrary.org/obo/GSSO_004005> <http://www.w3.org/2000/01/rdf-schema#label> "transmasculino"@es .
+<http://purl.obolibrary.org/obo/GSSO_002324> <http://www.w3.org/2000/01/rdf-schema#label> "travesti"@es .
+<http://purl.obolibrary.org/obo/GSSO_002007> <http://www.w3.org/2000/01/rdf-schema#label> "aliado"@es .
+<http://purl.obolibrary.org/obo/GSSO_001591> <http://www.w3.org/2000/01/rdf-schema#label> "gay"@es .
+<http://purl.obolibrary.org/obo/GSSO_000372> <http://www.w3.org/2000/01/rdf-schema#label> "hombre transgénero"@es .
+<http://purl.obolibrary.org/obo/GSSO_001232> <http://www.w3.org/2000/01/rdf-schema#label> "atracción hacia el mismo sexo"@es .
+<http://purl.obolibrary.org/obo/GSSO_002032> <http://www.w3.org/2000/01/rdf-schema#label> "berdache"@es .
+<http://purl.obolibrary.org/obo/GSSO_009442> <http://www.w3.org/2000/01/rdf-schema#label> "outing"@es .
+<http://purl.obolibrary.org/obo/GSSO_001443> <http://www.w3.org/2000/01/rdf-schema#label> "drag"@es .
+<http://purl.obolibrary.org/obo/NCIT_C84361> <http://www.w3.org/2000/01/rdf-schema#label> "orientación sexual"@es .
+<http://purl.obolibrary.org/obo/GSSO_000161> <http://www.w3.org/2000/01/rdf-schema#label> "tranny"@es .
+<http://purl.obolibrary.org/obo/GSSO_000123> <http://www.w3.org/2000/01/rdf-schema#label> "asignación femenina al nacer"@es .
+<http://purl.obolibrary.org/obo/GSSO_009508> <http://www.w3.org/2000/01/rdf-schema#label> "femineidad travesti"@es .
+<http://purl.obolibrary.org/obo/GSSO_006396> <http://www.w3.org/2000/01/rdf-schema#label> "estigma social"@es .
+<http://purl.obolibrary.org/obo/OMRSE_00000007> <http://www.w3.org/2000/01/rdf-schema#label> "rol de género"@es .
+<http://purl.obolibrary.org/obo/GSSO_000096> <http://www.w3.org/2000/01/rdf-schema#label> "transgénero"@es .
+<http://purl.obolibrary.org/obo/GSSO_002295> <http://www.w3.org/2000/01/rdf-schema#label> "amante del mismo género"@es .
+<http://purl.obolibrary.org/obo/GSSO_005932> <http://www.w3.org/2000/01/rdf-schema#label> "Kumiai"@es .

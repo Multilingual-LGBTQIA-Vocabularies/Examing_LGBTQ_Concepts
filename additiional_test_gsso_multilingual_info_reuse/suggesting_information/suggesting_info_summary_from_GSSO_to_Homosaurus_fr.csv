@@ -1,0 +1,48 @@
+GSSO_Entity,rdfs:label,oboInOwl:hasRelatedSynonym,oboInOwl:hasSynonym,oboInOwl:hasExactSynonym,dc:replaces,wiki:P5191,wiki:P1813,sdo:alternateName,owl:annotatedTarget,Entities_in_Homosaurus_V3,prefLabel_in_English_in_Homosaurus_v3,altLabel_in_English_in_Homosaurus_v3
+http://purl.obolibrary.org/obo/GSSO_000122,['genre assigné'],[],[],[],[],[],[],[],['genre assigné'],https://homosaurus.org/v3/homoit0000078,['Assigned gender'],[]
+http://purl.obolibrary.org/obo/GSSO_000699,['asexualité'],[],[],[],[],[],[],[],['asexualité'],https://homosaurus.org/v3/homoit0000004,['Asexuality'],['Ace']
+http://purl.obolibrary.org/obo/NCIT_C28421,['sexe'],[],[],[],[],[],[],[],['sexe'],https://homosaurus.org/v3/homoit0001269,['Sex (Body)'],[]
+http://purl.obolibrary.org/obo/GSSO_001790,['LGBTI'],[],[],[],[],[],[],[],['LGBTI'],https://homosaurus.org/v3/homoit0000805,['LGBTI'],[]
+http://purl.obolibrary.org/obo/GSSO_002862,['transphobie'],[],[],[],[],[],[],[],['transphobie'],https://homosaurus.org/v3/homoit0001467,['Transphobia'],[]
+http://purl.obolibrary.org/obo/GSSO_002844,[],[],['binarisme de genre'],[],[],[],[],[],['binarisme de genre'],https://homosaurus.org/v3/homoit0000565,['Genderism'],['Gender discrimination']
+http://purl.obolibrary.org/obo/GSSO_001333,[],[],[],[],[],[],[],[],"['travestie', 'travesti']",https://homosaurus.org/v3/homoit0000316,['Crossdressers'],['Cross-dressers']
+http://purl.obolibrary.org/obo/GSSO_002336,[],[],[],[],[],[],['bigenre'],[],['bigenre'],https://homosaurus.org/v3/homoit0000110,['Bigender identity'],[]
+http://purl.obolibrary.org/obo/GSSO_001406,['gouine'],[],[],[],[],[],[],[],['gouine'],https://homosaurus.org/v3/homoit0000384,['Dykes'],[]
+http://purl.obolibrary.org/obo/GSSO_002339,[],[],[],[],[],[],['au genre fluide'],[],['au genre fluide'],,[],[]
+http://purl.obolibrary.org/obo/GSSO_002177,[],[],[],[],[],['éphébophilie'],[],[],['éphébophilie'],https://homosaurus.org/v3/homoit0000442,['Kinks and fetishes'],"['BDSM', 'Fetish', 'Fetishism', 'Kink']"
+http://purl.obolibrary.org/obo/GSSO_002861,['homophobie'],[],[],[],[],[],[],[],['homophobie'],https://homosaurus.org/v3/homoit0000646,['Homophobia'],[]
+http://purl.obolibrary.org/obo/GSSO_001762,['drag queen'],[],[],[],[],[],[],[],['drag queen'],https://homosaurus.org/v3/homoit0000375,['Drag queens'],[]
+http://purl.obolibrary.org/obo/GSSO_001444,[],[],[],[],[],[],[],[],"['transexuelle', 'transexuel']",https://homosaurus.org/v3/homoit0001381,['Transsexual people'],"['Transexuals', 'Transsexuals']"
+http://purl.bioontology.org/ontology/MESH/D000068116,['dysphorie de genre'],[],[],[],[],[],[],[],['dysphorie de genre'],https://homosaurus.org/v3/homoit0000567,['Gender dysphoria'],[]
+http://purl.obolibrary.org/obo/GSSO_001763,['drag king'],[],[],[],[],[],[],[],['drag king'],https://homosaurus.org/v3/homoit0000373,['Drag kings'],[]
+http://purl.obolibrary.org/obo/GSSO_001290,['androgynie'],[],[],[],[],[],[],[],['androgynie'],https://homosaurus.org/v3/homoit0000047,['Androgyny'],[]
+http://purl.obolibrary.org/obo/GSSO_003565,['diversité de genre'],[],[],[],[],[],[],[],['diversité de genre'],https://homosaurus.org/v3/homoit0000566,['Gender diversity'],[]
+http://purl.obolibrary.org/obo/GSSO_008153,['écoféminisme'],[],"['écologie-féminisme', 'éco-féminisme']",[],[],[],[],[],[],https://homosaurus.org/v3/homoit0000387,['Ecofeminism'],[]
+http://purl.obolibrary.org/obo/GSSO_000404,[],[],[],[],[],['androgyne'],[],[],[],,[],[]
+http://purl.obolibrary.org/obo/GSSO_000372,[],[],[],[],[],[],['homme trans'],[],['homme trans'],https://homosaurus.org/v3/homoit0000436,['FtMs'],"['F2Ms', 'Female-to-male', 'Females transitioning to males', 'FtM transsexuals', 'Transsexual men']"
+http://purl.obolibrary.org/obo/GSSO_000096,['transgenre'],[],[],[],[],[],[],[],['transgenre'],https://homosaurus.org/v3/homoit0001415,['Transgender identity'],[]
+http://purl.obolibrary.org/obo/GSSO_005833,[],[],['femme de la rue'],[],[],[],[],[],[],https://homosaurus.org/v3/homoit0000433,['Female prostitutes'],[]
+http://purl.obolibrary.org/obo/GSSO_001362,['travestisme'],[],[],[],[],[],[],[],['travestisme'],https://homosaurus.org/v3/homoit0000318,['Crossdressing'],[]
+http://purl.obolibrary.org/obo/GSSO_000405,['personne bigenre'],[],[],[],[],[],[],[],['personne bigenre'],https://homosaurus.org/v3/homoit0000111,['Bigender people'],[]
+http://purl.obolibrary.org/obo/GSSO_003394,[],['morinommer'],[],[],[],[],[],[],['morinommer'],https://homosaurus.org/v3/homoit0000336,['Deadnaming'],[]
+http://purl.obolibrary.org/obo/GSSO_009442,['outing'],[],[],[],[],[],[],[],['outing'],https://homosaurus.org/v3/homoit0001065,['Outing (LGBTQ+ culture)'],['Outing']
+http://purl.obolibrary.org/obo/GSSO_000703,['bisexualité'],[],[],[],[],[],[],[],['bisexualité'],https://homosaurus.org/v3/homoit0000204,['Bisexuality'],[]
+http://purl.obolibrary.org/obo/GSSO_000413,['comportement sexuel'],[],[],[],[],[],[],[],['comportement sexuel'],https://homosaurus.org/v3/homoit0001299,['Sexual practices'],[]
+http://purl.obolibrary.org/obo/GSSO_000387,['personne asexuelle'],[],[],[],[],[],[],[],['personne asexuelle'],https://homosaurus.org/v3/homoit0000071,['Asexual people'],['Aces']
+http://purl.obolibrary.org/obo/GSSO_002863,['biphobie'],['biphobe'],[],[],[],[],[],[],"['biphobie', 'biphobe']",https://homosaurus.org/v3/homoit0000117,['Biphobia'],[]
+http://purl.obolibrary.org/obo/NCIT_C17357,['genre'],[],[],[],[],['gendre'],[],[],['genre'],https://homosaurus.org/v3/homoit0000560,['Gender'],[]
+http://purl.obolibrary.org/obo/GSSO_000388,['personne bisexuelle'],[],[],[],[],[],['personne bi'],[],"['personne bisexuelle', 'personne bi']",https://homosaurus.org/v3/homoit0000170,['Bisexual people'],['Bisexuals']
+http://purl.obolibrary.org/obo/GSSO_000088,['expression de genre'],[],[],[],[],[],[],[],"['expression de genre', 'présentation de genre']",https://homosaurus.org/v3/homoit0000568,['Gender expression'],[]
+http://purl.obolibrary.org/obo/GSSO_003556,['brouillage des genres'],[],[],[],[],[],[],[],['brouillage des genres'],https://homosaurus.org/v3/homoit0000562,['Gender bending'],[]
+http://purl.obolibrary.org/obo/GSSO_003306,['sortie du placard'],['sortir du placard'],['coming out'],[],[],[],[],[],"['sortir du placard', 'sortie du placard', 'coming out']",https://homosaurus.org/v3/homoit0000295,['Coming out'],[]
+http://purl.obolibrary.org/obo/GSSO_002007,[],[],[],[],[],[],[],[],"['alliée', 'allié']",https://homosaurus.org/v3/homoit0000038,['Allies'],[]
+http://purl.obolibrary.org/obo/GSSO_011315,[],['hétéronormatif'],[],[],[],[],[],[],['hétéronormatif'],https://homosaurus.org/v3/homoit0000620,['Heteronormativity'],['Heterosexual norms']
+http://purl.obolibrary.org/obo/GSSO_000384,[],[],[],[],[],[],['femme trans'],[],['femme trans'],https://homosaurus.org/v3/homoit0000986,['MtFs'],"['M2Fs', 'Male-to-female', 'Males transitioning to females', 'MtF transsexuals', 'Transsexual women']"
+http://purl.obolibrary.org/obo/GSSO_000403,['personne agenre'],[],[],[],[],[],[],[],['personne agenre'],https://homosaurus.org/v3/homoit0000021,['Agender people'],[]
+http://purl.obolibrary.org/obo/GSSO_002032,[],[],[],[],[],['bardache'],[],['bardaches'],['bardache'],https://homosaurus.org/v3/homoit0000098,['Berdache'],['Bardache']
+http://purl.obolibrary.org/obo/GSSO_001434,['pédé'],[],[],[],[],[],[],[],['pédé'],https://homosaurus.org/v3/homoit0000418,['Faggots'],['Fags']
+http://purl.obolibrary.org/obo/GSSO_005832,[],[],[],[],['fille de joie'],[],[],[],[],https://homosaurus.org/v3/homoit0000236,['Male prostitutes'],"['Call boys', 'Gigolos', 'Male hustlers', 'Rent boys', 'Taxi boys']"
+http://purl.obolibrary.org/obo/GSSO_000402,['personne de genre non conforme'],[],[],[],[],[],[],[],['personne de genre non conforme'],https://homosaurus.org/v3/homoit0000574,['Gender non-conforming people'],[]
+http://purl.obolibrary.org/obo/GSSO_001608,"[""chirurgie d'affirmation de genre""]",[],[],[],[],[],[],[],"[""chirurgie d'affirmation de genre""]",https://homosaurus.org/v3/homoit0000561,['Gender affirming surgery'],"['Gender affirmation surgery', 'Gender confirmation surgery', 'Gender confirming surgery', 'Gender realignment surgery', 'Gender reassignment surgery', 'SRS', 'Sex reassignment surgery']"
+http://purl.obolibrary.org/obo/GSSO_000381,['lesbienne'],[],[],[],[],[],[],[],['lesbienne'],https://homosaurus.org/v3/homoit0000556,['Lesbians'],"['Gay women', 'Lesbian people', 'Lesbian women']"
+http://purl.bioontology.org/ontology/MESH/D005783,['identité de genre'],[],[],[],[],[],[],[],['identité de genre'],https://homosaurus.org/v3/homoit0000571,['Gender identity'],['Gender-variant identity']

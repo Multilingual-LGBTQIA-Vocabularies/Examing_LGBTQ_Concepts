@@ -1,0 +1,121 @@
+<http://purl.obolibrary.org/obo/GSSO_001592> <http://www.w3.org/2002/07/owl#annotatedTarget> "hétéro"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001434> <http://www.w3.org/2002/07/owl#annotatedTarget> "pédé"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002863> <http://www.w3.org/2002/07/owl#annotatedTarget> "biphobie"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000410> <http://www.w3.org/2002/07/owl#annotatedTarget> "demi-garçon"@fr .
+<http://purl.obolibrary.org/obo/GSSO_011308> <http://www.w3.org/2002/07/owl#annotatedTarget> "cisnormatif"@fr .
+<http://purl.obolibrary.org/obo/GSSO_004181> <http://www.w3.org/2002/07/owl#annotatedTarget> "être dans le placard"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003306> <http://www.w3.org/2002/07/owl#annotatedTarget> "sortir du placard"@fr .
+<http://purl.obolibrary.org/obo/GSSO_006073> <http://www.w3.org/2002/07/owl#annotatedTarget> "grisexuel"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001590> <http://www.w3.org/2002/07/owl#annotatedTarget> "bisexuelle"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001333> <http://www.w3.org/2002/07/owl#annotatedTarget> "travestie"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001591> <http://www.w3.org/2002/07/owl#annotatedTarget> "gaie"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000122> <http://www.w3.org/2002/07/owl#annotatedTarget> "genre assigné"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000128> <http://www.w3.org/2002/07/owl#annotatedTarget> "non conforme au genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001398> <http://www.w3.org/2002/07/owl#annotatedTarget> "bicuriosité"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003393> <http://www.w3.org/2002/07/owl#annotatedTarget> "genré"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002032> <http://www.w3.org/2002/07/owl#annotatedTarget> "bardache"@fr .
+<http://purl.obolibrary.org/obo/GSSO_009913> <http://www.w3.org/2002/07/owl#annotatedTarget> "chirurgie de réassignation sexuelle"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000413> <http://www.w3.org/2002/07/owl#annotatedTarget> "comportement sexuel"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000402> <http://www.w3.org/2002/07/owl#annotatedTarget> "personne de genre non conforme"@fr .
+<http://purl.obolibrary.org/obo/GSSO_004183> <http://www.w3.org/2002/07/owl#annotatedTarget> "diversité sexuelle et de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_011308> <http://www.w3.org/2002/07/owl#annotatedTarget> "cisnormative"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000711> <http://www.w3.org/2002/07/owl#annotatedTarget> "grisexualité"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002843> <http://www.w3.org/2002/07/owl#annotatedTarget> "cisgenrisme"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001362> <http://www.w3.org/2002/07/owl#annotatedTarget> "travestisme"@fr .
+<http://purl.obolibrary.org/obo/GSSO_011315> <http://www.w3.org/2002/07/owl#annotatedTarget> "hétéronormatif"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000103> <http://www.w3.org/2002/07/owl#annotatedTarget> "sexe biologique"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000405> <http://www.w3.org/2002/07/owl#annotatedTarget> "personne bigenre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003556> <http://www.w3.org/2002/07/owl#annotatedTarget> "brouillage des genres"@fr .
+<http://purl.obolibrary.org/obo/GSSO_007169> <http://www.w3.org/2002/07/owl#annotatedTarget> "genre neutre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000345> <http://www.w3.org/2002/07/owl#annotatedTarget> "queer"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003566> <http://www.w3.org/2002/07/owl#annotatedTarget> "égalité des genres"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002843> <http://www.w3.org/2002/07/owl#annotatedTarget> "cissexisme"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001762> <http://www.w3.org/2002/07/owl#annotatedTarget> "drag queen"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002177> <http://www.w3.org/2002/07/owl#annotatedTarget> "éphébophilie"@fr .
+<http://purl.obolibrary.org/obo/GSSO_006073> <http://www.w3.org/2002/07/owl#annotatedTarget> "grisexuelle"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000703> <http://www.w3.org/2002/07/owl#annotatedTarget> "bisexualité"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000131> <http://www.w3.org/2002/07/owl#annotatedTarget> "genre queer"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000231> <http://www.w3.org/2002/07/owl#annotatedTarget> "MSG"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002339> <http://www.w3.org/2002/07/owl#annotatedTarget> "au genre fluide"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002007> <http://www.w3.org/2002/07/owl#annotatedTarget> "allié"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003393> <http://www.w3.org/2002/07/owl#annotatedTarget> "genrer"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001398> <http://www.w3.org/2002/07/owl#annotatedTarget> "bicurieux"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001444> <http://www.w3.org/2002/07/owl#annotatedTarget> "transexuel"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001592> <http://www.w3.org/2002/07/owl#annotatedTarget> "hétérosexuel"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002336> <http://www.w3.org/2002/07/owl#annotatedTarget> "bigenre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003306> <http://www.w3.org/2002/07/owl#annotatedTarget> "coming out"@fr .
+<http://purl.obolibrary.org/obo/GSSO_006228> <http://www.w3.org/2002/07/owl#annotatedTarget> "spectre du genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_005462> <http://www.w3.org/2002/07/owl#annotatedTarget> "équité entre les genres"@fr .
+<http://purl.obolibrary.org/obo/GSSO_009914> <http://www.w3.org/2002/07/owl#annotatedTarget> "chirurgie de changement de sexe"@fr .
+<http://purl.obolibrary.org/obo/NCIT_C84361> <http://www.w3.org/2002/07/owl#annotatedTarget> "orientation sexuelle"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001444> <http://www.w3.org/2002/07/owl#annotatedTarget> "transexuelle"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001290> <http://www.w3.org/2002/07/owl#annotatedTarget> "androgynie"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001333> <http://www.w3.org/2002/07/owl#annotatedTarget> "travesti"@fr .
+<http://purl.obolibrary.org/obo/GSSO_007170> <http://www.w3.org/2002/07/owl#annotatedTarget> "sans distinction de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002341> <http://www.w3.org/2002/07/owl#annotatedTarget> "demigenre"@fr .
+<http://purl.bioontology.org/ontology/MESH/D005783> <http://www.w3.org/2002/07/owl#annotatedTarget> "identité de genre"@fr .
+<http://purl.obolibrary.org/obo/NCIT_C155696> <http://www.w3.org/2002/07/owl#annotatedTarget> "asexuel"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003566> <http://www.w3.org/2002/07/owl#annotatedTarget> "égalité de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001398> <http://www.w3.org/2002/07/owl#annotatedTarget> "bicurieuse"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000096> <http://www.w3.org/2002/07/owl#annotatedTarget> "transgenre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000088> <http://www.w3.org/2002/07/owl#annotatedTarget> "expression de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003306> <http://www.w3.org/2002/07/owl#annotatedTarget> "sortie du placard"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002863> <http://www.w3.org/2002/07/owl#annotatedTarget> "biphobe"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001591> <http://www.w3.org/2002/07/owl#annotatedTarget> "gai"@fr .
+<http://purl.obolibrary.org/obo/GSSO_009418> <http://www.w3.org/2002/07/owl#annotatedTarget> "genre assigné à la naissance"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000403> <http://www.w3.org/2002/07/owl#annotatedTarget> "personne agenre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_005085> <http://www.w3.org/2002/07/owl#annotatedTarget> "cache-sexe"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002446> <http://www.w3.org/2002/07/owl#annotatedTarget> "pronom de genre neutre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001149> <http://www.w3.org/2002/07/owl#annotatedTarget> "minorité de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002341> <http://www.w3.org/2002/07/owl#annotatedTarget> "demi-genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001790> <http://www.w3.org/2002/07/owl#annotatedTarget> "LGBTI"@fr .
+<http://purl.obolibrary.org/obo/GSSO_007170> <http://www.w3.org/2002/07/owl#annotatedTarget> "qui ne tient pas compte des genres"@fr .
+<http://purl.obolibrary.org/obo/NCIT_C155696> <http://www.w3.org/2002/07/owl#annotatedTarget> "asexuelle"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000131> <http://www.w3.org/2002/07/owl#annotatedTarget> "genderqueer"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000231> <http://www.w3.org/2002/07/owl#annotatedTarget> "minorités sexuelles et de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_008876> <http://www.w3.org/2002/07/owl#annotatedTarget> "morinom"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000381> <http://www.w3.org/2002/07/owl#annotatedTarget> "lesbienne"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001591> <http://www.w3.org/2002/07/owl#annotatedTarget> "gay"@fr .
+<http://purl.obolibrary.org/obo/GSSO_004183> <http://www.w3.org/2002/07/owl#annotatedTarget> "DSG"@fr .
+<http://purl.obolibrary.org/obo/GSSO_004183> <http://www.w3.org/2002/07/owl#annotatedTarget> "diversité sexuelle et pluralité des genres"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000699> <http://www.w3.org/2002/07/owl#annotatedTarget> "asexualité"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000389> <http://www.w3.org/2002/07/owl#annotatedTarget> "personne cis"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000088> <http://www.w3.org/2002/07/owl#annotatedTarget> "présentation de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_009913> <http://www.w3.org/2002/07/owl#annotatedTarget> "CRS"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001592> <http://www.w3.org/2002/07/owl#annotatedTarget> "hétérosexuelle"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000411> <http://www.w3.org/2002/07/owl#annotatedTarget> "demi-fille"@fr .
+<http://purl.obolibrary.org/obo/GSSO_009540> <http://www.w3.org/2002/07/owl#annotatedTarget> "conforme au genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002007> <http://www.w3.org/2002/07/owl#annotatedTarget> "alliée"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000384> <http://www.w3.org/2002/07/owl#annotatedTarget> "femme trans"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001406> <http://www.w3.org/2002/07/owl#annotatedTarget> "gouine"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002844> <http://www.w3.org/2002/07/owl#annotatedTarget> "binarisme de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002861> <http://www.w3.org/2002/07/owl#annotatedTarget> "homophobie"@fr .
+<http://purl.obolibrary.org/obo/GSSO_004063> <http://www.w3.org/2002/07/owl#annotatedTarget> "troisième genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003565> <http://www.w3.org/2002/07/owl#annotatedTarget> "diversité de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_007169> <http://www.w3.org/2002/07/owl#annotatedTarget> "neutralité de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000131> <http://www.w3.org/2002/07/owl#annotatedTarget> "de genre queer"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000387> <http://www.w3.org/2002/07/owl#annotatedTarget> "personne asexuelle"@fr .
+<http://purl.obolibrary.org/obo/NCIT_C17357> <http://www.w3.org/2002/07/owl#annotatedTarget> "genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000388> <http://www.w3.org/2002/07/owl#annotatedTarget> "personne bisexuelle"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001763> <http://www.w3.org/2002/07/owl#annotatedTarget> "drag king"@fr .
+<http://purl.obolibrary.org/obo/GSSO_005469> <http://www.w3.org/2002/07/owl#annotatedTarget> "toilettes neutres"@fr .
+<http://purl.obolibrary.org/obo/NCIT_C28421> <http://www.w3.org/2002/07/owl#annotatedTarget> "sexe"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003394> <http://www.w3.org/2002/07/owl#annotatedTarget> "morinommer"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000388> <http://www.w3.org/2002/07/owl#annotatedTarget> "personne bi"@fr .
+<http://purl.obolibrary.org/obo/GSSO_005462> <http://www.w3.org/2002/07/owl#annotatedTarget> "équité de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_005462> <http://www.w3.org/2002/07/owl#annotatedTarget> "équité des genres"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000389> <http://www.w3.org/2002/07/owl#annotatedTarget> "personne cisgenre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_004240> <http://www.w3.org/2002/07/owl#annotatedTarget> "cisgenre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000109> <http://www.w3.org/2002/07/owl#annotatedTarget> "intersexe"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003393> <http://www.w3.org/2002/07/owl#annotatedTarget> "genrée"@fr .
+<http://purl.bioontology.org/ontology/MESH/D000068116> <http://www.w3.org/2002/07/owl#annotatedTarget> "dysphorie de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002862> <http://www.w3.org/2002/07/owl#annotatedTarget> "transphobie"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000372> <http://www.w3.org/2002/07/owl#annotatedTarget> "homme trans"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003566> <http://www.w3.org/2002/07/owl#annotatedTarget> "égalité entre les genres"@fr .
+<http://purl.obolibrary.org/obo/GSSO_009442> <http://www.w3.org/2002/07/owl#annotatedTarget> "outing"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001590> <http://www.w3.org/2002/07/owl#annotatedTarget> "bisexuel"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001608> <http://www.w3.org/2002/07/owl#annotatedTarget> "chirurgie d'affirmation de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000093> <http://www.w3.org/2002/07/owl#annotatedTarget> "androgyne"@fr .
+<http://purl.obolibrary.org/obo/GSSO_011308> <http://www.w3.org/2002/07/owl#annotatedTarget> "cisnormativité"@fr .
+<http://purl.obolibrary.org/obo/GSSO_004240> <http://www.w3.org/2002/07/owl#annotatedTarget> "cis"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002342> <http://www.w3.org/2002/07/owl#annotatedTarget> "agenre"@fr .

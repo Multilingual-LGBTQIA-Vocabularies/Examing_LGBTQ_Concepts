@@ -1,0 +1,55 @@
+
+The following are the SPARQL queries used in this paper for the handling of
+multilingual information.
+
+No.1
+
+SELECT ?lang (COUNT(?label) AS ?count)
+WHERE {
+  ?s ?p ?label .
+  BIND(LANG(?label) AS ?lang)
+}
+GROUP BY ?lang
+
+
+
+No.2
+
+In practice, the language_code was replaced gets replaced by the actual language,
+which could be 'sv' for example for the case of QLIT (Swedish). 'sv' is the
+ISO 639-1 Language Code for Swedish.
+
+SELECT ?s ?label
+    WHERE {
+        ?s <predicate> ?label
+        FILTER langMatches( lang(?label), "language_code" )
+    }
+
+
+
+No.3
+Get all the languages
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX wiki: <https://www.wikidata.org/wiki/Property:>
+PREFIX sdo: <https://schema.org/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT DISTINCT ?lang
+WHERE {
+  ?resource <predicate> ?label .
+  FILTER (LANG(?label) != "")
+  BIND(LANG(?label) AS ?lang)
+}
+
+
+No.4  Obtain the labels and their corresponding languages in GSSO. 
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+  SELECT ?s ?label
+      WHERE {
+          ?s <predicate> ?label
+          FILTER langMatches( lang(?label), "language_code" )
+      }

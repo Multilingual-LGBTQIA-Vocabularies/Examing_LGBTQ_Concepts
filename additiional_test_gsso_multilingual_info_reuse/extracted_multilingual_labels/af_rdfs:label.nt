@@ -1,0 +1,8 @@
+<http://purl.obolibrary.org/obo/GSSO_000096> <http://www.w3.org/2000/01/rdf-schema#label> "transgender"@af .
+<http://purl.obolibrary.org/obo/GSSO_000131> <http://www.w3.org/2000/01/rdf-schema#label> "genderqueer"@af .
+<http://purl.bioontology.org/ontology/MESH/D007713> <http://www.w3.org/2000/01/rdf-schema#label> "Klinefelter se sindroom"@af .
+<http://purl.bioontology.org/ontology/MESH/D014424> <http://www.w3.org/2000/01/rdf-schema#label> "Turner se sindroom"@af .
+<http://purl.obolibrary.org/obo/GSSO_001444> <http://www.w3.org/2000/01/rdf-schema#label> "transseksueel"@af .
+<http://purl.obolibrary.org/obo/GSSO_004955> <http://www.w3.org/2000/01/rdf-schema#label> "moffie"@af .
+<http://purl.obolibrary.org/obo/GSSO_005757> <http://www.w3.org/2000/01/rdf-schema#label> "transvestiet"@af .
+<http://purl.bioontology.org/ontology/MESH/D000068116> <http://www.w3.org/2000/01/rdf-schema#label> "genderdisforie"@af .

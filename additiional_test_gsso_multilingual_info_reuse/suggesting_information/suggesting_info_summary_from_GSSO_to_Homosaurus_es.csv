@@ -1,0 +1,44 @@
+GSSO_Entity,rdfs:label,oboInOwl:hasRelatedSynonym,oboInOwl:hasSynonym,oboInOwl:hasExactSynonym,dc:replaces,wiki:P5191,wiki:P1813,sdo:alternateName,owl:annotatedTarget,Entities_in_Homosaurus_V3,prefLabel_in_English_in_Homosaurus_v3,altLabel_in_English_in_Homosaurus_v3
+http://purl.obolibrary.org/obo/GSSO_001619,[],[],['reconstrucción genital'],[],[],[],[],[],['reconstrucción genital'],https://homosaurus.org/v3/homoit0000584,['Bottom surgery'],['Genital reconstruction surgery']
+http://purl.obolibrary.org/obo/GSSO_012582,[],[],[],[],[],[],['vendarse el pecho'],[],['vendarse el pecho'],,[],[]
+http://purl.obolibrary.org/obo/NCIT_C28421,['sexo'],[],[],[],[],[],[],[],['sexo'],https://homosaurus.org/v3/homoit0001269,['Sex (Body)'],[]
+http://purl.obolibrary.org/obo/GSSO_001499,['trastornos del desarrollo sexual'],[],[],[],[],[],[],[],['trastornos del desarrollo sexual'],https://homosaurus.org/v3/homoit0000357,['Disorders of sexual development'],[' Disorders of sex development']
+http://purl.obolibrary.org/obo/OMRSE_00000007,['rol de género'],[],[],[],[],[],[],[],['rol de género'],https://homosaurus.org/v3/homoit0000577,['Gender roles'],[]
+http://purl.obolibrary.org/obo/GSSO_002862,['transfobia'],[],[],[],[],[],[],[],['transfobia'],https://homosaurus.org/v3/homoit0001467,['Transphobia'],[]
+http://purl.obolibrary.org/obo/GSSO_002336,[],[],[],[],[],[],['bigénero'],[],['bigénero'],https://homosaurus.org/v3/homoit0000110,['Bigender identity'],[]
+http://purl.obolibrary.org/obo/GSSO_002339,[],[],[],[],[],[],['género fluido'],[],['género fluido'],,[],[]
+http://purl.obolibrary.org/obo/GSSO_002861,['homofobia'],[],[],[],[],[],[],[],['homofobia'],https://homosaurus.org/v3/homoit0000646,['Homophobia'],[]
+http://purl.obolibrary.org/obo/GSSO_002295,['amante del mismo género'],[],[],[],[],[],[],[],['amante del mismo género'],https://homosaurus.org/v3/homoit0001254,['Same-gender-loving'],['SGL']
+http://purl.obolibrary.org/obo/GSSO_001444,[],['transexual'],[],[],[],[],[],[],"['transexual masculino', 'transexual', 'transexual femenina']",https://homosaurus.org/v3/homoit0001381,['Transsexual people'],"['Transexuals', 'Transsexuals']"
+http://purl.obolibrary.org/obo/GSSO_000123,['asignación femenina al nacer'],[],[],[],[],[],[],[],['asignación femenina al nacer'],https://homosaurus.org/v3/homoit0000077,['Assigned female at birth'],"['AFAB', 'Assigned F at birth', 'DFAB', 'Designated female at birth', 'FAAB', 'Female assigned at birth']"
+http://purl.obolibrary.org/obo/GSSO_002330,[],['pangénero'],[],[],[],[],[],[],['pangénero'],https://homosaurus.org/v3/homoit0001071,['Pangender identity'],[]
+http://purl.bioontology.org/ontology/MESH/D000068116,['disforia de género'],[],[],[],[],[],[],[],['disforia de género'],https://homosaurus.org/v3/homoit0000567,['Gender dysphoria'],[]
+http://purl.obolibrary.org/obo/GSSO_002324,['travesti'],[],[],[],[],[],[],[],[],https://homosaurus.org/v3/homoit0001471,['Travestis'],['Travesti']
+http://purl.obolibrary.org/obo/GSSO_000376,[],[],[],[],[],[],[],['hombres que tienen sexo con hombres'],['hombres que tienen sexo con hombres'],https://homosaurus.org/v3/homoit0001009,['Men who have sex with men'],['MSM']
+http://purl.obolibrary.org/obo/GSSO_001745,['arromántico'],[],[],[],[],[],[],[],['arromántico'],,[],[]
+http://purl.obolibrary.org/obo/GSSO_003398,[],[],[],[],[],[],['transición'],[],['transición'],https://homosaurus.org/v3/homoit0001465,['Transitioning (Gender)'],['Transitioning (Transgender)']
+http://purl.obolibrary.org/obo/GSSO_002019,[],['binarismo de género'],[],[],[],[],[],[],['binarismo de género'],https://homosaurus.org/v3/homoit0000563,['Gender binaries'],[]
+http://purl.obolibrary.org/obo/GSSO_004510,[],[],['Guevedoce'],[],[],[],[],[],['Guevedoce'],https://homosaurus.org/v3/homoit0000604,['Güevedoce'],['Guevedoche']
+http://purl.obolibrary.org/obo/GSSO_003665,[],[],['interseccionalidad'],[],[],[],[],[],['interseccionalidad'],https://homosaurus.org/v3/homoit0000667,['Intersectionality'],[]
+http://purl.obolibrary.org/obo/GSSO_000372,['hombre transgénero'],[],[],[],[],[],[],[],['hombre transgénero'],https://homosaurus.org/v3/homoit0000436,['FtMs'],"['F2Ms', 'Female-to-male', 'Females transitioning to males', 'FtM transsexuals', 'Transsexual men']"
+http://purl.obolibrary.org/obo/GSSO_003783,[],[],[],[],[],[],['ocultar y pegar'],[],['ocultar y pegar'],https://homosaurus.org/v3/homoit0001476,['Tucking (Phallus)'],['Tucking']
+http://purl.obolibrary.org/obo/GSSO_001443,['drag'],[],[],[],[],[],[],[],['drag'],https://homosaurus.org/v3/homoit0000367,['Drag'],[]
+http://purl.obolibrary.org/obo/GSSO_000096,['transgénero'],[],[],[],"['un transgénero', 'transgenerado']",[],[],[],"['transgénero', 'un transgénero', 'transgenerado']",https://homosaurus.org/v3/homoit0001415,['Transgender identity'],[]
+http://purl.obolibrary.org/obo/GSSO_000124,['asignación masculina al nacer'],[],[],[],[],[],[],[],['asignación masculina al nacer'],https://homosaurus.org/v3/homoit0000079,['Assigned male at birth'],"['AMAB', 'Assigned M at birth', 'DMAB', 'Designated male at birth', 'MAAB', 'Male assigned at birth']"
+http://purl.obolibrary.org/obo/GSSO_009442,['outing'],[],[],[],[],[],[],[],['outing'],https://homosaurus.org/v3/homoit0001065,['Outing (LGBTQ+ culture)'],['Outing']
+http://purl.obolibrary.org/obo/GSSO_002863,['bifobia'],[],[],[],[],[],[],[],['bifobia'],https://homosaurus.org/v3/homoit0000117,['Biphobia'],[]
+http://purl.obolibrary.org/obo/NCIT_C17357,['género'],[],[],[],[],[],[],[],['género'],https://homosaurus.org/v3/homoit0000560,['Gender'],[]
+http://purl.obolibrary.org/obo/GSSO_000088,['expresión de género'],[],[],[],[],[],[],[],['expresión de género'],https://homosaurus.org/v3/homoit0000568,['Gender expression'],[]
+http://purl.obolibrary.org/obo/GSSO_003306,['salir del clóset'],[],[],[],[],[],[],[],['salir del clóset'],https://homosaurus.org/v3/homoit0000295,['Coming out'],[]
+http://purl.obolibrary.org/obo/GSSO_002036,['muxe'],[],[],[],[],['mujer'],[],[],[],https://homosaurus.org/v3/homoit0001034,['Muxe'],[]
+http://purl.obolibrary.org/obo/GSSO_003634,[],['terapia hormonal de afirmación de género'],[],[],[],[],[],[],['terapia hormonal de afirmación de género'],https://homosaurus.org/v3/homoit0000317,['Hormone therapy (Gender)'],"['Cross-gender hormone therapy', 'Hormone reassignment therapy', 'Hormone replacement therapy']"
+http://purl.obolibrary.org/obo/GSSO_002007,['aliado'],[],[],[],[],[],[],[],['aliado'],https://homosaurus.org/v3/homoit0000038,['Allies'],[]
+http://purl.obolibrary.org/obo/GSSO_011315,['heteronormatividad'],[],[],[],[],[],[],[],['heteronormatividad'],https://homosaurus.org/v3/homoit0000620,['Heteronormativity'],['Heterosexual norms']
+http://purl.obolibrary.org/obo/GSSO_000398,[],[],[],[],['homosexual'],[],[],[],['homosexual'],https://homosaurus.org/v3/homoit0000648,['Homosexuals'],[]
+http://purl.obolibrary.org/obo/GSSO_000384,['mujer transgénero'],[],[],[],[],[],[],[],['mujer transgénero'],https://homosaurus.org/v3/homoit0000986,['MtFs'],"['M2Fs', 'Male-to-female', 'Males transitioning to females', 'MtF transsexuals', 'Transsexual women']"
+http://purl.obolibrary.org/obo/GSSO_002032,['berdache'],[],[],[],[],[],[],[],['berdache'],https://homosaurus.org/v3/homoit0000098,['Berdache'],['Bardache']
+http://purl.obolibrary.org/obo/GSSO_004902,[],['poliamoroso'],[],[],[],[],[],[],['poliamoroso'],https://homosaurus.org/v3/homoit0001123,['Polyamory'],[]
+http://purl.obolibrary.org/obo/GSSO_001608,['cirugía de afirmación de género'],[],[],[],[],[],[],[],['cirugía de afirmación de género'],https://homosaurus.org/v3/homoit0000561,['Gender affirming surgery'],"['Gender affirmation surgery', 'Gender confirmation surgery', 'Gender confirming surgery', 'Gender realignment surgery', 'Gender reassignment surgery', 'SRS', 'Sex reassignment surgery']"
+http://purl.obolibrary.org/obo/GSSO_000381,['lesbiana'],[],[],[],[],[],[],[],['lesbiana'],https://homosaurus.org/v3/homoit0000556,['Lesbians'],"['Gay women', 'Lesbian people', 'Lesbian women']"
+http://purl.obolibrary.org/obo/GSSO_000379,[],[],[],[],[],[],[],['mujeres que tienen sexo con mujeres'],['mujeres que tienen sexo con mujeres'],https://homosaurus.org/v3/homoit0001510,['Women who have sex with women'],['WSW']
+http://purl.bioontology.org/ontology/MESH/D005783,['identidad de género'],[],[],[],[],[],[],[],['identidad de género'],https://homosaurus.org/v3/homoit0000571,['Gender identity'],['Gender-variant identity']

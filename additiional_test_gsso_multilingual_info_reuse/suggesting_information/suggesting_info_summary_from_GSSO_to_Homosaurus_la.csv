@@ -1,0 +1,10 @@
+GSSO_Entity,rdfs:label,oboInOwl:hasRelatedSynonym,oboInOwl:hasSynonym,oboInOwl:hasExactSynonym,dc:replaces,wiki:P5191,wiki:P1813,sdo:alternateName,owl:annotatedTarget,Entities_in_Homosaurus_V3,prefLabel_in_English_in_Homosaurus_v3,altLabel_in_English_in_Homosaurus_v3
+http://purl.obolibrary.org/obo/NCIT_C28421,[],[],[],[],[],['sexus'],[],[],[],https://homosaurus.org/v3/homoit0001269,['Sex (Body)'],[]
+http://purl.obolibrary.org/obo/NCIT_C37986,[],[],[],[],[],['libīdo'],[],[],[],https://homosaurus.org/v3/homoit0000967,['Libido'],['Sex drive']
+http://purl.obolibrary.org/obo/GSSO_000404,[],[],[],[],[],['androgynus'],[],[],[],,[],[]
+http://purl.obolibrary.org/obo/GSSO_001392,[],[],[],[],[],['sodomia'],[],[],[],https://homosaurus.org/v3/homoit0001325,['Sodomy'],[]
+http://purl.obolibrary.org/obo/GSSO_001283,[],[],[],[],[],[],[],[],['genuine transvestism'],https://homosaurus.org/v3/homoit0001469,['Transvestism'],[]
+http://purl.obolibrary.org/obo/GO_0007320,[],[],[],[],[],['insēmināre'],[],[],[],https://homosaurus.org/v3/homoit0000069,['Insemination'],"['Fertilisation', 'Fertilization']"
+http://purl.org/sig/ont/fma/fma9909,[],[],[],[],[],['clitoris'],[],[],[],https://homosaurus.org/v3/homoit0000282,['Clitoris'],[]
+http://purl.obolibrary.org/obo/GSSO_001393,[],[],[],[],[],['eunūchus'],[],[],[],https://homosaurus.org/v3/homoit0000240,['Eunuchs'],['Castrati']
+http://purl.obolibrary.org/obo/GSSO_000381,[],[],[],[],[],['Lesbius'],[],[],[],https://homosaurus.org/v3/homoit0000556,['Lesbians'],"['Gay women', 'Lesbian people', 'Lesbian women']"

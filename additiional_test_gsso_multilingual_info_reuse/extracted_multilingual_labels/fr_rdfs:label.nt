@@ -1,0 +1,69 @@
+<http://purl.obolibrary.org/obo/GSSO_007169> <http://www.w3.org/2000/01/rdf-schema#label> "neutralité de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000131> <http://www.w3.org/2000/01/rdf-schema#label> "de genre queer"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000405> <http://www.w3.org/2000/01/rdf-schema#label> "personne bigenre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_006842> <http://www.w3.org/2000/01/rdf-schema#label> "ménage à trois"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001362> <http://www.w3.org/2000/01/rdf-schema#label> "travestisme"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000388> <http://www.w3.org/2000/01/rdf-schema#label> "personne bisexuelle"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001763> <http://www.w3.org/2000/01/rdf-schema#label> "drag king"@fr .
+<http://purl.obolibrary.org/obo/NCIT_C28421> <http://www.w3.org/2000/01/rdf-schema#label> "sexe"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001762> <http://www.w3.org/2000/01/rdf-schema#label> "drag queen"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000389> <http://www.w3.org/2000/01/rdf-schema#label> "personne cisgenre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_004240> <http://www.w3.org/2000/01/rdf-schema#label> "cisgenre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000109> <http://www.w3.org/2000/01/rdf-schema#label> "intersexe"@fr .
+<https://portal.issn.org/resource/issn/1708-3923> <http://www.w3.org/2000/01/rdf-schema#label> "Santé mentale au Québec"@fr .
+<http://purl.obolibrary.org/obo/NCIT_C17357> <http://www.w3.org/2000/01/rdf-schema#label> "genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000703> <http://www.w3.org/2000/01/rdf-schema#label> "bisexualité"@fr .
+<http://purl.obolibrary.org/obo/GSSO_007422> <http://www.w3.org/2000/01/rdf-schema#label> "Royaume de France"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002862> <http://www.w3.org/2000/01/rdf-schema#label> "transphobie"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003566> <http://www.w3.org/2000/01/rdf-schema#label> "égalité entre les genres"@fr .
+<http://purl.obolibrary.org/obo/GSSO_009442> <http://www.w3.org/2000/01/rdf-schema#label> "outing"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001608> <http://www.w3.org/2000/01/rdf-schema#label> "chirurgie d'affirmation de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_011308> <http://www.w3.org/2000/01/rdf-schema#label> "cisnormativité"@fr .
+<http://purl.obolibrary.org/obo/GSSO_005462> <http://www.w3.org/2000/01/rdf-schema#label> "équité entre les genres"@fr .
+<http://purl.obolibrary.org/obo/NCIT_C84361> <http://www.w3.org/2000/01/rdf-schema#label> "orientation sexuelle"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000088> <http://www.w3.org/2000/01/rdf-schema#label> "expression de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001434> <http://www.w3.org/2000/01/rdf-schema#label> "pédé"@fr .
+<http://purl.obolibrary.org/obo/GSSO_007223> <http://www.w3.org/2000/01/rdf-schema#label> "nom de plume"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000122> <http://www.w3.org/2000/01/rdf-schema#label> "genre assigné"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000128> <http://www.w3.org/2000/01/rdf-schema#label> "non conforme au genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001149> <http://www.w3.org/2000/01/rdf-schema#label> "minorité de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001398> <http://www.w3.org/2000/01/rdf-schema#label> "bicuriosité"@fr .
+<http://purl.obolibrary.org/obo/GSSO_007331> <http://www.w3.org/2000/01/rdf-schema#label> "Convention relative à la reconnaissance des décisions constatant un changement de sexe"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001766> <http://www.w3.org/2000/01/rdf-schema#label> "soixante-neuf"@fr .
+<http://purl.obolibrary.org/obo/GSSO_009913> <http://www.w3.org/2000/01/rdf-schema#label> "chirurgie de réassignation sexuelle"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000413> <http://www.w3.org/2000/01/rdf-schema#label> "comportement sexuel"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000402> <http://www.w3.org/2000/01/rdf-schema#label> "personne de genre non conforme"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002209> <http://www.w3.org/2000/01/rdf-schema#label> "coitus à la vache"@fr .
+<http://purl.obolibrary.org/obo/GSSO_008876> <http://www.w3.org/2000/01/rdf-schema#label> "morinom"@fr .
+<http://purl.obolibrary.org/obo/GAZ_00000906> <http://www.w3.org/2000/01/rdf-schema#label> "Côte d'Ivoire"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000381> <http://www.w3.org/2000/01/rdf-schema#label> "lesbienne"@fr .
+<http://purl.obolibrary.org/obo/GSSO_012166> <http://www.w3.org/2000/01/rdf-schema#label> "Confrerie de la Flèche d'Or"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003556> <http://www.w3.org/2000/01/rdf-schema#label> "brouillage des genres"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002843> <http://www.w3.org/2000/01/rdf-schema#label> "cissexisme"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001406> <http://www.w3.org/2000/01/rdf-schema#label> "gouine"@fr .
+<http://purl.obolibrary.org/obo/GSSO_004063> <http://www.w3.org/2000/01/rdf-schema#label> "troisième genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000103> <http://www.w3.org/2000/01/rdf-schema#label> "sexe biologique"@fr .
+<http://purl.obolibrary.org/obo/GSSO_008153> <http://www.w3.org/2000/01/rdf-schema#label> "écoféminisme"@fr .
+<http://purl.bioontology.org/ontology/MESH/D000068116> <http://www.w3.org/2000/01/rdf-schema#label> "dysphorie de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_004465> <http://www.w3.org/2000/01/rdf-schema#label> "Archives gaies du Québec"@fr .
+<http://purl.bioontology.org/ontology/MESH/D005783> <http://www.w3.org/2000/01/rdf-schema#label> "identité de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_006228> <http://www.w3.org/2000/01/rdf-schema#label> "spectre du genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_007227> <http://www.w3.org/2000/01/rdf-schema#label> "nom de guerre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000096> <http://www.w3.org/2000/01/rdf-schema#label> "transgenre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003306> <http://www.w3.org/2000/01/rdf-schema#label> "sortie du placard"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000403> <http://www.w3.org/2000/01/rdf-schema#label> "personne agenre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000410> <http://www.w3.org/2000/01/rdf-schema#label> "demi-garçon"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001290> <http://www.w3.org/2000/01/rdf-schema#label> "androgynie"@fr .
+<https://portal.issn.org/resource/issn/0012-4273> <http://www.w3.org/2000/01/rdf-schema#label> "Dix-septième siècle"@fr .
+<http://purl.obolibrary.org/obo/GSSO_009418> <http://www.w3.org/2000/01/rdf-schema#label> "genre assigné à la naissance"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001790> <http://www.w3.org/2000/01/rdf-schema#label> "LGBTI"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002863> <http://www.w3.org/2000/01/rdf-schema#label> "biphobie"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000231> <http://www.w3.org/2000/01/rdf-schema#label> "minorités sexuelles et de genre"@fr .
+<http://purl.obolibrary.org/obo/GSSO_001591> <http://www.w3.org/2000/01/rdf-schema#label> "gay"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000699> <http://www.w3.org/2000/01/rdf-schema#label> "asexualité"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000387> <http://www.w3.org/2000/01/rdf-schema#label> "personne asexuelle"@fr .
+<https://www.wikidata.org/wiki/Q2704365> <http://www.w3.org/2000/01/rdf-schema#label> "L'Histoire de la sexualité"@fr .
+<http://purl.obolibrary.org/obo/GSSO_000411> <http://www.w3.org/2000/01/rdf-schema#label> "demi-fille"@fr .
+<http://purl.obolibrary.org/obo/GSSO_004183> <http://www.w3.org/2000/01/rdf-schema#label> "DSG"@fr .
+<http://purl.obolibrary.org/obo/GSSO_002861> <http://www.w3.org/2000/01/rdf-schema#label> "homophobie"@fr .
+<http://purl.obolibrary.org/obo/GSSO_003565> <http://www.w3.org/2000/01/rdf-schema#label> "diversité de genre"@fr .

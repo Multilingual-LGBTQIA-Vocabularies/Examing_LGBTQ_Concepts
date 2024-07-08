@@ -1,0 +1,10 @@
+<http://purl.obolibrary.org/obo/GSSO_007688> <http://www.w3.org/2000/01/rdf-schema#label> "阴阳人"@zh .
+<http://purl.obolibrary.org/obo/GSSO_007885> <http://www.w3.org/2000/01/rdf-schema#label> "tóngzhì"@zh .
+<http://purl.obolibrary.org/obo/GSSO_007347> <http://www.w3.org/2000/01/rdf-schema#label> "跨性別資源中心"@zh .
+<http://purl.obolibrary.org/obo/GSSO_007885> <http://www.w3.org/2000/01/rdf-schema#label> "同志"@zh .
+<http://purl.obolibrary.org/obo/GSSO_011966> <http://www.w3.org/2000/01/rdf-schema#label> "耽美"@zh .
+<http://purl.obolibrary.org/obo/GSSO_007688> <http://www.w3.org/2000/01/rdf-schema#label> "陰陽人"@zh .
+<http://purl.obolibrary.org/obo/GSSO_011996> <http://www.w3.org/2000/01/rdf-schema#label> "拉拉"@zh .
+<http://purl.obolibrary.org/obo/GSSO_007688> <http://www.w3.org/2000/01/rdf-schema#label> "yīnyáng rén"@zh .
+<http://purl.obolibrary.org/obo/GSSO_012043> <http://www.w3.org/2000/01/rdf-schema#label> "阴道球"@zh .
+<http://purl.obolibrary.org/obo/GSSO_011997> <http://www.w3.org/2000/01/rdf-schema#label> "拉子"@zh .

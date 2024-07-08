@@ -1,0 +1,116 @@
+GSSO_Entity,rdfs:label,oboInOwl:hasRelatedSynonym,oboInOwl:hasSynonym,oboInOwl:hasExactSynonym,dc:replaces,wiki:P5191,wiki:P1813,sdo:alternateName,owl:annotatedTarget,Entities_in_Homosaurus_V3,prefLabel_in_English_in_Homosaurus_v3,altLabel_in_English_in_Homosaurus_v3
+http://purl.obolibrary.org/obo/GSSO_000122,['tildelt køn'],[],[],[],[],[],[],[],['tildelt køn'],https://homosaurus.org/v3/homoit0000078,['Assigned gender'],[]
+http://purl.obolibrary.org/obo/GSSO_001706,['vaginoplastik'],[],[],[],[],[],[],[],['vaginoplastik'],https://homosaurus.org/v3/homoit0001851,['Vaginoplasty'],"['Intestinal vaginoplasty', 'Penile inversion vaginoplasty', 'Phallus-preserving vaginoplasty', 'Zero depth vaginoplasty']"
+http://purl.obolibrary.org/obo/NCIT_C28421,['sex'],[],[],[],[],[],[],[],['sex'],https://homosaurus.org/v3/homoit0001269,['Sex (Body)'],[]
+http://purl.obolibrary.org/obo/GSSO_003286,['seksuel identitet'],[],[],[],[],[],[],[],['seksuel identitet'],https://homosaurus.org/v3/homoit0001295,['Sexual identity'],[]
+http://purl.obolibrary.org/obo/GSSO_003830,['regnbueflag'],[],[],[],[],[],[],[],['regnbueflag'],https://homosaurus.org/v3/homoit0001232,['Rainbow flags'],[]
+http://purl.obolibrary.org/obo/GSSO_002229,['feminisme'],[],[],[],[],[],[],[],['feminisme'],https://homosaurus.org/v3/homoit0000437,['Feminism'],[]
+http://purl.obolibrary.org/obo/GSSO_003557,['genderfuck'],[],[],[],[],[],[],[],['genderfuck'],https://homosaurus.org/v3/homoit0000581,['Genderfuck'],[]
+http://purl.obolibrary.org/obo/GSSO_000137,[],[],[],[],[],[],[],[],['LGBT+'],https://homosaurus.org/v3/homoit0000594,['LGBT'],['GLBT']
+http://purl.obolibrary.org/obo/UBERON_0000991,[],[],['kønskirtler'],[],[],[],[],['gonader'],"['kønskirtler', 'gonader']",https://homosaurus.org/v3/homoit0000600,['Gonads'],[]
+http://purl.obolibrary.org/obo/OMRSE_00000007,['kønsrolle'],['socialt køn'],[],[],[],[],[],[],"['socialt køn', 'kønsrolle']",https://homosaurus.org/v3/homoit0000577,['Gender roles'],[]
+http://purl.obolibrary.org/obo/GSSO_001389,['masturbation'],[],['onani'],[],[],[],[],[],"['masturbation', 'onani']",https://homosaurus.org/v3/homoit0001000,['Masturbation'],[]
+http://purl.obolibrary.org/obo/UBERON_0000473,[],[],['testikel'],[],[],[],[],[],['testikel'],https://homosaurus.org/v3/homoit0001361,['Testicle'],"['Balls', 'Nuts', 'Testes', 'Testicles', 'Testis']"
+http://purl.obolibrary.org/obo/NCIT_C37986,['libido'],[],[],[],[],[],[],[],['libido'],https://homosaurus.org/v3/homoit0000967,['Libido'],['Sex drive']
+http://purl.obolibrary.org/obo/GSSO_003279,['voyeurisme'],[],[],[],[],[],[],[],['voyeurisme'],https://homosaurus.org/v3/homoit0001257,['Voyeurism'],"['Scopophilia', 'Scoptophilia']"
+http://purl.obolibrary.org/obo/GSSO_002862,['transfobi'],[],[],[],[],[],[],[],"['transfob', 'transfobi']",https://homosaurus.org/v3/homoit0001467,['Transphobia'],[]
+http://purl.obolibrary.org/obo/GSSO_008337,['sæddonor'],[],[],[],[],[],[],[],['sæddonor'],https://homosaurus.org/v3/homoit0001336,['Sperm donors'],[]
+http://purl.obolibrary.org/obo/GSSO_001365,['femme'],[],[],[],[],[],[],[],['femme'],https://homosaurus.org/v3/homoit0000440,['Femmes'],[]
+http://purl.obolibrary.org/obo/GSSO_002336,[],[],[],[],[],[],"['dobbeltkønnet', 'tvekønnet']",[],"['dobbeltkønnet', 'tvekønnet']",https://homosaurus.org/v3/homoit0000110,['Bigender identity'],[]
+http://purl.obolibrary.org/obo/GSSO_000526,['sexsygdomme'],[],[],[],[],[],['STD'],['seksuelt overførte sygdomme'],"['STD', 'sexsygdomme']",https://homosaurus.org/v3/homoit0001308,['STDs'],"['STIs', 'Sexually transmitted diseases', 'Sexually transmitted infections', 'VD', 'Venereal diseases']"
+http://purl.obolibrary.org/obo/GSSO_007177,[],['kønsbetegnelse'],[],[],[],[],[],[],['kønsbetegnelse'],https://homosaurus.org/v3/homoit0000573,['Gender markers'],[]
+http://purl.obolibrary.org/obo/CHEBI_49020,[],['hormonblokkere'],[],[],[],[],[],[],['hormonblokkere'],https://homosaurus.org/v3/homoit0000650,['Hormone blockers'],[]
+http://purl.obolibrary.org/obo/GSSO_001406,['dyke'],[],[],[],[],[],[],[],['dyke'],https://homosaurus.org/v3/homoit0000384,['Dykes'],[]
+http://purl.obolibrary.org/obo/GSSO_010205,[],[],[],[],[],[],['norm'],[],['norm'],https://homosaurus.org/v3/homoit0001323,['Social norms'],[]
+http://purl.obolibrary.org/obo/GSSO_002339,[],[],[],"['fluid gender identity', 'flydende kønsidentitet']",[],[],[],[],"['fluid gender identity', 'flydende kønsidentitet']",,[],[]
+http://purl.obolibrary.org/obo/GSSO_002748,['tomboy'],[],[],[],[],[],[],[],['tomboy'],https://homosaurus.org/v3/homoit0001374,['Tomboys'],[]
+http://purl.obolibrary.org/obo/GSSO_000513,[],[],[],[],[],[],['hiv'],[],['hiv'],https://homosaurus.org/v3/homoit0000005,['HIV/AIDS'],"['AIDS', 'Acquired immune deficiency syndrome', 'Acquired immunodeficiency syndrome', 'HIV', 'Human immunodeficiency virus']"
+http://purl.obolibrary.org/obo/GSSO_002861,['homofobi'],[],[],[],[],[],[],[],"['homofob', 'homofobi']",https://homosaurus.org/v3/homoit0000646,['Homophobia'],[]
+http://purl.obolibrary.org/obo/GSSO_001307,[],[],[],[],[],[],['fetichisme'],[],['fetichisme'],https://homosaurus.org/v3/homoit0000442,['Kinks and fetishes'],"['BDSM', 'Fetish', 'Fetishism', 'Kink']"
+http://purl.obolibrary.org/obo/GSSO_001762,['dragqueen'],[],[],[],[],[],[],[],['dragqueen'],https://homosaurus.org/v3/homoit0000375,['Drag queens'],[]
+http://purl.obolibrary.org/obo/GSSO_001444,['transseksuel'],[],[],[],[],[],[],[],['transseksuel'],https://homosaurus.org/v3/homoit0001381,['Transsexual people'],"['Transexuals', 'Transsexuals']"
+http://purl.obolibrary.org/obo/GSSO_000813,[],[],['cunnilingus'],[],[],[],[],[],['cunnilingus'],https://homosaurus.org/v3/homoit0000239,['Cunnilingus'],"['Carpet munching', 'Cunt licking', 'Eating pussy', 'Muff diving']"
+http://purl.obolibrary.org/obo/GSSO_002273,['homonationalisme'],[],[],[],[],[],[],[],['homonationalisme'],https://homosaurus.org/v3/homoit0000643,['Homonationalism'],[]
+http://purl.obolibrary.org/obo/GSSO_002255,['queerteori'],['queerfeminisme'],[],[],[],[],[],[],"['queerteori', 'queerfeminisme']",https://homosaurus.org/v3/homoit0001219,['Queer theory'],[]
+http://purl.obolibrary.org/obo/OMRSE_00000009,[],[],['femininitet'],[],[],[],[],[],['femininitet'],https://homosaurus.org/v3/homoit0000389,['Femininities'],"['Effeminacy', 'Femininity']"
+http://purl.obolibrary.org/obo/GSSO_000371,[],[],[],[],[],[],['cismand'],[],['cismand'],https://homosaurus.org/v3/homoit0000270,['Cisgender men'],[]
+http://purl.obolibrary.org/obo/GSSO_000521,['aids'],[],[],[],[],[],[],[],['aids'],https://homosaurus.org/v3/homoit0000005,['HIV/AIDS'],"['AIDS', 'Acquired immune deficiency syndrome', 'Acquired immunodeficiency syndrome', 'HIV', 'Human immunodeficiency virus']"
+http://purl.bioontology.org/ontology/MESH/D014424,['Turners syndrom'],[],[],[],[],[],[],[],['Turners syndrom'],https://homosaurus.org/v3/homoit0001478,['Turner syndrome'],[]
+http://purl.bioontology.org/ontology/MESH/D000068116,['kønsdysfori'],[],[],[],[],[],['dysfori'],[],"['kønsdysfori', 'dysfori']",https://homosaurus.org/v3/homoit0000567,['Gender dysphoria'],[]
+http://purl.obolibrary.org/obo/GSSO_000376,[],[],[],[],[],[],['MSM'],[],['MSM'],https://homosaurus.org/v3/homoit0001009,['Men who have sex with men'],['MSM']
+http://purl.obolibrary.org/obo/GSSO_001589,['genitalier'],[],[],[],[],[],[],[],['genitalier'],https://homosaurus.org/v3/homoit0000585,['Genitals'],['Genitalia']
+http://purl.obolibrary.org/obo/GSSO_005443,['G-punkt'],[],[],[],[],[],[],[],['G-punkt'],https://homosaurus.org/v3/homoit0000460,['G-spot'],[]
+http://purl.obolibrary.org/obo/GSSO_011316,['homonormativitet'],[],[],[],[],[],[],[],['homonormativitet'],https://homosaurus.org/v3/homoit0000644,['Homonormativity'],['Homosexual norms']
+http://purl.obolibrary.org/obo/GSSO_001763,['dragking'],[],[],[],[],[],[],[],['dragking'],https://homosaurus.org/v3/homoit0000373,['Drag kings'],[]
+http://purl.obolibrary.org/obo/GSSO_005410,['hadefuld tale'],[],[],[],[],[],[],[],['hadefuld tale'],https://homosaurus.org/v3/homoit0000341,['Hate speech'],"['Defamation against groups', 'Group defamation', 'Group libel']"
+http://purl.obolibrary.org/obo/GSSO_001745,['aromantisk'],[],[],[],[],[],[],[],['aromantisk'],,[],[]
+http://purl.obolibrary.org/obo/GSSO_003565,[],['kønsdivers'],[],[],[],[],[],[],['kønsdivers'],https://homosaurus.org/v3/homoit0000566,['Gender diversity'],[]
+http://purl.obolibrary.org/obo/GSSO_003398,[],[],[],[],[],[],['transition'],[],['transition'],https://homosaurus.org/v3/homoit0001465,['Transitioning (Gender)'],['Transitioning (Transgender)']
+http://purl.obolibrary.org/obo/GSSO_004912,['påbudt seksualitet'],[],[],[],[],[],[],[],['påbudt seksualitet'],https://homosaurus.org/v3/homoit0001535,['Compulsory sexuality'],[]
+http://purl.bioontology.org/ontology/MESH/D013734,['androgent insensitivitetssyndrom'],['Morris syndrom'],[],[],[],[],[],[],"['androgent insensitivitetssyndrom', 'Morris syndrom']",https://homosaurus.org/v3/homoit0000044,['Androgen insensitivity syndrome'],"['AIS', 'Goldberg-Maxwell syndrome', 'Male androgen insensitivity syndrome']"
+http://purl.obolibrary.org/obo/GSSO_000385,[],[],[],[],[],[],['ciskvinde'],[],['ciskvinde'],https://homosaurus.org/v3/homoit0000272,['Cisgender women'],[]
+http://purl.obolibrary.org/obo/GSSO_003314,['chikane'],[],[],[],[],[],[],[],['chikane'],https://homosaurus.org/v3/homoit0000611,['Harassment'],[]
+http://purl.obolibrary.org/obo/GSSO_003044,[],[],[],[],['korrigerende voldtægt'],[],[],[],['korrigerende voldtægt'],https://homosaurus.org/v3/homoit0000306,['Corrective rape'],[]
+http://purl.obolibrary.org/obo/GSSO_003839,['samkønsægteskab'],[],[],[],[],[],[],[],['samkønsægteskab'],https://homosaurus.org/v3/homoit0000504,['Same-sex marriage'],"['Gay marriage', 'Lesbian marriage']"
+http://purl.obolibrary.org/obo/GSSO_003665,[],[],['intersektionalitet'],[],[],[],[],[],['intersektionalitet'],https://homosaurus.org/v3/homoit0000667,['Intersectionality'],[]
+http://purl.obolibrary.org/obo/GSSO_000156,['twink'],[],[],[],[],[],[],[],['twink'],https://homosaurus.org/v3/homoit0001479,['Twinks (Gay culture)'],"['Twinkies', 'Twinks']"
+http://purl.obolibrary.org/obo/GSSO_000372,[],[],[],[],[],[],['transmand'],[],['transmand'],https://homosaurus.org/v3/homoit0000436,['FtMs'],"['F2Ms', 'Female-to-male', 'Females transitioning to males', 'FtM transsexuals', 'Transsexual men']"
+http://purl.bioontology.org/ontology/MESH/D012736,['seksualundervisning'],[],[],[],[],[],[],[],['seksualundervisning'],https://homosaurus.org/v3/homoit0001271,['Sex education'],[]
+http://purl.obolibrary.org/obo/GSSO_000346,['top'],[],[],[],[],[],[],[],['top'],https://homosaurus.org/v3/homoit0001376,['Tops (Sex)'],"['Pitchers (Sex)', 'Pitchers', 'Tops']"
+http://purl.obolibrary.org/obo/GSSO_001443,['drag'],[],[],[],[],[],[],[],['drag'],https://homosaurus.org/v3/homoit0000367,['Drag'],[]
+http://purl.obolibrary.org/obo/GSSO_007840,['penektomi'],[],[],[],[],[],[],[],['penektomi'],https://homosaurus.org/v3/homoit0001097,['Penectomy'],[]
+http://purl.obolibrary.org/obo/NCIT_C62263,['diversitet'],[],['mangfoldighed'],[],[],[],[],[],"['mangfoldighed', 'diversitet']",https://homosaurus.org/v3/homoit0000358,['Diversity'],[]
+http://purl.obolibrary.org/obo/GSSO_000096,['transkønnet'],[],[],[],[],[],['trans'],[],"['transkønnet', 'trans']",https://homosaurus.org/v3/homoit0001415,['Transgender identity'],[]
+http://purl.obolibrary.org/obo/OMRSE_00000008,[],[],['maskulinitet'],[],[],[],[],[],['maskulinitet'],https://homosaurus.org/v3/homoit0000995,['Masculinities'],['Masculinity']
+http://purl.obolibrary.org/obo/GSSO_000153,['bjørn'],[],[],[],[],[],[],[],['bjørn'],https://homosaurus.org/v3/homoit0000105,['Bears (Gay culture)'],"['Bear men', 'Bears']"
+http://purl.obolibrary.org/obo/GSSO_000344,['gaydar'],[],[],[],[],[],[],[],['gaydar'],https://homosaurus.org/v3/homoit0000559,['Gaydar'],[]
+http://purl.obolibrary.org/obo/GSSO_004694,['utroskab'],[],[],[],[],[],[],[],['utroskab'],https://homosaurus.org/v3/homoit0001658,['Non-consensual non-monogamy'],[]
+http://purl.obolibrary.org/obo/GSSO_002372,['kønsstudier'],[],[],[],[],[],[],[],['kønsstudier'],https://homosaurus.org/v3/homoit0000579,['Gender studies'],[]
+http://purl.obolibrary.org/obo/GSSO_001904,[],[],[],[],[],[],[],['sekundære kønskarakteristika'],['sekundære kønskarakteristika'],https://homosaurus.org/v3/homoit0001259,['Secondary sex characteristics'],[]
+http://purl.obolibrary.org/obo/GSSO_009442,['outing'],[],[],[],[],[],[],[],['outing'],https://homosaurus.org/v3/homoit0001065,['Outing (LGBTQ+ culture)'],['Outing']
+http://purl.obolibrary.org/obo/CHEBI_50114,['østrogen'],[],[],[],[],[],[],[],['østrogen'],https://homosaurus.org/v3/homoit0000407,['Estrogen'],[]
+http://purl.obolibrary.org/obo/GSSO_000347,['versatile'],[],[],[],[],[],[],[],['versatile'],https://homosaurus.org/v3/homoit0001779,['Vers (Sex)'],"['Vers', 'Versatile']"
+http://purl.obolibrary.org/obo/GSSO_001300,['BDSM'],[],[],[],[],[],[],[],['BDSM'],https://homosaurus.org/v3/homoit0000442,['Kinks and fetishes'],"['BDSM', 'Fetish', 'Fetishism', 'Kink']"
+http://purl.obolibrary.org/obo/GSSO_000771,[],[],['blowjob'],[],[],[],[],[],['blowjob'],https://homosaurus.org/v3/homoit0000212,['Fellatio'],"['Blow jobs', 'Cocksucking', 'Penilingus']"
+http://purl.obolibrary.org/obo/GSSO_001648,['orchiectomi'],['orchidektomi'],[],[],[],[],[],[],['orchiectomi'],https://homosaurus.org/v3/homoit0001060,['Orchiectomy'],[]
+http://purl.obolibrary.org/obo/NCIT_C25460,['samtykke'],[],[],[],[],[],[],[],['samtykke'],https://homosaurus.org/v3/homoit0000302,['Consent'],[]
+http://purl.obolibrary.org/obo/GSSO_002863,['bifobi'],[],[],[],[],[],[],[],['bifobi'],https://homosaurus.org/v3/homoit0000117,['Biphobia'],[]
+http://purl.obolibrary.org/obo/GSSO_002842,['heterosexisme'],[],[],[],[],[],[],[],['heterosexisme'],https://homosaurus.org/v3/homoit0000619,['Heterosexism'],['Heterocentrism']
+http://purl.obolibrary.org/obo/NCIT_C17357,['genus'],[],['gender'],[],[],[],[],[],"['genus', 'gender']",https://homosaurus.org/v3/homoit0000560,['Gender'],[]
+http://purl.obolibrary.org/obo/GSSO_000871,['monogami'],[],[],[],[],[],[],[],['monogami'],https://homosaurus.org/v3/homoit0001019,['Monogamy'],[]
+http://purl.obolibrary.org/obo/GSSO_005757,['transvestit'],[],[],[],[],[],[],[],['transvestit'],https://homosaurus.org/v3/homoit0001470,['Transvestites'],[]
+http://purl.obolibrary.org/obo/GSSO_003347,[],['sterilisation'],[],[],[],[],[],[],['sterilisation'],https://homosaurus.org/v3/homoit0000653,['Sexual sterilization'],[]
+http://purl.obolibrary.org/obo/GSSO_003355,['kondom'],[],[],[],[],[],[],[],['kondom'],https://homosaurus.org/v3/homoit0000299,['Condoms'],"['Prophylactics', 'Rubbers']"
+http://purl.obolibrary.org/obo/GSSO_002212,['cølibat'],[],[],[],[],[],[],[],['cølibat'],https://homosaurus.org/v3/homoit0000244,['Celibacy'],[]
+http://purl.obolibrary.org/obo/GSSO_000088,['kønsudtryk'],[],[],[],[],[],[],[],['kønsudtryk'],https://homosaurus.org/v3/homoit0000568,['Gender expression'],[]
+http://purl.obolibrary.org/obo/GSSO_003556,[],[],[],[],[],[],[],[],['gender  bender'],https://homosaurus.org/v3/homoit0000562,['Gender bending'],[]
+http://purl.obolibrary.org/obo/GSSO_006234,[],['patologisering'],[],[],[],[],[],[],['patologisering'],https://homosaurus.org/v3/homoit0001006,['Medicalization'],[]
+http://purl.obolibrary.org/obo/GSSO_003306,['udspring'],['springe ud'],[],[],[],[],[],[],"['udspring', 'springe ud']",https://homosaurus.org/v3/homoit0000295,['Coming out'],[]
+http://purl.obolibrary.org/obo/GSSO_002815,['misandri'],[],[],[],[],[],[],[],['misandri'],https://homosaurus.org/v3/homoit0001015,['Misandry'],[]
+http://purl.obolibrary.org/obo/GSSO_003634,[],[],[],[],[],[],['hormonbehandling'],[],['hormonbehandling'],https://homosaurus.org/v3/homoit0000317,['Hormone therapy (Gender)'],"['Cross-gender hormone therapy', 'Hormone reassignment therapy', 'Hormone replacement therapy']"
+http://purl.bioontology.org/ontology/MESH/D007713,['klinefelters syndrom'],[],[],[],[],[],[],[],['klinefelters syndrom'],https://homosaurus.org/v3/homoit0000692,['Klinefelter syndrome'],['47XXY']
+http://purl.obolibrary.org/obo/GSSO_000343,['bottom'],[],[],[],[],[],[],[],['bottom'],https://homosaurus.org/v3/homoit0000219,['Bottoms (Sex)'],"['Bottoms', 'Catchers (Sex)', 'Catchers']"
+http://purl.obolibrary.org/obo/GSSO_011315,['heteronormativitet'],[],[],[],[],[],[],[],['heteronormativitet'],https://homosaurus.org/v3/homoit0000620,['Heteronormativity'],['Heterosexual norms']
+http://purl.obolibrary.org/obo/GSSO_002964,[],[],[],[],[],[],['privilegium'],[],['privilegium'],,[],[]
+http://purl.obolibrary.org/obo/GSSO_000171,['interkønnet\u202fperson'],[],[],[],[],[],[],[],[],https://homosaurus.org/v3/homoit0000618,['Intersex people'],"['Hermaphrodites', 'Hermaphroditic people', 'Intersex-identified people', 'Intersexual people', 'Intersexuals']"
+http://purl.obolibrary.org/obo/GSSO_000384,[],[],[],[],[],[],['transkvinde'],[],['transkvinde'],https://homosaurus.org/v3/homoit0000986,['MtFs'],"['M2Fs', 'Male-to-female', 'Males transitioning to females', 'MtF transsexuals', 'Transsexual women']"
+http://purl.obolibrary.org/obo/GSSO_001434,['faggot'],[],[],[],[],[],[],[],['faggot'],https://homosaurus.org/v3/homoit0000418,['Faggots'],['Fags']
+http://purl.obolibrary.org/obo/GSSO_002405,['pronomen'],[],[],[],[],[],[],[],['pronomen'],https://homosaurus.org/v3/homoit0001135,['Pronouns'],['Personal pronouns']
+http://purl.obolibrary.org/obo/GSSO_004902,['polyamori'],[],[],[],[],[],[],[],['polyamori'],https://homosaurus.org/v3/homoit0001123,['Polyamory'],[]
+http://purl.obolibrary.org/obo/GSSO_003292,[],[],[],[],[],[],[],['menneskerettigheder'],['menneskerettigheder'],https://homosaurus.org/v3/homoit0000652,['Human rights'],[]
+http://purl.obolibrary.org/obo/GSSO_003189,[],['sikker sex'],[],[],[],[],[],[],['sikker sex'],https://homosaurus.org/v3/homoit0001251,['Safer sex'],[]
+http://purl.obolibrary.org/obo/GSSO_003222,['boi'],[],[],[],[],[],[],[],['boi'],https://homosaurus.org/v3/homoit0000215,['Bois'],[]
+http://purl.obolibrary.org/obo/GSSO_001672,['hysterektomi'],[],[],[],[],[],[],[],['hysterektomi'],https://homosaurus.org/v3/homoit0000658,['Hysterectomy'],[]
+http://purl.obolibrary.org/obo/GSSO_001608,['kønsbekræftende kirurgi'],[],[],[],[],[],[],[],['kønsbekræftende kirurgi'],https://homosaurus.org/v3/homoit0000561,['Gender affirming surgery'],"['Gender affirmation surgery', 'Gender confirmation surgery', 'Gender confirming surgery', 'Gender realignment surgery', 'Gender reassignment surgery', 'SRS', 'Sex reassignment surgery']"
+http://purl.obolibrary.org/obo/GSSO_000435,[],['mobning'],[],[],[],[],[],[],['mobning'],https://homosaurus.org/v3/homoit0000228,['Bullying'],[]
+http://purl.obolibrary.org/obo/GSSO_003796,['pinkwashing'],[],[],[],[],[],[],[],['pinkwashing'],https://homosaurus.org/v3/homoit0001117,['Pinkwashing'],[]
+http://purl.obolibrary.org/obo/GSSO_002797,['sexisme'],[],[],[],[],[],[],[],['sexisme'],https://homosaurus.org/v3/homoit0001278,['Sexism'],[]
+http://purl.obolibrary.org/obo/UBERON_0000989,['penis'],[],[],[],[],[],[],[],['penis'],https://homosaurus.org/v3/homoit0001099,['Penis'],"['Cock', 'Dick', 'Dong', 'Penises', 'Phallus', 'Prick', 'Wang']"
+http://purl.obolibrary.org/obo/GSSO_003591,[],"['hadforbrydelse', 'hate crime']",[],[],[],[],[],[],"['hadforbrydelse', 'hate crime']",https://homosaurus.org/v3/homoit0000109,['Hate crimes'],['Bias-related crimes']
+http://purl.obolibrary.org/obo/GSSO_008334,['donor'],[],[],[],[],[],[],[],['donor'],https://homosaurus.org/v3/homoit0000364,['Donors'],[]
+http://purl.obolibrary.org/obo/GSSO_002816,['misogyni'],[],[],[],[],[],[],[],['misogyni'],https://homosaurus.org/v3/homoit0001017,['Misogyny'],[]
+http://purl.obolibrary.org/obo/GSSO_000379,[],[],[],[],[],[],"['WSW', 'KSK']",[],"['WSW', 'KSK']",https://homosaurus.org/v3/homoit0001510,['Women who have sex with women'],['WSW']
+http://purl.bioontology.org/ontology/MESH/D005783,['kønsidentitet'],[],[],[],[],[],[],[],['kønsidentitet'],https://homosaurus.org/v3/homoit0000571,['Gender identity'],['Gender-variant identity']
+http://purl.obolibrary.org/obo/GSSO_003838,['ægteskab'],[],[],[],[],[],[],[],['ægteskab'],https://homosaurus.org/v3/homoit0000990,['Marriage'],[]
+http://purl.obolibrary.org/obo/GSSO_002337,[],[],[],[],[],[],['trikønnet'],[],['trikønnet'],https://homosaurus.org/v3/homoit0001473,['Trigender identity'],[]
+http://purl.obolibrary.org/obo/GSSO_000414,['seksualitet'],[],[],[],[],[],[],[],['seksualitet'],https://homosaurus.org/v3/homoit0001306,['Sexuality'],[]

@@ -1,0 +1,7 @@
+<http://purl.obolibrary.org/obo/NCIT_C84361> <http://www.w3.org/2002/07/owl#annotatedTarget> "сексуа́лна ориента́ция"@bg .
+<http://purl.obolibrary.org/obo/GSSO_000704> <http://www.w3.org/2002/07/owl#annotatedTarget> "пансексуа́лност"@bg .
+<http://purl.obolibrary.org/obo/GSSO_000705> <http://www.w3.org/2002/07/owl#annotatedTarget> "хомосексуа́лност"@bg .
+<http://purl.obolibrary.org/obo/GSSO_002183> <http://www.w3.org/2002/07/owl#annotatedTarget> "педера́стия"@bg .
+<http://purl.obolibrary.org/obo/GSSO_000703> <http://www.w3.org/2002/07/owl#annotatedTarget> "бисексуа́лност"@bg .
+<http://purl.obolibrary.org/obo/GSSO_000699> <http://www.w3.org/2002/07/owl#annotatedTarget> "асексуа́лност"@bg .
+<http://purl.obolibrary.org/obo/GSSO_000706> <http://www.w3.org/2002/07/owl#annotatedTarget> "хетеросексуа́лност"@bg .

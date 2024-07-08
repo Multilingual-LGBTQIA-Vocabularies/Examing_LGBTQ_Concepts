@@ -1,0 +1,18 @@
+<http://purl.bioontology.org/ontology/MESH/D000068116> <http://www.w3.org/2000/01/rdf-schema#label> "dysphoria gjinore"@sq .
+<http://purl.obolibrary.org/obo/GSSO_001444> <http://www.w3.org/2000/01/rdf-schema#label> "transseksual"@sq .
+<http://purl.obolibrary.org/obo/GSSO_001362> <http://www.w3.org/2000/01/rdf-schema#label> "cross-dressing"@sq .
+<http://purl.obolibrary.org/obo/GSSO_000705> <http://www.w3.org/2000/01/rdf-schema#label> "homoseksualitet"@sq .
+<http://purl.obolibrary.org/obo/GSSO_003398> <http://www.w3.org/2000/01/rdf-schema#label> "tranzicioni gjinor"@sq .
+<http://purl.obolibrary.org/obo/GSSO_000096> <http://www.w3.org/2000/01/rdf-schema#label> "transgjinor"@sq .
+<http://purl.obolibrary.org/obo/GSSO_000137> <http://www.w3.org/2000/01/rdf-schema#label> "LGBT"@sq .
+<http://purl.obolibrary.org/obo/GSSO_000131> <http://www.w3.org/2000/01/rdf-schema#label> "genderqueer"@sq .
+<http://purl.obolibrary.org/obo/GSSO_001333> <http://www.w3.org/2000/01/rdf-schema#label> "cross-dresser"@sq .
+<http://purl.obolibrary.org/obo/GSSO_002192> <http://www.w3.org/2000/01/rdf-schema#label> "burrneshë"@sq .
+<http://purl.obolibrary.org/obo/GSSO_000706> <http://www.w3.org/2000/01/rdf-schema#label> "heteroseksualitet"@sq .
+<http://purl.obolibrary.org/obo/GSSO_000109> <http://www.w3.org/2000/01/rdf-schema#label> "interseks"@sq .
+<http://purl.obolibrary.org/obo/GSSO_001268> <http://www.w3.org/2000/01/rdf-schema#label> "transseksualizmi"@sq .
+<http://purl.obolibrary.org/obo/GSSO_001762> <http://www.w3.org/2000/01/rdf-schema#label> "drag queen"@sq .
+<http://purl.obolibrary.org/obo/GSSO_001763> <http://www.w3.org/2000/01/rdf-schema#label> "drag king"@sq .
+<http://purl.obolibrary.org/obo/GSSO_005757> <http://www.w3.org/2000/01/rdf-schema#label> "transvestit"@sq .
+<http://purl.obolibrary.org/obo/NCIT_C84361> <http://www.w3.org/2000/01/rdf-schema#label> "orientim seksual"@sq .
+<http://purl.obolibrary.org/obo/GSSO_000703> <http://www.w3.org/2000/01/rdf-schema#label> "biseksualitet"@sq .

@@ -1,0 +1,11 @@
+<http://purl.obolibrary.org/obo/GSSO_009471> <http://www.w3.org/2000/01/rdf-schema#label> "ipsogênero"@pt-br .
+<http://purl.obolibrary.org/obo/GSSO_000131> <http://www.w3.org/2000/01/rdf-schema#label> "gênero queer"@pt-br .
+<http://purl.obolibrary.org/obo/GSSO_009472> <http://www.w3.org/2000/01/rdf-schema#label> "ultergênero"@pt-br .
+<http://purl.obolibrary.org/obo/GSSO_003557> <http://www.w3.org/2000/01/rdf-schema#label> "gênero foda-se"@pt-br .
+<http://purl.obolibrary.org/obo/NCIT_C17357> <http://www.w3.org/2000/01/rdf-schema#label> "gênero"@pt-br .
+<http://purl.obolibrary.org/obo/GSSO_000109> <http://www.w3.org/2000/01/rdf-schema#label> "intersexo"@pt-br .
+<http://purl.obolibrary.org/obo/GSSO_004240> <http://www.w3.org/2000/01/rdf-schema#label> "cisgênero"@pt-br .
+<http://purl.obolibrary.org/obo/GSSO_000096> <http://www.w3.org/2000/01/rdf-schema#label> "transgênero"@pt-br .
+<http://purl.obolibrary.org/obo/GSSO_002372> <http://www.w3.org/2000/01/rdf-schema#label> "estudos de gênero"@pt-br .
+<http://purl.obolibrary.org/obo/GSSO_002255> <http://www.w3.org/2000/01/rdf-schema#label> "teoria queer"@pt-br .
+<http://purl.obolibrary.org/obo/GSSO_002324> <http://www.w3.org/2000/01/rdf-schema#label> "travesti"@pt-br .

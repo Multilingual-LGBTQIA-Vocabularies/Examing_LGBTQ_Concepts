@@ -1,0 +1,27 @@
+<http://purl.obolibrary.org/obo/OMRSE_00000007> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "socialt køn"@da .
+<http://purl.obolibrary.org/obo/GSSO_003565> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "kønsdivers"@da .
+<http://purl.obolibrary.org/obo/GSSO_001648> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "orchidektomi"@da .
+<http://purl.bioontology.org/ontology/MESH/D013734> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "Morris syndrom"@da .
+<http://purl.obolibrary.org/obo/GSSO_004950> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "MOGII"@da .
+<http://purl.obolibrary.org/obo/GSSO_000410> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "demiguy"@da .
+<http://purl.obolibrary.org/obo/GSSO_003872> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "skolioseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_002255> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "queerfeminisme"@da .
+<http://purl.obolibrary.org/obo/GSSO_003306> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "springe ud"@da .
+<http://purl.obolibrary.org/obo/GSSO_003836> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "safer space"@da .
+<http://purl.obolibrary.org/obo/GSSO_007169> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "kønsneutral"@da .
+<http://purl.obolibrary.org/obo/GSSO_001236> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "kinky"@da .
+<http://purl.obolibrary.org/obo/GSSO_006234> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "patologisering"@da .
+<http://purl.obolibrary.org/obo/GSSO_006239> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "depatologisering"@da .
+<http://purl.obolibrary.org/obo/GSSO_000701> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "monoseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_003189> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "sikker sex"@da .
+<http://purl.obolibrary.org/obo/GSSO_000435> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "mobning"@da .
+<http://purl.obolibrary.org/obo/GSSO_003841> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "sapioseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_000710> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "polyseksuel"@da .
+<http://purl.obolibrary.org/obo/GSSO_011301> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "normativ"@da .
+<http://purl.obolibrary.org/obo/GSSO_007177> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "kønsbetegnelse"@da .
+<http://purl.obolibrary.org/obo/GSSO_003591> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "hadforbrydelse"@da .
+<http://purl.obolibrary.org/obo/GSSO_003591> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "hate crime"@da .
+<http://purl.obolibrary.org/obo/GSSO_003347> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "sterilisation"@da .
+<http://purl.obolibrary.org/obo/GSSO_004181> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "være i skabet"@da .
+<http://semanticscience.org/resource/SIO_000853> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "seksuel lyst"@da .
+<http://purl.obolibrary.org/obo/CHEBI_49020> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "hormonblokkere"@da .

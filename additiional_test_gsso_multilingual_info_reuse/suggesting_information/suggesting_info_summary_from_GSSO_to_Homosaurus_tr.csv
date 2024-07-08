@@ -1,0 +1,24 @@
+GSSO_Entity,rdfs:label,oboInOwl:hasRelatedSynonym,oboInOwl:hasSynonym,oboInOwl:hasExactSynonym,dc:replaces,wiki:P5191,wiki:P1813,sdo:alternateName,owl:annotatedTarget,Entities_in_Homosaurus_V3,prefLabel_in_English_in_Homosaurus_v3,altLabel_in_English_in_Homosaurus_v3
+http://purl.obolibrary.org/obo/NCIT_C28421,['cinsiyet'],[],[],[],[],[],[],[],['cinsiyet'],https://homosaurus.org/v3/homoit0001269,['Sex (Body)'],[]
+http://purl.obolibrary.org/obo/GSSO_001790,['LGBTİ'],[],[],[],[],[],[],[],['LGBTİ'],https://homosaurus.org/v3/homoit0000805,['LGBTI'],[]
+http://purl.obolibrary.org/obo/GSSO_002862,['transfobi'],[],[],[],[],[],[],[],['transfobi'],https://homosaurus.org/v3/homoit0001467,['Transphobia'],[]
+http://purl.obolibrary.org/obo/GSSO_001333,['karşıt-giysicilik'],[],"['travesti', 'cross-dresser']",[],[],[],['CD'],[],"['travesti', 'karşıt-giysicilik', 'cross-dresser']",https://homosaurus.org/v3/homoit0000316,['Crossdressers'],['Cross-dressers']
+http://purl.obolibrary.org/obo/GSSO_001406,['erkeksi lezbiyen'],[],"['dyke', 'lezbo', 'ablacı']",[],[],[],[],[],"['dyke', 'lezbo', 'ablacı', 'erkeksi lezbiyen']",https://homosaurus.org/v3/homoit0000384,['Dykes'],[]
+http://purl.obolibrary.org/obo/GSSO_002861,['homofobi'],[],[],[],[],[],[],[],['homofobi'],https://homosaurus.org/v3/homoit0000646,['Homophobia'],[]
+http://purl.obolibrary.org/obo/GSSO_001762,['drag queen'],[],[],[],[],[],[],[],['drag queen'],https://homosaurus.org/v3/homoit0000375,['Drag queens'],[]
+http://purl.obolibrary.org/obo/GSSO_001444,['transeksüel'],[],[],[],[],[],[],[],['transeksüel'],https://homosaurus.org/v3/homoit0001381,['Transsexual people'],"['Transexuals', 'Transsexuals']"
+http://purl.obolibrary.org/obo/GSSO_000376,[],[],[],[],[],[],[],['erkeklerle cinsel ilişkiye giren erkekler'],['erkeklerle cinsel ilişkiye giren erkekler'],https://homosaurus.org/v3/homoit0001009,['Men who have sex with men'],['MSM']
+http://purl.obolibrary.org/obo/GSSO_001763,['drag king'],[],[],[],[],[],[],[],['drag king'],https://homosaurus.org/v3/homoit0000373,['Drag kings'],[]
+http://purl.obolibrary.org/obo/GSSO_000372,[],[],[],[],[],[],['trans erkek'],[],['trans erkek'],https://homosaurus.org/v3/homoit0000436,['FtMs'],"['F2Ms', 'Female-to-male', 'Females transitioning to males', 'FtM transsexuals', 'Transsexual men']"
+http://purl.obolibrary.org/obo/GSSO_000096,['transcinsiyet'],[],[],[],[],[],[],[],['transcinsiyet'],https://homosaurus.org/v3/homoit0001415,['Transgender identity'],[]
+http://purl.obolibrary.org/obo/GSSO_009442,['açığa vurma'],[],[],[],[],[],[],[],['açığa vurma'],https://homosaurus.org/v3/homoit0001065,['Outing (LGBTQ+ culture)'],['Outing']
+http://purl.obolibrary.org/obo/GSSO_000413,['cinsel rol davranışı'],[],[],[],[],[],[],[],['cinsel rol davranışı'],https://homosaurus.org/v3/homoit0001299,['Sexual practices'],[]
+http://purl.obolibrary.org/obo/NCIT_C17357,['toplumsal cinsiyet'],[],[],[],[],[],[],[],['toplumsal cinsiyet'],https://homosaurus.org/v3/homoit0000560,['Gender'],[]
+http://purl.obolibrary.org/obo/GSSO_000088,['cinsiyet ifadesi'],[],[],[],[],[],[],[],['cinsiyet ifadesi'],https://homosaurus.org/v3/homoit0000568,['Gender expression'],[]
+http://purl.obolibrary.org/obo/GSSO_003306,['açılmak'],[],[],[],[],[],[],[],['açılmak'],https://homosaurus.org/v3/homoit0000295,['Coming out'],[]
+http://purl.obolibrary.org/obo/GSSO_011315,[],['heteronormatif'],[],[],[],[],[],[],['heteronormatif'],https://homosaurus.org/v3/homoit0000620,['Heteronormativity'],['Heterosexual norms']
+http://purl.obolibrary.org/obo/GSSO_000384,[],[],[],[],[],[],['trans kadın'],[],['trans kadın'],https://homosaurus.org/v3/homoit0000986,['MtFs'],"['M2Fs', 'Male-to-female', 'Males transitioning to females', 'MtF transsexuals', 'Transsexual women']"
+http://purl.obolibrary.org/obo/GSSO_001434,['ibne'],[],"['top', 'karı kılıklı', 'götveren', 'yuvarlak', 'nonoş']",[],[],[],[],[],"['nonoş', 'top', 'karı kılıklı', 'götveren', 'yuvarlak', 'ibne']",https://homosaurus.org/v3/homoit0000418,['Faggots'],['Fags']
+http://purl.obolibrary.org/obo/GSSO_000381,['lezbiyen'],[],['sevici'],[],[],[],[],[],"['lezbiyen', 'sevici']",https://homosaurus.org/v3/homoit0000556,['Lesbians'],"['Gay women', 'Lesbian people', 'Lesbian women']"
+http://purl.obolibrary.org/obo/GSSO_000379,[],[],[],[],[],[],[],['kadınlarla cinsel ilişkiye giren kadınlar'],['kadınlarla cinsel ilişkiye giren kadınlar'],https://homosaurus.org/v3/homoit0001510,['Women who have sex with women'],['WSW']
+http://purl.bioontology.org/ontology/MESH/D005783,['cinsiyet kimliği'],[],[],[],[],[],[],[],['cinsiyet kimliği'],https://homosaurus.org/v3/homoit0000571,['Gender identity'],['Gender-variant identity']

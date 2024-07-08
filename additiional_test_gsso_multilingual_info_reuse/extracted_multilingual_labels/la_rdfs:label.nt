@@ -1,0 +1,7 @@
+<http://purl.org/sig/ont/fma/fma17740> <http://www.w3.org/2000/01/rdf-schema#label> "cervix uteri"@la .
+<http://purl.obolibrary.org/obo/GSSO_001174> <http://www.w3.org/2000/01/rdf-schema#label> "immissio penis in anum"@la .
+<http://purl.obolibrary.org/obo/GSSO_006930> <http://www.w3.org/2000/01/rdf-schema#label> "furor uterinus"@la .
+<http://purl.obolibrary.org/obo/GSSO_003918> <http://www.w3.org/2000/01/rdf-schema#label> "argumentum ad hominem"@la .
+<http://purl.obolibrary.org/obo/GSSO_010976> <http://www.w3.org/2000/01/rdf-schema#label> "argumentum ad verecundiam"@la .
+<http://purl.obolibrary.org/obo/GSSO_008443> <http://www.w3.org/2000/01/rdf-schema#label> "metamorphosis sexualis paranoica"@la .
+<http://purl.obolibrary.org/obo/GSSO_008449> <http://www.w3.org/2000/01/rdf-schema#label> "psychopathia transexualis"@la .

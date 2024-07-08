@@ -1,0 +1,2537 @@
+there are in total  507  languages in Wikidata.
+[('en', 17575), ('es', 12434), ('fr', 10637), ('de', 10431), ('zh', 10183), ('ja', 9308), ('ru', 8877), ('pt', 8023), ('ar', 7766), ('sv', 7392)]
+processing language:  zh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  462  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  431  triples
+processing language:  tg
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  38  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  8  triples
+processing language:  chr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  vec
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  43  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  11  triples
+processing language:  eu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  163  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  78  triples
+processing language:  ar
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  237  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  248  triples
+processing language:  smn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  59  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  6  triples
+processing language:  gl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  135  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  43  triples
+processing language:  bcl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  73  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  kk
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  85  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  sr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  259  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  131  triples
+processing language:  be-tarask
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  123  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  67  triples
+processing language:  mk
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  105  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  27  triples
+processing language:  nb
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  170  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  179  triples
+processing language:  tr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  220  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  209  triples
+processing language:  az
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  117  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  19  triples
+processing language:  ht
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  30  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  7  triples
+processing language:  my
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  26  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  fy
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  74  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  ru
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  292  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  356  triples
+processing language:  es
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  331  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  620  triples
+processing language:  it
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  266  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  253  triples
+processing language:  eo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  226  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  114  triples
+processing language:  hr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  127  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  41  triples
+processing language:  fr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  326  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  474  triples
+processing language:  zh-hans
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  145  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  20  triples
+processing language:  co
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  7  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  5  triples
+processing language:  sr-ec
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  70  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  10  triples
+processing language:  lmo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  29  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  uk
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  242  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  156  triples
+processing language:  hu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  186  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  116  triples
+processing language:  sm
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  de
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  307  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  517  triples
+processing language:  br
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  61  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  17  triples
+processing language:  et
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  129  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  44  triples
+processing language:  yue
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  111  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  43  triples
+processing language:  ku
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  59  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  18  triples
+processing language:  pa
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  60  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  sv
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  236  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  301  triples
+processing language:  nl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  286  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  240  triples
+processing language:  mn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  16  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  rmy
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  5  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  pl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  220  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  164  triples
+processing language:  am
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  9  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  pt
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  340  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  541  triples
+processing language:  ch
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  sh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  123  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  47  triples
+processing language:  id
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  198  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  94  triples
+processing language:  ja
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  291  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  415  triples
+processing language:  pt-br
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  95  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  134  triples
+processing language:  la
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  81  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  30  triples
+processing language:  szl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  5  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  os
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  wuu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  70  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  9  triples
+processing language:  ca
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  287  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  195  triples
+processing language:  lad
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  zea
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  fi
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  195  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  179  triples
+processing language:  se
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  59  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  35  triples
+processing language:  gv
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  10  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  lb
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  51  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  13  triples
+processing language:  ka
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  74  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  11  triples
+processing language:  as
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  44  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  9  triples
+processing language:  sa
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  he
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  261  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  216  triples
+processing language:  sei
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  te
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  44  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  39  triples
+processing language:  de-ch
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  30  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  rw
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  lv
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  94  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  59  triples
+processing language:  fa
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  221  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  210  triples
+processing language:  is
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  67  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  15  triples
+processing language:  nan
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  42  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  5  triples
+processing language:  cy
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  97  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  44  triples
+processing language:  en
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  473  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1219  triples
+processing language:  arz
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  40  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  zh-hk
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  97  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  5  triples
+processing language:  hi
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  91  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  34  triples
+processing language:  cs
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  217  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  217  triples
+processing language:  tl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  89  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  570  triples
+processing language:  ace
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  si
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  32  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  jbo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  zh-tw
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  77  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  10  triples
+processing language:  uz
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  76  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  11  triples
+processing language:  ur
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  109  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  32  triples
+processing language:  xh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  10  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ast
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  80  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  21  triples
+processing language:  ga
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  98  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  20  triples
+processing language:  be
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  209  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  86  triples
+processing language:  mg
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  11  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  gor
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ko-kp
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  new
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  23  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  7  triples
+processing language:  mhr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  7  triples
+processing language:  ta
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  88  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  24  triples
+processing language:  ko
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  242  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  163  triples
+processing language:  ml
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  68  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  46  triples
+processing language:  lij
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  nap
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  5  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  pnb
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  48  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  crh-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  el
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  169  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  49  triples
+processing language:  mo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  mt
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  14  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  iu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  ext
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  9  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  ce
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  zh-hant
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  165  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  30  triples
+processing language:  bn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  135  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  25  triples
+processing language:  li
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  sk
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  100  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  80  triples
+processing language:  bm
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  tum
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  war
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  29  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  rue
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  9  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  gom-deva
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ms
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  130  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  57  triples
+processing language:  pam
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  16  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  8  triples
+processing language:  kw
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  mr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  60  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  12  triples
+processing language:  ps
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  44  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  wa
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  17  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  8  triples
+processing language:  sw
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  52  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  21  triples
+processing language:  nn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  80  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  74  triples
+processing language:  gom
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  sl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  256  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  239  triples
+processing language:  da
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  187  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  124  triples
+processing language:  oc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  47  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  13  triples
+processing language:  udm
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  vi
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  172  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  100  triples
+processing language:  dsb
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  yi
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  52  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  38  triples
+processing language:  roa-tara
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  gpe
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  hy
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  131  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  28  triples
+processing language:  avk
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ady
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  nds-nl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  or
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  25  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  9  triples
+processing language:  af
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  69  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  9  triples
+processing language:  ceb
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  22  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  9  triples
+processing language:  lt
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  105  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  40  triples
+processing language:  pfl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ia
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  36  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  11  triples
+processing language:  sco
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  49  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  lfn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  34  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  nov
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bg
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  124  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  60  triples
+processing language:  ms-arab
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  14  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  dz
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ki
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  hak
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  11  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  sr-el
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  59  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bi
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tt
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  50  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  20  triples
+processing language:  hsb
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  21  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  16  triples
+processing language:  kn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  39  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  syl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  ak
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  14  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  jam
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  7  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ig
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  22  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  12  triples
+processing language:  mdf
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  su
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  20  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  6  triples
+processing language:  so
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  29  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  gan
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  atj
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  pi
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  nqo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  en-ca
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  65  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  12  triples
+processing language:  bar
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  18  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  6  triples
+processing language:  pap
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  15  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  min
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ny
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  sd
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  20  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  8  triples
+processing language:  gsw
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  31  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  5  triples
+processing language:  cv
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  21  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  qu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  18  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  30  triples
+processing language:  zh-mo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  15  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  ckb
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  68  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  14  triples
+processing language:  lld
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  stq
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  hyw
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  11  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  sms
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  57  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  9  triples
+processing language:  kbd
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ie
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  9  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  ary
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  17  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  jv
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  35  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  ts
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bs
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  70  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  17  triples
+processing language:  th
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  114  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  113  triples
+processing language:  sat
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  14  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  lo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  16  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  ne
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  55  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  an
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  27  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  7  triples
+processing language:  sah
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  16  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  13  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  bho
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  13  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  5  triples
+processing language:  ky
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  41  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  9  triples
+processing language:  kab
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ro
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  132  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  41  triples
+processing language:  de-at
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  zh-my
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  14  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  tt-cyrl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  17  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  14  triples
+processing language:  sq
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  66  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  22  triples
+processing language:  inh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  anp
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  zh-cn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  105  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  15  triples
+processing language:  mi
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  16  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  nds
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  26  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  mrj
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  en-gb
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  97  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  77  triples
+processing language:  sc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  23  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  mzn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  16  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  10  triples
+processing language:  krj
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  7  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  7  triples
+processing language:  vro
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  6  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  mcn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  7  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  vep
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  fur
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ba
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  29  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  nso
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  sn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  20  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  ti
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  gu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  15  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  cdo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  18  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  frp
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  5  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  azb
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  27  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  nrm
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  gcr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  9  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  rgn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  en-us
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  frr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  6  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kbp
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  6  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  fo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  13  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  7  triples
+processing language:  sje
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  olo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  nah
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  dag
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  16  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  6  triples
+processing language:  cu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ha
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  25  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  mai
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  vls
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  lzh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  13  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  pms
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  nv
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  mni
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  bxr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  9  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tg-cyrl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  aeb-arab
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  gd
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  16  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  ilo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  5  triples
+processing language:  fj
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ty
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  zgh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  pwn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  mad
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  io
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  47  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  map-bms
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ku-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  22  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  5  triples
+processing language:  dty
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kcg
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  12  triples
+processing language:  ik
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  myv
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  11  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  sgs
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ryu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  xmf
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  31  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  vo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  14  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  ksh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  fon
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tay
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  5  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tpi
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ku-arab
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  5  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  km
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  kg
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  diq
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  37  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tt-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  sg
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ks
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  7  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  rmc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tk
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ban
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  ln
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  pag
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  6  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  glk
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  crh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  7  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ang
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  10  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  zu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  22  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  mos
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  2  triples
+processing language:  yo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  10  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  6  triples
+processing language:  ug
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  5  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  hif
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bjn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  ami
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  krc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  lrc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kk-cn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  scn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  32  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  12  triples
+processing language:  ltg
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  smj
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  10  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  sma
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  6  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ay
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  7  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  szy
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  zh-sg
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  56  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  koi
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  cbk-zam
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ff
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  arc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  10  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  4  triples
+processing language:  mwl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  5  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  av
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  tyv
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  mnw
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  gn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  16  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  frc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  gom-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ee
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tok
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  6  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  7  triples
+processing language:  pih
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kk-cyrl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ab
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  gan-hant
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  gur
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tw
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  6  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  rup
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  gag
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  chy
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  csb
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  lez
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  lg
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  pcd
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  wo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  srn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  brh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kaa
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bpy
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kv
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  eml
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  13  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  skr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  trv
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  pdc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  5  triples
+processing language:  om
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  5  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kk-arab
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  shi
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  6  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  16  triples
+processing language:  na
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ug-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  awa
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  dv
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  8  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  to
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  lbe
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ruq-cyrl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  rm
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tcy
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  3  triples
+processing language:  za
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  guw
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ss
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  pap-aw
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kk-kz
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  hil
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  kea
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  rki
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kk-tr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  es-419
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tly
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kk-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  12  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  st
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  liv
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  shn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bug
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  cr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  dtp
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bgn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  gan-hans
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  xal
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  alt
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  haw
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  fit
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  got
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tet
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bbc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  blk
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  pnt
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  sjd
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  arq
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  pdt
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  sdc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  rmf
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  4  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  nod
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  grc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ve
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  hif-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  gya
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  shy-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  agq
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  din
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  guc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tg-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  nia
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  2  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  cps
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kri
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  pcm
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  sju
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  vmf
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  rn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bto
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  mag
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  jut
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bew
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  simple
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  1  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bbc-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  qug
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  hz
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  srq
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ybb
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  nys
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  sh-cyrl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  arn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  sli
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ike-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  mh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  nan-hani
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tru
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ho
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  vot
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  cho
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ota
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ike-cans
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bas
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  no
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  aeb-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  fmp
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  shi-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ses
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  niu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ks-arab
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  rwr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  aeb
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  3  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  1  triples
+processing language:  prg
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  yas
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  byv
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kjp
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  sdh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  eto
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  nnh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  fat
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ii
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  aa
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  lzz
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ruq
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tzm
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  vut
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  hno
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  isu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  shy
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  hrx
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  wls
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bcc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  egl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  aln
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  krl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ug-arab
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bdr
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  loz
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  dga
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  luz
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  lns
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ady-cyrl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ng
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  khw
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  lem
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kus
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bkh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  rif
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kj
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  yat
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  dua
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  lki
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  crh-cyrl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  lus
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kbd-cyrl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  sty
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ruq-latn
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  mus
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ban-bali
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  uz-cyrl
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  kiu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bkm
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  shi-tfng
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bax
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bbj
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ker
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bqi
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ewo
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  mcp
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  wes
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ks-deva
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  nmg
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  cnh
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bkc
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  tvu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  bag
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  mua
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  gaa
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  yav
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  ase
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
+processing language:  etu
+	For predicate:  http://www.w3.org/2000/01/rdf-schema#label
+			found  0  triples
+	For predicate:  http://www.w3.org/2004/02/skos/core#altLabel
+			found  0  triples
