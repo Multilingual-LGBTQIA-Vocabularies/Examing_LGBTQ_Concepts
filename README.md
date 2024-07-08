@@ -6,8 +6,10 @@
 Welcome to the project. We study the links between LGBTQ+ ontologies and structured
 vocabularies. More spcifically, we focus on GSSO, Homosaurus, QLIT, and Wikidata.
 The code is free for use with the license CC-BY 4.0. You can resue/extend the code
-for free as long as you give credits to us in your publication/data. Persistent ID
-and citation information will be added after the corresponding paper gets accepted.
+for free as long as you give credits to us in your publication/data. Citation
+information will be added after the corresponding paper gets accepted. If you are
+citing this dataset, please use the DOI: 10.5281/zenodo.12684869. The paper is
+under submission and will be added after being accepted.
 
 ## Step 1: Preparing the data
 
@@ -19,7 +21,7 @@ In this project, the following datasets were used:
 - GSSO: we used gsso.owl (version 2.0.10) obtained from its Github (https://github.com/Superraptor/GSSO).
 - LCSH was obtained from the official website: https://id.loc.gov/authorities/subjects.html on 9th May, 2024. The LCSH data was converted to its HDT format.
 
-Please use the put the corresponding files in the following folders (and change its names where necessary) to make sure that the Python scripts can find your code.
+Please put the corresponding files in the following folders (and change its names where necessary) to make sure that the Python scripts can find your code.
 
 - ./data/GSSO/gsso.owl
 - ./data/Homosaurus/v2.ttl and ./data/Homosaurus/v3.ttl
@@ -44,7 +46,7 @@ The generated files are:
 - 'wikidata-qlit-links.nt'
 - 'wikidata-lcsh-links-all.nt'
 
-Please note that the case of Wikdiata-LCSH is more copmlicated: there are so many links that are nothing to do with the entities in our scope. We restrict it to only entities in the scope of this paper. See below for more details.
+Please note that the case of Wikdiata-LCSH is more complicated: there are so many links that are nothing to do with the entities in our scope. We restrict it to only entities in the scope of this paper. See below for more details.
 
 
 You can find all the scripts in the corresponding folder in the data folder.
@@ -97,7 +99,7 @@ Three examples were given. The first two is about discovering missing links. The
 
 - The script ./discover_missing_links/find_qlit_outdated_links/ is used to discover the outdated links between QLIT and Homosaurus v3. There was only one link found.
 
-- The 105 potentially missing links were taken for further review by Swedish-speaking experts from the QLIT team, which showed that 78 (72.38%) suggested links should be included: 38 (36.19%) can be included using skos:exactMatch and another 38 (36.19%) using skos:closeMatch. 28 (26.67%) suggested links are incorrect. The manual annotation are included in the file ./discover_missing_links/Annotated_found_new_links_qlit-lcsh.xlsx. 
+- The 105 potentially missing links were taken for further review by Swedish-speaking experts from the QLIT team, which showed that 78 (72.38%) suggested links should be included: 38 (36.19%) can be included using skos:exactMatch and another 38 (36.19%) using skos:closeMatch. 28 (26.67%) suggested links are incorrect. The manual annotation are included in the file ./discover_missing_links/Annotated_found_new_links_qlit-lcsh.xlsx.
 
 ## Multilingual Information Reuse
 
@@ -154,7 +156,7 @@ Some analysis about the replacement relations of Homosaurus is in the folder ./d
 Finally, some additional analysis is included in the folder ./analysis_integrated_graph. Currently there is only one that is about outdated entities in Homosaurus v3. Some more analysis will be added in the future.
 
 
-## Acknowledgements
+## Acknowledgement
 The authors appreciate the help of the following researchers:
 - Siska Humlesjö, QLIT, Göteborgs Universitet (siska.humlesjo@lir.gu.se)
 - Olov Kriström, former member of QLIT
