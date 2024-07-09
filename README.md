@@ -24,7 +24,7 @@ the integrated data is NOT included. However, it can be easily reproduced for re
 of the results. The integrated data is also available upon request from the authors as well
 as the members of QLIT, IHLIA, and GSSO (see the Contact and Acknowledgement section below).
 
--./analysis_integrated_graph/ consists of Python scripts for analyzing the integrated graph.
+- ./analysis_integrated_graph/ consists of Python scripts for analyzing the integrated graph.
 
 - ./discover_missing_links/ consists of the scripts for the discovery of missing links using
 Weakly Connected Components. The missing links were revised by Swedish-speaking experts in
@@ -32,7 +32,7 @@ the QLIT team. See below for more details.
 
 - ./SPARQL/ is the directory where all the SPARQL queries can be found.
 
-- There are three folders for the analysis of multilingual information reuse: ./WCC-based_gsso_multilingual_info_reuse, ./WCC-based_wikidata_multilingual_info_reuse/ ./WCC-based-QLIT-info-reuse-from-Wikidata. Additionally, there is some tests for GSSO in the folder ./additional_test_gsso_multilingual_info_reuse. You can find more detials below.
+- There are three folders for the analysis of multilingual information reuse: ./WCC-based_gsso_multilingual_info_reuse, ./WCC-based_wikidata_multilingual_info_reuse/ ./WCC-based-QLIT-info-reuse-from-Wikidata. Additionally, there is some tests for GSSO in the folder ./additional_test_gsso_multilingual_info_reuse. You can find more details below.
 
 
 Although we cannot include the integrated data and some intermediate data due to the strict
