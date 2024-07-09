@@ -11,6 +11,43 @@ information will be added after the corresponding paper gets accepted. If you ar
 citing this dataset, please use the DOI: 10.5281/zenodo.12684869. The paper is
 under submission and will be added after being accepted.
 
+## This repository is organised as follows:
+
+- ./data/ consists of datasets retrieved from the websites of GSSO, Homosaurus, QLIT,
+LCSH, Wikidata, etc. In the directories of each folder, you can also find also the scripts
+for pre-processing and the resulting data in different formats. Files about redirection of
+entities in Homosaurus can also be found here.
+
+- ./integrated_data/ is the repository where the integrated data supposed to be located if
+you follow the steps below. Due to the strict CC-BY-NC-ND license of GSSO and Homosaurus,
+the integrated data is NOT included. However, it can be easily reproduced for reproduction
+of the results. The integrated data is also available upon request from the authors as well
+as the members of QLIT, IHLIA, and GSSO (see the Contact and Acknowledgement section below).
+
+-./analysis_integrated_graph/ consists of Python scripts for analyzing the integrated graph.
+
+- ./discover_missing_links/ consists of the scripts for the discovery of missing links using
+Weakly Connected Components. The missing links were revised by Swedish-speaking experts in
+the QLIT team. See below for more details.
+
+- ./SPARQL/ is the directory where all the SPARQL queries can be found.
+
+- There are three folders for the analysis of multilingual information reuse: ./WCC-based_gsso_multilingual_info_reuse, ./WCC-based_wikidata_multilingual_info_reuse/ ./WCC-based-QLIT-info-reuse-from-Wikidata. Additionally, there is some tests for GSSO in the folder ./additional_test_gsso_multilingual_info_reuse. You can find more detials below.
+
+
+Although we cannot include the integrated data and some intermediate data due to the strict
+license of GSSO and Homosaurus, below is a step-by-step guide for the reproduction of the results.
+It is easy to generate all the results presented in the paper. So far, the discovered
+links have been revised by experts from QLIT. The other discovered links and reported mistaken links
+are being revised by the LGBTQ+ structured vocabulary community. It can take some time for the community
+to decide what to remove and what to add. All the scripts are free to be used for examination and
+evaluation of future versions of GSSO, Homosaurus, Wikidata, QLIT, and others.
+
+If you would like to help evaluate the newly discovered labels for entities for a language you
+can speak fluently (native speaker or confident with professional use), please let us know.
+
+
+
 ## Step 1: Preparing the data
 
 In this project, the following datasets were used:
@@ -130,7 +167,7 @@ For GSSO, we use the following relations:
 - https://schema.org/alternateName
 - http://www.w3.org/2002/07/owl#annotatedTarget
 
-Additioinally, we found the relation to be studied in the future: http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym
+Additionally, we found the relation to be studied in the future: http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym
 
 For Wikidata, there are only two:
 - http://www.w3.org/2000/01/rdf-schema#label
