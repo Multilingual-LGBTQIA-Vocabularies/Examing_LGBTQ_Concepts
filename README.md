@@ -11,6 +11,10 @@ information will be added after the corresponding paper gets accepted. If you ar
 citing this dataset, please use the DOI: 10.5281/zenodo.12684869. The paper is
 under submission and will be added after being accepted.
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12684870.svg)](https://doi.org/10.5281/zenodo.12684870)
+
+
 ## This repository is organised as follows:
 
 - ./data/ consists of datasets retrieved from the websites of GSSO, Homosaurus, QLIT,
