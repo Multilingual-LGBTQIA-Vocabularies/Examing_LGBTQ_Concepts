@@ -8,8 +8,8 @@ vocabularies. More spcifically, we focus on GSSO, Homosaurus, QLIT, and Wikidata
 The code is free for use with the license CC-BY 4.0. You can resue/extend the code
 for free as long as you give credits to us in your publication/data. Citation
 information will be added after the corresponding paper gets accepted. If you are
-citing this dataset, please use the DOI: 10.5281/zenodo.12684869. The paper is
-under submission and will be added after being accepted.
+citing this dataset, please use the DOI: 10.5281/zenodo.12684869. The paper has 
+been presented at the [EKAW](https://doi.org/10.1007/978-3-031-77792-9_1) conference.
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12684870.svg)](https://doi.org/10.5281/zenodo.12684870)
